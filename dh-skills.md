@@ -19,10 +19,11 @@ title: DH+ Skills
 
 ## Coding foundations {#coding-foundations}
 
-Basic programming ideas and workflows that support humanities research. 
+Basic programming ideas and workflows that support media, arts, and humanities research. 
 
 <details markdown="1">
 <summary>Why learn some coding?</summary>
+  
 Why are we learning coding in the first place? There are all kinds of reasons, but here are just a few. Well, once you’ve got to an intermediary level, you might …
 
 - **Automate mundane tasks** — renaming files, batch-processing images or texts, extracting information from many sources, etc.
@@ -57,15 +58,16 @@ Why are we learning coding in the first place? There are all kinds of reasons, b
 
 ## Data collection {#web-methods}
 
-Scraping the web is one important way of collecting data. Other forms of data collection include conducting interviews, quering APIs, deploying microphones or other sensors to record activities, giving research participants prompts or challenges, inviting participants them to participate in playful activities, autoethnographic reflection, etc.
+Scraping the web is one important way of collecting data. Other forms of data collection include conducting interviews, querying APIs, deploying microphones or other sensors to record activities, giving research participants prompts or challenges, inviting participants them to participate in playful activities, autoethnographic reflection, etc.
 
 <details markdown="1">
 <summary>What's an API?</summary>
+  
 - APIs (Application Programming Interfaces) are another common route to collect data: they are ways for one piece of software to ask another for data in a structured and documented way. Instead of copying information from web pages, researchers can use APIs to request specific data directly from a database, or some other service.
 - An API is both a piece of software running on a remote computer, which makes certain things publicly “visible,” and a set of rules for how other programs interact with it.
 - You’ll often hear people say that a platform “has an API” or “has a good API”. What this usually means is that the platform has published a set of rules for how your code can interact with their system. An API is not something you download or install. It’s a set of instructions, usually described on a webpage, that explains how to ask a service for information or tell it to do something on your behalf. Instead of clicking around on a website or app yourself, you can use code to ask a service for data or to perform an action, following rules it publishes for developers.
 - The “things” involved might be your code (e.g. your Python code) on your machine, and then some remote service on the other—e.g. it might be a digital archive, a database, etc. Twitter used to have a good API which meant it was possible to select and download data and perform analyses, but that’s no longer the case -- the kind of research that used to be possible no longer is.
-- With an API, your code can “talk” to the remote resource -- e.g. using Python or other code to ask “give me the titles of these records” or “search for items matching these terms,” and receiving a structured response that your code can then work with. 
+- With an API, your code can “talk” to the remote resource -- e.g. using Python or other code to ask “give me the titles of these records” or “search for items matching these terms,” and receiving a structured response that your code can then work with.
 - In practice, as a a user, this sometimes looks like copying an example from the service’s documentation, pasting it into your code, and seeing data come back, rather than interacting through a web page by hand.
 - You encounter APIs when you want to automate or scale something you could otherwise do manually—querying a catalogue, collecting data, or feeding information from one system into another—without clicking around in a browser each time.
 </details>
@@ -104,6 +106,11 @@ Digitisation converts physical materials into digital forms that can be searched
 ## Data cleaning {#data-work}
 
 Research projects often follow a pattern: data is collected. Then it is "cleaned" so that it can be analysed by digital methods (e.g. topic modelling, network analysis). Then it is analysed and disseminated. Visualisation (see below) can also be part of the process - either part of the analysis, and/or part of the dissemination.
+
+<details markdown="1">
+<summary>What are 'regular expressions'?</summary>
+Regular expressions (often called regex) are a way of describing patterns in text, such as “any email address” or “all dates written in a certain format.” They are used to search, filter, and clean text by matching those patterns, rather than looking for exact words or characters. Basically it's like a super-powered "find/replace" type function that you'd use in a Word Processer, except when you get deep it can feel a bit like writing code.
+</details>
 
 <details markdown="1">
 <summary>Resources</summary>
