@@ -57,11 +57,11 @@ Why are we learning coding in the first place? There are all kinds of reasons, b
 
 ## Data collection {#web-methods}
 
-Scraping the web is one important way of collecting data. Other forms of data collection include conducting interviews, deploying microphones or other sensors to record activities, giving participants prompts or challenges or inviting them to participate in playful activities, autoethnographic reflection, etc.
+Scraping the web is one important way of collecting data. Other forms of data collection include conducting interviews, quering APIs, deploying microphones or other sensors to record activities, giving research participants prompts or challenges, inviting participants them to participate in playful activities, autoethnographic reflection, etc.
 
 <details markdown="1">
 <summary>What's an API?</summary>
-- **APIs (Application Programming Interfaces)** are another common route to collect data: they are ways for one piece of software to ask another for data in a structured and documented way. Instead of copying information from web pages, researchers can use APIs to request specific data directly from a database, or some other service.
+- APIs (Application Programming Interfaces) are another common route to collect data: they are ways for one piece of software to ask another for data in a structured and documented way. Instead of copying information from web pages, researchers can use APIs to request specific data directly from a database, or some other service.
 - An API is both a piece of software running on a remote computer, which makes certain things publicly “visible,” and a set of rules for how other programs interact with it.
 - You’ll often hear people say that a platform “has an API” or “has a good API”. What this usually means is that the platform has published a set of rules for how your code can interact with their system. An API is not something you download or install. It’s a set of instructions, usually described on a webpage, that explains how to ask a service for information or tell it to do something on your behalf. Instead of clicking around on a website or app yourself, you can use code to ask a service for data or to perform an action, following rules it publishes for developers.
 - The “things” involved might be your code (e.g. your Python code) on your machine, and then some remote service on the other—e.g. it might be a digital archive, a database, etc. Twitter used to have a good API which meant it was possible to select and download data and perform analyses, but that’s no longer the case -- the kind of research that used to be possible no longer is.
@@ -87,7 +87,7 @@ Scraping the web is one important way of collecting data. Other forms of data co
 
 ## Digitisation and OCR {#digitisation}
 
-Digitisation converts physical materials into digital forms that can be searched, analyzed, and shared. Optical Character Recognition (OCR) turns printed, typed, or handwritten text into digital text.
+Digitisation converts physical materials into digital forms that can be searched, analysed, and shared. Optical Character Recognition (OCR) turns printed, typed, or handwritten text into digital text.
 
 <details markdown="1">
 <summary>Resources</summary>
@@ -103,7 +103,7 @@ Digitisation converts physical materials into digital forms that can be searched
 
 ## Data cleaning {#data-work}
 
-Research projects often follow a pattern: data is collected. Then it is "cleaned" so that it can be analysed by digital methods. Then it is analysed and disseminated. Visualisation (see below) can also be part of the process - either part of the analysis, and/or part of the dissemination.
+Research projects often follow a pattern: data is collected. Then it is "cleaned" so that it can be analysed by digital methods (e.g. topic modelling, network analysis). Then it is analysed and disseminated. Visualisation (see below) can also be part of the process - either part of the analysis, and/or part of the dissemination.
 
 <details markdown="1">
 <summary>Resources</summary>
@@ -210,7 +210,7 @@ Digital collections focus on building and maintaining collections that support r
 
 ## Visual methods {#visual-methods}
 
-Visual methods can be used to explore data-sets to look for data, and/or to communicate findings to various audiences or users.
+Visual methods can be used to explore data-sets to look for data, and/or to communicate findings to various audiences or users. We might also go beyond the visual. How can data be sonified? How can complex data be humanised, to create opportunities for learning, critique, translation, revalation, transformation, rapture, estrangement, immersion, or something else?
 
 <details markdown="1">
 <summary>Resources</summary>
@@ -273,6 +273,22 @@ Physical computing connects digital research to material devices and environment
 Development foundations introduce collaborative practices that make digital projects sustainable. Version control and shared workflows support transparency, accountability, and collective scholarship.
 
 <details markdown="1">
+<summary>How does code get 'into the world'?</summary>
+
+You’re starting to write code … what can you do with it? There are several ways code gets “deployed,” i.e. moves beyond your own machine. 
+
+a) Running code on a physical device (e.g. a Raspberry Pi)
+Python can also run on small, inexpensive computers like a Raspberry Pi. A Raspberry Pi is a standalone computer about the size of a deck of cards that you can plug into a screen, keyboard, and power supply. You can put your Python code onto the device and have it run continuously, or in response to physical inputs like buttons or sensors. This is often how Python is used in physical installations, exhibitions, workshops, or small-scale projects.
+
+b) Another relatively simple way is to put your code in a Google Colab notebook. A notebook is a document that mixes explanation, code, and output. Someone else can open it, read it like a worked example, and re-run the code step by step. With Google Colab, this happens entirely in a web browser, which makes it one of the easiest ways to share runnable code. Here’s an example, which is also an introduction to topic modelling.
+
+c) GitHub (a place to store and share code). GitHub is a platform where people store code files and keep track of changes over time. At a basic level, it’s a place to put files so others can download them, use them, see how they work, create their own versions, etc.
+
+d) Simple websites or browser-based tools. In some cases, code can be put in a website so that people can interact with it through their browser, without seeing the code at all. This doesn’t require becoming a fully fledged web developer - it’s often about using existing tools to expose something you’ve already made. (GitHub Pages can host simple web pages. There are tools like Streamlit and Flask which can help you turn Python scripts into interactive web sites).
+
+</details>
+
+<details markdown="1">
 <summary>Resources</summary>
 
 - [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github) — Guided mini-course: repos, commits, PRs, collaboration.
@@ -286,7 +302,3 @@ Development foundations introduce collaborative practices that make digital proj
 - Programming Historian: Getting Started with Markdown. "In this lesson, you will be introduced to Markdown, a plain text-based syntax for formatting documents."
 - Programming Historian: Creating GUIs in Python for Digital Humanities Projects. "In this lesson, you will use Qt Designer and Python to design and implement a simple graphical user interface and application to merge PDF files."
 </details>
-
-- Collaborating on GitHub
-
-
