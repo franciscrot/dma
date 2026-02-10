@@ -73,6 +73,18 @@ main h1 {
   padding: 1rem;
   border-radius: 16px;
   box-shadow: 0 8px 24px rgba(47, 60, 126, 0.08);
+  color: inherit;
+  display: block;
+  text-decoration: none;
+  border: 1px solid transparent;
+  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover,
+.card:focus {
+  border-color: rgba(47, 60, 126, 0.25);
+  box-shadow: 0 12px 26px rgba(47, 60, 126, 0.12);
+  transform: translateY(-2px);
 }
 
 .card h2 {

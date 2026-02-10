@@ -1,6 +1,6 @@
 title: DMA Static Site
 description: "Digital Media and Arts overview"
-baseurl: ""
+baseurl: "/dma"
 url: ""
 markdown: kramdown
 theme: minima
