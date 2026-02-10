@@ -74,17 +74,18 @@ Scraping the web is one important way of collecting data. Other forms of data co
 
 <details markdown="1">
 <summary>Resources</summary>
+  
+- Programming Historian: [Beginner’s Guide to Twitter Data](https://programminghistorian.org/en/lessons/beginners-guide-to-twitter-data). “Learn how to acquire Twitter data and process them to make them usable for further analysis.”
+- Programming Historian: [An Introduction to Twitterbots with Tracery](https://programminghistorian.org/en/lessons/an-introduction-to-twitterbots-with-tracery). “This lesson explains how to create simple twitterbots using Tracery and the Cheap Bots Done Quick service.”
+- Programming Historian: [Downloading Web Pages with Python](https://programminghistorian.org/en/lessons/downloading-web-pages-with-python). “This lesson introduces Uniform Resource Locators (URLs) and explains how to use Python to download and save the contents of a web page to your local hard drive.”
+- Programming Historian: [From HTML to a List of Words (part 1)](https://programminghistorian.org/en/lessons/from-html-to-a-list-of-words-1). “We introduce looping and branching so that programs can repeat tasks and test for certain conditions, making it possible to separate the content from the HTML tags.”
+- Programming Historian: [From HTML to a List of Words (part 2)](https://programminghistorian.org/en/lessons/from-html-to-a-list-of-words-2). “In this lesson, you will learn the Python commands needed to implement the second part of the algorithm begun in the lesson ‘From HTML to a List of Words (part 1)’.”
+- Programming Historian: [Normalizing Textual Data with Python](https://programminghistorian.org/en/lessons/normalizing-textual-data-with-python). “In this lesson, we will make the list we created in the ‘From HTML to a List of Words’ lesson easier to analyze by normalizing this data.”
+- Programming Historian: [Downloading Multiple Records Using Query Strings](https://programminghistorian.org/en/lessons/downloading-multiple-records-using-query-strings). “In this lesson, we will write a program that will download a series of records from the Old Bailey Online using custom search criteria.”
+- Programming Historian: [Automated Downloading with Wget](https://programminghistorian.org/en/lessons/automated-downloading-with-wget). “Wget is a useful program, run through your computer’s command line, for retrieving online material.”
+- Programming Historian: [Applied Archival Downloading with Wget](https://programminghistorian.org/en/lessons/applied-archival-downloading-with-wget). “This lesson expands web-scraping skills through a few more lessons that focus on other uses for Wget’s recursive retrieval function.”
+- Programming Historian: [Data Mining the Internet Archive Collection](https://programminghistorian.org/en/lessons/data-mining-the-internet-archive). “This lesson teaches you how to use Python to automate the downloading of large numbers of MARC files from the Internet Archive and parse MARC records.”
 
-- Programming Historian: Beginner's Guide to Twitter Data. "Learn how to acquire Twitter data and process them to make them usable for further analysis."
-- Programming Historian: An Introduction to Twitterbots with Tracery. "This lesson explains how to create simple twitterbots using Tracery and the Cheap Bots Done Quick service."
-- Programming Historian: Downloading Web Pages with Python. "This lesson introduces Uniform Resource Locators (URLs) and explains how to use Python to download and save the contents of a web page to your local hard drive."
-- Programming Historian: From HTML to List of Words (part 1). "We introduce looping and branching so that programs can repeat tasks and test for certain conditions, making it possible to separate the content from the HTML tags."
-- Programming Historian: From HTML to List of Words (part 2). "In this lesson, you will learn the Python commands needed to implement the second part of the algorithm begun in the lesson ‘From HTML to a List of Words (part 1)’."
-- Programming Historian: Normalizing Textual Data with Python. "In this lesson, we will make the list we created in the ‘From HTML to a List of Words’ lesson easier to analyze by normalizing this data."
-- Programming Historian: Downloading Multiple Records Using Query Strings. "In this lesson, we will write a program that will download a series of records from the Old Bailey Online using custom search criteria."
-- Programming Historian: Automated Downloading with Wget. "Wget is a useful program, run through your computer’s command line, for retrieving online material."
-- Programming Historian: Applied Archival Downloading with Wget. "This lesson expands web-scraping skills through a few more lessons that focus on other uses for Wget’s recursive retrieval function."
-- Programming Historian: Data Mining the Internet Archive Collection. "This lesson teaches you how to use Python to automate the downloading of large numbers of MARC files from the Internet Archive and parse MARC records."
 </details>
 
 ## Digitisation and OCR {#digitisation}
@@ -94,13 +95,13 @@ Digitisation converts physical materials into digital forms that can be searched
 <details markdown="1">
 <summary>Resources</summary>
 
-- Programming Historian: OCR with Google Vision API and Tesseract. "Google Vision and Tesseract are both popular and powerful OCR tools, but they each have their weaknesses."
-- Programming Historian: Transcribing Handwritten Text with Python and Microsoft Azure Computer Vision. "This lesson will explain how to write a Python program to transcribe handwritten documents using Microsoft’s Azure Cognitive Services."
-- Programming Historian: Working with batches of PDF files. "Learn how to perform OCR and text extraction with free command line tools like Tesseract and Poppler and how to get an overview of large numbers of PDF documents using topic modeling."
-- Programming Historian: Extracting Illustrated Pages from Digital Libraries with Python. "This lesson shows how to efficiently extract page regions of visual interest from digitized volumes."
-- Programming Historian: Introduction to Audiovisual Transcoding, Editing, and Color Analysis with FFmpeg. "This lesson introduces the basic functions of FFmpeg, a free command-line tool used for manipulating and analyzing audiovisual materials."
-- Programming Historian: Editing Audio with Audacity. "In this lesson you will learn how to use Audacity to load, record, edit, mix, and export audio files."
-- Programming Historian: Cleaning OCR’d text with Regular Expressions. "This lesson will help you clean up OCR’d text to make it more usable."
+- Programming Historian: [OCR with Google Vision API and Tesseract](https://programminghistorian.org/en/lessons/ocr-with-google-vision-api-and-tesseract). “Google Vision and Tesseract are both popular and powerful OCR tools, but they each have their weaknesses.”
+- Programming Historian: [Transcribing Handwritten Text with Python and Microsoft Azure Computer Vision](https://programminghistorian.org/en/lessons/transcribing-handwritten-text-with-python-and-microsoft-azure-computer-vision). “This lesson will explain how to write a Python program to transcribe handwritten documents using Microsoft’s Azure Cognitive Services.”
+- Programming Historian: [Working with Batches of PDF Files](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files). “Learn how to perform OCR and text extraction with free command line tools like Tesseract and Poppler and how to get an overview of large numbers of PDF documents using topic modeling.”
+- Programming Historian: [Extracting Illustrated Pages from Digital Libraries with Python](https://programminghistorian.org/en/lessons/extracting-illustrated-pages-from-digital-libraries-with-python). “This lesson shows how to efficiently extract page regions of visual interest from digitized volumes.”
+- Programming Historian: [Introduction to Audiovisual Transcoding, Editing, and Color Analysis with FFmpeg](https://programminghistorian.org/en/lessons/introduction-to-audiovisual-transcoding-editing-and-color-analysis-with-ffmpeg). “This lesson introduces the basic functions of FFmpeg, a free command-line tool used for manipulating and analyzing audiovisual materials.”
+- Programming Historian: [Editing Audio with Audacity](https://programminghistorian.org/en/lessons/editing-audio-with-audacity). “In this lesson you will learn how to use Audacity to load, record, edit, mix, and export audio files.”
+
 </details>
 
 ## Data cleaning {#data-work}
@@ -121,34 +122,34 @@ Regular expressions (often called regex) are a way of describing patterns in tex
 - Data Carpentry: [SQL for Ecologists](https://datacarpentry.org/sql-ecology-lesson/) — Intro SQL queries using research-style datasets.
 - Library Carpentry: [Introduction to Regular Expressions](https://librarycarpentry.github.io/lc-data-intro/) — Regex basics for searching and cleaning text data.
 - Library Carpentry: [Introduction to FAIR Data](https://librarycarpentry.github.io/lc-fair-data/) — Intro to FAIR principles for research data management.
-  
+- Programming Historian: [Cleaning OCR’d Text with Regular Expressions](https://programminghistorian.org/en/lessons/cleaning-ocrd-text-with-regular-expressions). “This lesson will help you clean up OCR’d text to make it more usable.”
 - Harvard CS50: [Introduction to Programming with R](https://cs50.harvard.edu/r) — Intro R course: data, vectors, functions, and RStudio.
 - DataCamp: [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) — Free interactive intro to R basics and data structures.
 - Software Carpentry: [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/) — Intro R for non-programmers using gapminder data.
-- [swirl: Learn R, in R](https://swirlstats.com/) — Interactive R lessons that run inside the R console.
-- [Posit: Posit Recipes (R)](https://posit.cloud/learn/recipes) — Practical R “how-to” recipes for common tasks.
-- [Posit: Posit Cheatsheets](https://posit.co/resources/cheatsheets/) — Fast reference sheets for common R packages.
+- swirl: [Learn R, in R](https://swirlstats.com/) — Interactive R lessons that run inside the R console.
+- Posit: [Posit Recipes (R)](https://posit.cloud/learn/recipes) — Practical R “how-to” recipes for common tasks.
+- Posit: [Posit Cheatsheets](https://posit.co/resources/cheatsheets/) — Fast reference sheets for common R packages.
 - Library Carpentry: [Library Carpentry Lessons](https://librarycarpentry.org/lessons/) — DH-adjacent skills: data cleaning, OpenRefine, Git basics.
 - Library Carpentry: [OpenRefine](https://librarycarpentry.github.io/lc-open-refine/) — Intro to cleaning, reconciling, and transforming messy data.
-- Programming Historian: Introduction to Encoding Texts in TEI (Part 1). "This lesson teaches you the basics of using TEI-XML to encode texts, and demonstrates how to create a minimal TEI document."
-- Programming Historian: Transforming Data for Reuse and Re-publication with XML and XSL. "This tutorial will provide you with the ability to convert or transform historical data from an XML database into a variety of different presentations."
-- Programming Historian: Introduction to the Principles of Linked Open Data. "Introduces core concepts of Linked Open Data, including URIs, ontologies, RDF formats, and a gentle intro to the graph query language SPARQL."
-- Programming Historian: Data Wrangling and Management in R. "This tutorial explores how scholars can organize ‘tidy’ data, understand R packages to manipulate data, and conduct basic data analysis."
-- Programming Historian: R Basics with Tabular Data. "This lesson teaches a way to quickly analyze large volumes of tabular data, making research faster and more effective."
-- Programming Historian: Cleaning Data with OpenRefine. "This tutorial focuses on how scholars can diagnose and act upon the accuracy of data."
-- Programming Historian: Fetching and Parsing Data from the Web with OpenRefine. "OpenRefine is a powerful tool for exploring, cleaning, and transforming data. In this lesson you will learn how to use Refine to fetch URLs and parse web content."
-- Programming Historian: Crowdsourced-Data Normalization with Python and Pandas. "This lesson describes crowdsourcing as a form of data creation as well as how pandas can be used to prepare a crowdsourced dataset for analysis."
-- Programming Historian: Understanding Regular Expressions. "In this lesson, we will use advanced find-and-replace capabilities in a word processing application in order to make use of structure in a brief historical document that is essentially a table in the form of prose."
-- Programming Historian: Reshaping JSON with jq. "Working with data from an art museum API and from the Twitter API, this lesson teaches how to use the command-line utility jq to filter and parse complex JSON files into flat CSV files."
-- Programming Historian: Introduction to MySQL with R. "This lesson will help you store large amounts of historical data in a structured manner, search and filter that data, and visualize some of the data as a graph."
-- Programming Historian: Counting and mining research data with Unix. "This lesson will look at how research data, when organised in a clear and predictable manner, can be counted and mined using the Unix shell."
-- Programming Historian: Transliterating non-ASCII characters with Python. "This lesson shows how to use Python to transliterate automatically a list of words from a language with a non-Latin alphabet to a standardized format using ASCII characters."
-- Programming Historian: Scalable Reading of Structured Data. "In this lesson, you will be introduced to ‘scalable reading’ and how to apply this workflow to your analysis of structured data."
-- Programming Historian: Generating an Ordered Data Set from an OCR Text File. "This tutorial illustrates strategies for taking raw OCR output from a scanned text, parsing it to isolate and correct essential elements of metadata, and generating an ordered data set (a python dictionary) from it."
-- Programming Historian: Correspondence Analysis for Historical Research with R. "This tutorial explains how to carry out and interpret a correspondence analysis, which can be used to identify relationships within categorical data."
-- Programming Historian: Regression Analysis with Scikit-Learn (part 1 - Linear). "This lesson provides an overview of linear regression and walks through running both algorithms in Python (using scikit-learn)."
-- Programming Historian: Regression Analysis with Scikit-learn (part 2 - Logistic). "This lesson provides an overview of logistic regression, how to use Python (scikit-learn) to make a logistic regression model."
-- Programming Historian: Calibrating Radiocarbon Dates with R. "After reviewing the basic principles and challenges of radiocarbon dating, this lesson teaches you how to use R to calibrate a set of dates, and then explore and present your results."
+- Programming Historian: [Introduction to Encoding Texts in TEI (Part 1)](https://programminghistorian.org/en/lessons/intro-to-encoding-tei-1). “This lesson teaches you the basics of using TEI-XML to encode texts, and demonstrates how to create a minimal TEI document.”
+- Programming Historian: [Transforming Data for Reuse and Re-publication with XML and XSL](https://programminghistorian.org/en/lessons/transforming-xml-with-xsl). “This tutorial will provide you with the ability to convert or transform historical data from an XML database into a variety of different presentations.”
+- Programming Historian: [Introduction to the Principles of Linked Open Data](https://programminghistorian.org/en/lessons/intro-to-linked-open-data). “Introduces core concepts of Linked Open Data, including URIs, ontologies, RDF formats, and a gentle intro to the graph query language SPARQL.”
+- Programming Historian: [Data Wrangling and Management in R](https://programminghistorian.org/en/lessons/data-wrangling-and-management-in-r). “This tutorial explores how scholars can organize ‘tidy’ data, understand R packages to manipulate data, and conduct basic data analysis.”
+- Programming Historian: [R Basics with Tabular Data](https://programminghistorian.org/en/lessons/r-basics-with-tabular-data). “This lesson teaches a way to quickly analyze large volumes of tabular data, making research faster and more effective.”
+- Programming Historian: [Cleaning Data with OpenRefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine). “This tutorial focuses on how scholars can diagnose and act upon the accuracy of data.”
+- Programming Historian: [Fetching and Parsing Data from the Web with OpenRefine](https://programminghistorian.org/en/lessons/fetching-and-parsing-data-from-the-web-with-openrefine). “OpenRefine is a powerful tool for exploring, cleaning, and transforming data. In this lesson you will learn how to use Refine to fetch URLs and parse web content.”
+- Programming Historian: [Crowdsourced-Data Normalization with Python and Pandas](https://programminghistorian.org/en/lessons/crowdsourced-data-normalization-with-python-and-pandas). “This lesson describes crowdsourcing as a form of data creation as well as how pandas can be used to prepare a crowdsourced dataset for analysis.”
+- Programming Historian: [Understanding Regular Expressions](https://programminghistorian.org/en/lessons/understanding-regular-expressions). “In this lesson, we will use advanced find-and-replace capabilities in a word processing application in order to make use of structure in a brief historical document that is essentially a table in the form of prose.”
+- Programming Historian: [Reshaping JSON with jq](https://programminghistorian.org/en/lessons/reshaping-json-with-jq). “Working with data from an art museum API and from the Twitter API, this lesson teaches how to use the command-line utility jq to filter and parse complex JSON files into flat CSV files.”
+- Programming Historian: [Introduction to MySQL with R](https://programminghistorian.org/en/lessons/mysql-with-r). “This lesson will help you store large amounts of historical data in a structured manner, search and filter that data, and visualize some of the data as a graph.”
+- Programming Historian: [Counting and Mining Research Data with Unix](https://programminghistorian.org/en/lessons/counting-and-mining-research-data-with-unix). “This lesson will look at how research data, when organised in a clear and predictable manner, can be counted and mined using the Unix shell.”
+- Programming Historian: [Transliterating Non-ASCII Characters with Python](https://programminghistorian.org/en/lessons/transliterating-non-ascii-characters-with-python). “This lesson shows how to use Python to transliterate automatically a list of words from a language with a non-Latin alphabet to a standardized format using ASCII characters.”
+- Programming Historian: [Scalable Reading of Structured Data](https://programminghistorian.org/en/lessons/scalable-reading-of-structured-data). “In this lesson, you will be introduced to ‘scalable reading’ and how to apply this workflow to your analysis of structured data.”
+- Programming Historian: [Generating an Ordered Data Set from an OCR Text File](https://programminghistorian.org/en/lessons/generating-an-ordered-data-set-from-an-ocr-text-file). “This tutorial illustrates strategies for taking raw OCR output from a scanned text, parsing it to isolate and correct essential elements of metadata, and generating an ordered data set (a python dictionary) from it.”
+- Programming Historian: [Correspondence Analysis for Historical Research with R](https://programminghistorian.org/en/lessons/correspondence-analysis-for-historical-research-with-r). “This tutorial explains how to carry out and interpret a correspondence analysis, which can be used to identify relationships within categorical data.”
+- Programming Historian: [Regression Analysis with Scikit-Learn (Part 1 – Linear)](https://programminghistorian.org/en/lessons/regression-analysis-with-scikit-learn-part-1). “This lesson provides an overview of linear regression and walks through running both algorithms in Python (using scikit-learn).”
+- Programming Historian: [Regression Analysis with Scikit-Learn (Part 2 – Logistic)](https://programminghistorian.org/en/lessons/regression-analysis-with-scikit-learn-part-2). “This lesson provides an overview of logistic regression, how to use Python (scikit-learn) to make a logistic regression model.”
+- Programming Historian: [Calibrating Radiocarbon Dates with R](https://programminghistorian.org/en/lessons/calibrating-radiocarbon-dates-with-r). “After reviewing the basic principles and challenges of radiocarbon dating, this lesson teaches you how to use R to calibrate a set of dates, and then explore and present your results.”
 </details>
 
 ## Text & cultural analytics {#text-cultural-analytics}
