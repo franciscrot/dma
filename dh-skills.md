@@ -204,37 +204,39 @@ Digital collections focus on building and maintaining collections that support r
 <details markdown="1">
 <summary>Resources</summary>
 
-- Programming Historian: Preserving Your Research Data. "This lesson will suggest ways in which historians can document and structure their research data so as to ensure it remains useful in the future."
-- - Programming Historian: From Sources to Data: Designing a Database for the Humanities and Social Sciences with nodegoat. "This lesson teaches you how to use the nodegoat software to build a relational database for research in the humanities."
-- Programming Historian: Installing Omeka. "This lesson will teach you how to install your own copy of Omeka."
-- Programming Historian: Creating an Omeka Exhibit. "Now that you’ve added items to your Omeka site and grouped them into collections, you’re ready for the next step: taking your users on a guided tour through the items you’ve collected."
-- Programming Historian: Up and Running with Omeka.net. "Omeka.net makes it easy to create websites that show off collections of items."
+- Programming Historian: [Preserving Your Research Data](https://programminghistorian.org/en/lessons/preserving-your-research-data) — “This lesson will suggest ways in which historians can document and structure their research data so as to ensure it remains useful in the future.” 
+- Programming Historian: [From Sources to Data: Designing a Database for the Humanities and Social Sciences with nodegoat](https://programminghistorian.org/en/lessons/from-sources-to-data-designing-a-database-for-the-humanities-and-social-sciences-with-nodegoat) — “This lesson teaches you how to use the nodegoat software to build a relational database for research in the humanities.”
+- Programming Historian: [Installing Omeka](https://programminghistorian.org/en/lessons/installing-omeka) — “This lesson will teach you how to install your own copy of Omeka.” 
+- Programming Historian: [Creating an Omeka Exhibit](https://programminghistorian.org/en/lessons/creating-an-omeka-exhibit) — “Now that you’ve added items to your Omeka site and grouped them into collections, you’re ready for the next step: taking your users on a guided tour through the items you’ve collected.” 
+- Programming Historian: [Up and Running with Omeka.net](https://programminghistorian.org/en/lessons/up-and-running-with-omeka) — “Omeka.net makes it easy to create websites that show off collections of items.” 
 - GitHub Docs: [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart) — Publish a simple website directly from a repository.
-- Programming Historian: Building a static website with Jekyll and GitHub Pages. "This lesson will help you create entirely free, easy-to-maintain, preservation-friendly, secure website over which you have full control."
-- Programming Historian: Running a Collaborative Research Website and Blog with Jekyll and GitHub. "This lesson introduces the challenges and opportunities that Jekyll offers for publishing collaborative, ongoing research online."
-- Programming Historian: Introduction to Populating a Website with API Data. "This lesson introduces a way to populate a website with data obtained from another website via an Application Programming Interface (API)."
+- Programming Historian: [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) — “This lesson will help you create entirely free, easy-to-maintain, preservation-friendly, secure website over which you have full control.” 
+- Programming Historian: [Running a Collaborative Research Website and Blog with Jekyll and GitHub](https://programminghistorian.org/en/lessons/running-a-collaborative-research-website-and-blog-with-jekyll-and-github) — “This lesson introduces the challenges and opportunities that Jekyll offers for publishing collaborative, ongoing research online.” 
+- Programming Historian: [Introduction to Populating a Website with API Data](https://programminghistorian.org/en/lessons/introduction-to-populating-a-website-with-api-data) — “This lesson introduces a way to populate a website with data obtained from another website via an Application Programming Interface (API).” :contentReference[oaicite:7]{index=7}
+
 </details>
 
 ## Visual methods {#visual-methods}
 
-Visual methods can be used to explore data-sets to look for data, and/or to communicate findings to various audiences or users. We might also go beyond the visual. How can data be sonified? How can complex data be humanised, to create opportunities for learning, critique, translation, revalation, transformation, rapture, estrangement, immersion, or something else?
+Visual methods can be used to explore data-sets to look for data, and/or to communicate findings to various audiences or users. We might also go beyond the visual. How can data be sonified? How can data be gamified? How can complex data be humanised, to create opportunities for learning, critique, translation, revalation, transformation, rapture, estrangement, immersion, or something else?
 
 <details markdown="1">
 <summary>Resources</summary>
 
-- Programming Historian: Creating Choropleth Maps with Python and Folium. "This lesson demonstrates how to visualize data through choropleth maps using Python and the Folium library."
-- Programming Historian: Visualizing Urban and Demographic Data in R with ggplot2. "This lesson demonstrates how to use R’s ggplot2 package to create sophisticated data visualizations."
-- Programming Historian: Creating Interactive Visualizations with Plotly. "This lesson demonstrates how to create interactive data visualizations in Python with Plotly’s open-source graphing libraries."
-- Programming Historian: Visualizing Data with Bokeh and Pandas. "In this lesson you will learn how to visually explore and present data in Python by using the Bokeh and Pandas libraries."
-- Programming Historian: Creating a Dashboard for Interactive Data Visualization with Dash in Python. "This lesson shows how to create interactive web-based dashboards using Python’s Dash library."
-- Programming Historian: Making an Interactive Web Application with R and Shiny. "This lesson demonstrates how to build an interactive webmap using R and the Shiny library."
-- Programming Historian: Creating Deep Convolutional Neural Networks for Image Classification. "This lesson provides a beginner-friendly introduction to convolutional neural networks (CNNs) for image classification."
-- Programming Historian: Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 1). "This is the first of a two-part lesson introducing deep learning based computer vision methods for humanities research."
-- Programming Historian: Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 2). "This lesson digs deeper into the details of training a deep learning based computer vision model."
-- Programming Historian: Facial Recognition in Historical Photographs with Artificial Intelligence in Python. "In this lesson, you’ll learn computer vision and machine learning principles for object recognition, and how to apply these principles using Python to recognize and classify smiling faces in historical photographs."
-- Programming Historian: Teaching History and Languages with a Strategy Computer Game: 0̸ A.D. in the Classroom. "This lesson demonstrates how to prepare a geographically accurate historical battle scene in the free and open source computer game 0̸ A.D."
-- Programming Historian: Interactive Fiction in the Humanities Classroom: How to Create Interactive Text Games Using Twine. "This lesson provides strategies for incorporating game creation into the classroom."
-- Programming Historian: The Sound of Data (a gentle introduction to sonification for historians). "This lesson will help you hear the past."
+- Programming Historian: [Creating Choropleth Maps with Python and Folium](https://programminghistorian.org/en/lessons/choropleth-maps-with-python-and-folium). “This lesson demonstrates how to visualize data through choropleth maps using Python and the Folium library.”
+- Programming Historian: [Visualizing Urban and Demographic Data in R with ggplot2](https://programminghistorian.org/en/lessons/visualizing-urban-data-with-r). “This lesson demonstrates how to use R’s ggplot2 package to create sophisticated data visualizations.”
+- Programming Historian: [Creating Interactive Visualizations with Plotly](https://programminghistorian.org/en/lessons/creating-interactive-visualizations-with-plotly). “This lesson demonstrates how to create interactive data visualizations in Python with Plotly’s open-source graphing libraries.”
+- Programming Historian: [Visualizing Data with Bokeh and Pandas](https://programminghistorian.org/en/lessons/visualizing-data-with-bokeh-and-pandas). “In this lesson you will learn how to visually explore and present data in Python by using the Bokeh and Pandas libraries.”
+- Programming Historian: [Creating a Dashboard for Interactive Data Visualization with Dash in Python](https://programminghistorian.org/en/lessons/creating-a-dashboard-with-dash). “This lesson shows how to create interactive web-based dashboards using Python’s Dash library.”
+- Programming Historian: [Making an Interactive Web Application with R and Shiny](https://programminghistorian.org/en/lessons/shiny-r). “This lesson demonstrates how to build an interactive webmap using R and the Shiny library.”
+- Programming Historian: [Creating Deep Convolutional Neural Networks for Image Classification](https://programminghistorian.org/en/lessons/creating-deep-convolutional-neural-networks-for-image-classification). “This lesson provides a beginner-friendly introduction to convolutional neural networks (CNNs) for image classification.”
+- Programming Historian: [Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 1)](https://programminghistorian.org/en/lessons/computer-vision-for-the-humanities-part-1). “This is the first of a two-part lesson introducing deep learning based computer vision methods for humanities research.”
+- Programming Historian: [Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 2)](https://programminghistorian.org/en/lessons/computer-vision-for-the-humanities-part-2). “This lesson digs deeper into the details of training a deep learning based computer vision model.”
+- Programming Historian: [Facial Recognition in Historical Photographs with Artificial Intelligence in Python](https://programminghistorian.org/en/lessons/facial-recognition-in-historical-photographs). “In this lesson, you’ll learn computer vision and machine learning principles for object recognition, and how to apply these principles using Python to recognize and classify smiling faces in historical photographs.”
+- Programming Historian: [Teaching History and Languages with a Strategy Computer Game: 0̸ A.D. in the Classroom](https://programminghistorian.org/en/lessons/0ad-in-the-classroom). “This lesson demonstrates how to prepare a geographically accurate historical battle scene in the free and open source computer game 0̸ A.D.”
+- Programming Historian: [Interactive Fiction in the Humanities Classroom: How to Create Interactive Text Games Using Twine](https://programminghistorian.org/en/lessons/interactive-fiction-with-twine). “This lesson provides strategies for incorporating game creation into the classroom.”
+- Programming Historian: [The Sound of Data: A Gentle Introduction to Sonification for Historians](https://programminghistorian.org/en/lessons/the-sound-of-data). “This lesson will help you hear the past.”
+
 </details>
 
 ## Spatial methods {#spatial}
@@ -244,23 +246,21 @@ Maps and more.
 <details markdown="1">
 <summary>Resources</summary>
 
-- Programming Historian: Introduction to Map Warper. "This lesson introduces basic use of Map Warper for historical maps."
-- Programming Historian: Displaying a Georeferenced Map in KnightLab’s StoryMap JS. "In this lesson, you will learn how to display a georeferenced map from Map Warper in KnightLab’s StoryMap JS."
-- Programming Historian: Web Mapping with Python and Leaflet. "This tutorial teaches users how to create a web map based on tabular data."
-- Programming Historian: Using JavaScript to Create Maps of Correspondence. "Demonstrates how to use the JavaScript library “Leaflet” to produce an interactive map."
-- Programming Historian: Geoparsing English-Language Text with the Edinburgh Geoparser. "This tutorial teaches users how to use the Edinburgh Geoparser to process a piece of English-language text."
-- Programming Historian: Finding Places in Text with the World Historical Gazetteer. "This lesson details how to programmatically search documents for a list of terms, including place names and then how to obtain coordinates and map historical place names."
-- Programming Historian: Working with Named Places: How and Why to Build a Gazetteer. "This lesson teaches you how to create a gazetteer from a historical text, using the Linked Places Delimited (LP-TSV) format."
-- Programming Historian: Using Gazetteers to Extract Sets of Keywords from Free-Flowing Texts. "This lesson will teach you how to use Python to extract a set of keywords very quickly and systematically from a set of texts."
-- Programming Historian: Geocoding Historical Data using QGIS. "Learn how to use QGIS to convert lists of place names in to geographic coordinates, allowing you to map them."
-- Programming Historian: Georeferencing in QGIS 2.0. "In this lesson, you will learn how to georeference historical maps so that they may be added to a GIS as a raster layer."
-- Programming Historian: Installing QGIS 2.0 and Adding Layers. "In this lesson you will install QGIS software, download geospatial files like shapefiles and GeoTIFFs, and create a map out of a number of vector and raster layers."
-- Programming Historian: Creating New Vector Layers in QGIS 2.0. "In this lesson you will learn how to create vector layers based on scanned historical maps."
-- Programming Historian: Intro to Google Maps and Google Earth. "Google My Maps and Google Earth provide an easy way to start creating digital maps."
-- Programming Historian: Using Geospatial Data to Inform Historical Research in R. "In this lesson, you will use R-language to analyze and map geospatial data."
-- Programming Historian: Introduction to Gravity Models of Migration & Trade. "This lesson introduces gravity models as a means for determining the probable distribution of entities across space in historical datasets."
-- GIS for humanities
-
+- Programming Historian: [Introduction to Map Warper](https://programminghistorian.org/en/lessons/introduction-to-map-warper). “This lesson introduces basic use of Map Warper for historical maps.”
+- Programming Historian: [Displaying a Georeferenced Map in KnightLab’s StoryMap JS](https://programminghistorian.org/en/lessons/displaying-a-georeferenced-map-in-storymap-js). “In this lesson, you will learn how to display a georeferenced map from Map Warper in KnightLab’s StoryMap JS.”
+- Programming Historian: [Web Mapping with Python and Leaflet](https://programminghistorian.org/en/lessons/web-mapping-python-leaflet). “This tutorial teaches users how to create a web map based on tabular data.”
+- Programming Historian: [Using JavaScript to Create Maps of Correspondence](https://programminghistorian.org/en/lessons/using-javascript-to-create-maps-of-correspondence). “Demonstrates how to use the JavaScript library “Leaflet” to produce an interactive map.”
+- Programming Historian: [Geoparsing English-Language Text with the Edinburgh Geoparser](https://programminghistorian.org/en/lessons/geoparsing-english-language-text-with-edinburgh-geoparser). “This tutorial teaches users how to use the Edinburgh Geoparser to process a piece of English-language text.”
+- Programming Historian: [Finding Places in Text with the World Historical Gazetteer](https://programminghistorian.org/en/lessons/finding-places-in-text-with-world-historical-gazetteer). “This lesson details how to programmatically search documents for a list of terms, including place names and then how to obtain coordinates and map historical place names.”
+- Programming Historian: [Working with Named Places: How and Why to Build a Gazetteer](https://programminghistorian.org/en/lessons/working-with-named-places-how-and-why-to-build-a-gazetteer). “This lesson teaches you how to create a gazetteer from a historical text, using the Linked Places Delimited (LP-TSV) format.”
+- Programming Historian: [Using Gazetteers to Extract Sets of Keywords from Free-Flowing Texts](https://programminghistorian.org/en/lessons/using-gazetteers-to-extract-sets-of-keywords). “This lesson will teach you how to use Python to extract a set of keywords very quickly and systematically from a set of texts.”
+- Programming Historian: [Geocoding Historical Data using QGIS](https://programminghistorian.org/en/lessons/geocoding-historical-data-using-qgis). “Learn how to use QGIS to convert lists of place names in to geographic coordinates, allowing you to map them.”
+- Programming Historian: [Georeferencing in QGIS 2.0](https://programminghistorian.org/en/lessons/georeferencing-in-qgis). “In this lesson, you will learn how to georeference historical maps so that they may be added to a GIS as a raster layer.”
+- Programming Historian: [Installing QGIS 2.0 and Adding Layers](https://programminghistorian.org/en/lessons/installing-qgis-and-adding-layers). “In this lesson you will install QGIS software, download geospatial files like shapefiles and GeoTIFFs, and create a map out of a number of vector and raster layers.”
+- Programming Historian: [Creating New Vector Layers in QGIS 2.0](https://programminghistorian.org/en/lessons/creating-new-vector-layers-in-qgis). “In this lesson you will learn how to create vector layers based on scanned historical maps.”
+- Programming Historian: [Intro to Google Maps and Google Earth](https://programminghistorian.org/en/lessons/intro-to-google-maps-and-google-earth). “Google My Maps and Google Earth provide an easy way to start creating digital maps.”
+- Programming Historian: [Using Geospatial Data to Inform Historical Research in R](https://programminghistorian.org/en/lessons/using-geospatial-data-in-r). “In this lesson, you will use R-language to analyze and map geospatial data.”
+- Programming Historian: [Introduction to Gravity Models of Migration & Trade](https://programminghistorian.org/en/lessons/introduction-to-gravity-models-of-migration-and-trade). “This lesson introduces gravity models as a means for determining the probable distribution of entities across space in historical datasets.”
 </details>  
 
 ## Physical computing {#physical-computing}
@@ -270,8 +270,8 @@ Physical computing connects digital research to material devices and environment
 <details markdown="1">
 <summary>Resources</summary>
 
-- Programming Historian: Creating Mobile Augmented Reality Experiences in Unity. "This lesson serves as an introduction to creating mobile augmented reality applications."
-- Programming Historian: Designing a Deck of Timeline Cards for Tabletops and Tabletop Simulator. "This lesson demonstrates how to use nanDECK to design and publish your own deck of printed or digital playing cards."
+- Programming Historian: [Creating Mobile Augmented Reality Experiences in Unity](https://programminghistorian.org/en/lessons/creating-mobile-augmented-reality-experiences-in-unity). “This lesson serves as an introduction to creating mobile augmented reality applications.”
+- Programming Historian: [Designing a Deck of Timeline Cards for Tabletops and Tabletop Simulator](https://programminghistorian.org/en/lessons/designing-a-deck-of-timeline-cards-for-tabletops-and-tabletop-simulator). “This lesson demonstrates how to use nanDECK to design and publish your own deck of printed or digital playing c
 - Raspberry Pis
 </details>
 
@@ -298,14 +298,15 @@ d) Simple websites or browser-based tools. In some cases, code can be put in a w
 <details markdown="1">
 <summary>Resources</summary>
 
-- [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github) — Guided mini-course: repos, commits, PRs, collaboration.
+- GitHub Skills: [Introduction to GitHub](https://github.com/skills/introduction-to-github) — Guided mini-course: repos, commits, PRs, collaboration.
 - [GitHub Docs: “Hello World” (Get started)](https://docs.github.com/en/get-started/start-your-journey/hello-world) — Create a repo, commit changes, open a pull request.
-- [Software Carpentry: Version Control with Git](https://swcarpentry.github.io/git-novice/) — Step-by-step Git basics for complete novices.
+- Software Carpentry: [Version Control with Git](https://swcarpentry.github.io/git-novice/) — Step-by-step Git basics for complete novices.
 - [Git SCM: Pro Git (free online book)](https://git-scm.com/book/en/v2) — Comprehensive, readable Git book (free online).
 - [MIT CSAIL: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — Tools for developers: shell, Git, editors, debugging.
 - [The Turing Way: Getting Started With GitHub](https://book.the-turing-way.org/collaboration/github-novice/) — Research-focused GitHub walkthrough: issues, PRs, workflows.
-- Programming Historian: Creating Web APIs with Python and Flask. "Learn how to set up a basic Application Programming Interface (API) to make your data more accessible to users."
-- Programming Historian: Sustainable Authorship in Plain Text using Pandoc and Markdown. "This tutorial introduces Markdown and Pandoc, a command line tool that converts plain text into a number of beautifully formatted file types."
-- Programming Historian: Getting Started with Markdown. "In this lesson, you will be introduced to Markdown, a plain text-based syntax for formatting documents."
-- Programming Historian: Creating GUIs in Python for Digital Humanities Projects. "In this lesson, you will use Qt Designer and Python to design and implement a simple graphical user interface and application to merge PDF files."
+- Programming Historian: [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask). “Learn how to set up a basic Application Programming Interface (API) to make your data more accessible to users.”
+- Programming Historian: [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown). “This tutorial introduces Markdown and Pandoc, a command line tool that converts plain text into a number of beautifully formatted file types.”
+- Programming Historian: [Getting Started with Markdown](https://programminghistorian.org/en/lessons/getting-started-with-markdown). “In this lesson, you will be introduced to Markdown, a plain text-based syntax for formatting documents.”
+- Programming Historian: [Creating GUIs in Python for Digital Humanities Projects](https://programminghistorian.org/en/lessons/creating-guis-in-python-for-digital-humanities-projects). “In this lesson, you will use Qt Designer and Python to design and implement a simple graphical user interface and application to merge PDF files.”
+
 </details>
