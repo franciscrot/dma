@@ -1,6 +1,6 @@
-title: DMA Static Site
-description: "Digital Media and Arts overview"
-baseurl: "/dma"
+title: Digital Methods Accelerator
+description: "Digital Methods Accelerator"
+baseurl: ""
 url: ""
 markdown: kramdown
 theme: minima
