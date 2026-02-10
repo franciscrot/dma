@@ -5,10 +5,12 @@ title: Research Design
 
 # Research Design
 
-Research design brings together methods, ethics, and planning practices that shape how humanities research is conceived, carried out, and shared.
+Doing DH+ research means thinking reflexively and innovatively about what research is. Researchers need to be aware of things like data protection and Intellectual Property from a compliance perspective - but at the same time, DH+ researchers are in a position to reflect critically on (and sometimes experiment with) these things, especially as AI and other digital technologies place increasing pressure on traditional frameworks.
 
 - Open research practices
-- Study design and experimentation
+- Is interdisciplinarity a discipline in its own right?
+- Between media, arts, humanities, and the social science
+- Between media, arts, humanities, and STEM
 - Fieldwork and qualitative methods
 - Governance, ethics, and preservation
 
@@ -32,6 +34,10 @@ weight: 4
 - Programming Historian: Getting Started with Markdown. "In this lesson, you will be introduced to Markdown, a plain text-based syntax for formatting documents."
 - Programming Historian: Preserving Your Research Data. "This lesson will suggest ways in which historians can document and structure their research data so as to ensure it remains useful in the future."
 </details>
+
+## Slow research {#slow-research}
+
+- Digital Humanities Climate Coalition toolkit
 
 ## Intro to experiments {#intro-to-experiments}
 
