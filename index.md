@@ -28,12 +28,12 @@ Welcome to the Digital Methods Accelerator. This is a resource hub for DH+ (or i
     <h2>Media and Arts Practice</h2>
     <p>Using digital tools and methods in arts-based research.</p>
   </a>
-  <a class="card" href="{{ "/shl-digital.html" | relative_url }}">
-    <h2>SHL Digital</h2>
-    <p>Sussex Digital Humanities Lab.</p>
-  </a>
   <a class="card" href="{{ "/interventions.html" | relative_url }}">
     <h2>Interventions</h2>
     <p>Practical, critical, and collaborative interventions across digital methods and making.</p>
+  </a>
+  <a class="card" href="{{ "/shl-digital.html" | relative_url }}">
+    <h2>SHL Digital</h2>
+    <p>Sussex Digital Humanities Lab.</p>
   </a>
 </div>
