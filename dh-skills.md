@@ -192,9 +192,27 @@ Networked culture examines how people, texts, and platforms connect and circulat
 - Programming Historian: Dealing with Big Data and Network Analysis Using Neo4j. "In this lesson we will learn how to use a graph database to store and analyze complex networked information."
 </details>
 
+## Digital collections, digital editions, and preservation {#digital-collections}
+
+Digital collections focus on building and maintaining collections that support research, teaching, and public access. This often includes creating digital editions, where texts, images, or objects are carefully digitised, described, and sometimes annotated so they can be studied online. Preservation is also pretty interesting: how do we ensure that digital materials remain usable over time despite changing file formats, software, and hardware?
+
+<details markdown="1">
+<summary>Resources</summary>
+
+- Programming Historian: Preserving Your Research Data. "This lesson will suggest ways in which historians can document and structure their research data so as to ensure it remains useful in the future."
+- - Programming Historian: From Sources to Data: Designing a Database for the Humanities and Social Sciences with nodegoat. "This lesson teaches you how to use the nodegoat software to build a relational database for research in the humanities."
+- Programming Historian: Installing Omeka. "This lesson will teach you how to install your own copy of Omeka."
+- Programming Historian: Creating an Omeka Exhibit. "Now that you’ve added items to your Omeka site and grouped them into collections, you’re ready for the next step: taking your users on a guided tour through the items you’ve collected."
+- Programming Historian: Up and Running with Omeka.net. "Omeka.net makes it easy to create websites that show off collections of items."
+- GitHub Docs: [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart) — Publish a simple website directly from a repository.
+- Programming Historian: Building a static website with Jekyll and GitHub Pages. "This lesson will help you create entirely free, easy-to-maintain, preservation-friendly, secure website over which you have full control."
+- Programming Historian: Running a Collaborative Research Website and Blog with Jekyll and GitHub. "This lesson introduces the challenges and opportunities that Jekyll offers for publishing collaborative, ongoing research online."
+- Programming Historian: Introduction to Populating a Website with API Data. "This lesson introduces a way to populate a website with data obtained from another website via an Application Programming Interface (API)."
+</details>
+
 ## Visual methods {#visual-methods}
 
-Visual methods explore how graphics and diagrams support interpretation and argument in the humanities. They focus on clarity, rhetoric, and the responsibilities of visual storytelling with data.
+Visual methods can be used to explore data-sets to look for data, and/or to communicate findings to various audiences or users.
 
 <details markdown="1">
 <summary>Resources</summary>
@@ -214,12 +232,9 @@ Visual methods explore how graphics and diagrams support interpretation and argu
 - Programming Historian: The Sound of Data (a gentle introduction to sonification for historians). "This lesson will help you hear the past."
 </details>
 
-- Data visualisation
-- Exploratory vs explanatory graphics
+## Spatial methods {#spatial}
 
-## Spatial {#spatial}
-
-Spatial methods use geographic tools to analyze place, movement, and spatial narratives in the humanities. They also consider how mapping choices can reinforce or challenge historical and cultural power relations.
+Maps and more.
 
 <details markdown="1">
 <summary>Resources</summary>
@@ -239,27 +254,9 @@ Spatial methods use geographic tools to analyze place, movement, and spatial nar
 - Programming Historian: Intro to Google Maps and Google Earth. "Google My Maps and Google Earth provide an easy way to start creating digital maps."
 - Programming Historian: Using Geospatial Data to Inform Historical Research in R. "In this lesson, you will use R-language to analyze and map geospatial data."
 - Programming Historian: Introduction to Gravity Models of Migration & Trade. "This lesson introduces gravity models as a means for determining the probable distribution of entities across space in historical datasets."
-</details>
-
 - GIS for humanities
-  
-## Digital collections and preservation {#digital-collections}
 
-Digital collections focus on building and maintaining collections that support research, teaching, and public access. 
-
-<details markdown="1">
-<summary>Resources</summary>
-
-- Programming Historian: Preserving Your Research Data. "This lesson will suggest ways in which historians can document and structure their research data so as to ensure it remains useful in the future."
-- - Programming Historian: From Sources to Data: Designing a Database for the Humanities and Social Sciences with nodegoat. "This lesson teaches you how to use the nodegoat software to build a relational database for research in the humanities."
-- Programming Historian: Installing Omeka. "This lesson will teach you how to install your own copy of Omeka."
-- Programming Historian: Creating an Omeka Exhibit. "Now that you’ve added items to your Omeka site and grouped them into collections, you’re ready for the next step: taking your users on a guided tour through the items you’ve collected."
-- Programming Historian: Up and Running with Omeka.net. "Omeka.net makes it easy to create websites that show off collections of items."
-- GitHub Docs: [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart) — Publish a simple website directly from a repository.
-- Programming Historian: Building a static website with Jekyll and GitHub Pages. "This lesson will help you create entirely free, easy-to-maintain, preservation-friendly, secure website over which you have full control."
-- Programming Historian: Running a Collaborative Research Website and Blog with Jekyll and GitHub. "This lesson introduces the challenges and opportunities that Jekyll offers for publishing collaborative, ongoing research online."
-- Programming Historian: Introduction to Populating a Website with API Data. "This lesson introduces a way to populate a website with data obtained from another website via an Application Programming Interface (API)."
-</details>
+</details>  
 
 ## Physical computing {#physical-computing}
 
@@ -270,10 +267,8 @@ Physical computing connects digital research to material devices and environment
 
 - Programming Historian: Creating Mobile Augmented Reality Experiences in Unity. "This lesson serves as an introduction to creating mobile augmented reality applications."
 - Programming Historian: Designing a Deck of Timeline Cards for Tabletops and Tabletop Simulator. "This lesson demonstrates how to use nanDECK to design and publish your own deck of printed or digital playing cards."
-</details>
-
 - Raspberry Pis
-- Sensors
+</details>
 
 ## Development foundations {#development-foundations}
 
