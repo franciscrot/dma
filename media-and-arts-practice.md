@@ -15,12 +15,17 @@ The line is blurred between Digital Humanities and digital media and arts practi
 - UX
 - Speculative design and creative research methods
 
-## Digital Media and Arts
-
 ## Creative coding {#creative-coding}
 
 - CSS + HTML + JS
-- In-browser games
+- In-browser games and interactive media
+
+<details>What are web pages made of?</details>
+- If you create a few files using a text editor or Integrated Development Environment, and upload them to a host, you can create your own website - even your own interactive website or game
+- HTML / XML – These give a web page its structure and meaning. They say things like “this is a heading”, “this is a paragraph”, or “this is a link or an image”. HTML is what most web pages use; XML is a stricter, more general way of structuring data.
+- CSS – This controls how the page looks. Colours, fonts, spacing, layout, and what happens on different screen sizes are all handled by CSS. Without CSS, a page works, but looks very plain.
+- JavaScript (JS) – This makes the page do things. JS handles interaction and behaviour: buttons that respond when clicked, content that changes without reloading the page, simple games, animations, or forms that check your input.
+- A web server (publishing it) – To put a page online, you upload these files (HTML, CSS, JS) to a server that anyone can access. Services like GitHub Pages or [Itch.io](sadpress.itch.io) let you do this very easily: you upload your files or connect a folder, and they host the site for you so it appears at a public web address.
 
 <details markdown="1">
 <summary>Resources</summary>
