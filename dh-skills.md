@@ -5,12 +5,16 @@ title: DH+ Skills
 
 # DH+ Skills
 
-Highlights include ...
-
-- Data collection, data cleaning, and text analysis
-- Mapping, visualisation, and spatial storytelling
-- Web publishing and digital exhibits
-- Collaborative project management
+- Coding foundations
+- Data collection
+- Digitisation and OCR
+- Data cleaning
+- Text and cultural analytics
+- Networked culture
+- Digital collections & preservation
+- Visual methods
+- Spatial methods
+- Physical computing
 
 ... and much more!
 
@@ -52,9 +56,56 @@ Why are we learning coding in the first place? There are all kinds of reasons, b
 
 </details>
 
-## Data collection and cleaning {#data-work}
+## Data collection {#web-methods}
 
-Research projects often follow a pattern: data is collected. Then it is "cleaned" so that it can be analysed by digital methods. Then it is analysed and disseminated. Visualisation (see below) can also be part of the process.
+Scraping the web is one important way of collecting data. Other forms of data collection include conducting interviews, deploying microphones or other sensors to record activities, giving participants prompts or challenges or inviting them to participate in playful activities, autoethnographic reflection, etc.
+
+APIs (Application Programming Interfaces) are another common route: they are ways for one piece of software to ask another for data in a structured and documented way. Instead of copying information from web pages, researchers can use APIs to request specific data directly from a database, or some other service.
+
+<details markdown="1">
+<summary>What's an API?</summary>
+- API (Application Programming Interface): An API is both a piece of software running on a remote computer, which makes certain things publicly “visible,” and a set of rules for how other programs interact with it.
+- You’ll often hear people say that a platform “has an API” or “has a good API”. What this usually means is that the platform has published a set of rules for how your code can interact with their system. An API is not something you download or install. It’s a set of instructions, usually described on a webpage, that explains how to ask a service for information or tell it to do something on your behalf. Instead of clicking around on a website or app yourself, you can use code to ask a service for data or to perform an action, following rules it publishes for developers.
+- The “things” involved might be your code (e.g. your Python code) on your machine, and then some remote service on the other—e.g. it might be a digital archive, a database, etc. Twitter used to have a good API which meant it was possible to select and download data and perform analyses, but that’s no longer the case -- the kind of research that used to be possible no longer is.
+- With an API, your code can “talk” to the remote resource -- e.g. using Python or other code to ask “give me the titles of these records” or “search for items matching these terms,” and receiving a structured response that your code can then work with. 
+- In practice, as a a user, this sometimes looks like copying an example from the service’s documentation, pasting it into your code, and seeing data come back, rather than interacting through a web page by hand.
+- You encounter APIs when you want to automate or scale something you could otherwise do manually—querying a catalogue, collecting data, or feeding information from one system into another—without clicking around in a browser each time.
+</details>
+
+<details markdown="1">
+<summary>Resources</summary>
+
+- Programming Historian: Beginner's Guide to Twitter Data. "Learn how to acquire Twitter data and process them to make them usable for further analysis."
+- Programming Historian: An Introduction to Twitterbots with Tracery. "This lesson explains how to create simple twitterbots using Tracery and the Cheap Bots Done Quick service."
+- Programming Historian: Downloading Web Pages with Python. "This lesson introduces Uniform Resource Locators (URLs) and explains how to use Python to download and save the contents of a web page to your local hard drive."
+- Programming Historian: From HTML to List of Words (part 1). "We introduce looping and branching so that programs can repeat tasks and test for certain conditions, making it possible to separate the content from the HTML tags."
+- Programming Historian: From HTML to List of Words (part 2). "In this lesson, you will learn the Python commands needed to implement the second part of the algorithm begun in the lesson ‘From HTML to a List of Words (part 1)’."
+- Programming Historian: Normalizing Textual Data with Python. "In this lesson, we will make the list we created in the ‘From HTML to a List of Words’ lesson easier to analyze by normalizing this data."
+- Programming Historian: Downloading Multiple Records Using Query Strings. "In this lesson, we will write a program that will download a series of records from the Old Bailey Online using custom search criteria."
+- Programming Historian: Automated Downloading with Wget. "Wget is a useful program, run through your computer’s command line, for retrieving online material."
+- Programming Historian: Applied Archival Downloading with Wget. "This lesson expands web-scraping skills through a few more lessons that focus on other uses for Wget’s recursive retrieval function."
+- Programming Historian: Data Mining the Internet Archive Collection. "This lesson teaches you how to use Python to automate the downloading of large numbers of MARC files from the Internet Archive and parse MARC records."
+</details>
+
+## Digitisation and OCR {#digitisation}
+
+Digitisation converts physical materials into digital forms that can be searched, analyzed, and shared. Optical Character Recognition (OCR) turns printed, typed, or handwritten text into digital text.
+
+<details markdown="1">
+<summary>Resources</summary>
+
+- Programming Historian: OCR with Google Vision API and Tesseract. "Google Vision and Tesseract are both popular and powerful OCR tools, but they each have their weaknesses."
+- Programming Historian: Transcribing Handwritten Text with Python and Microsoft Azure Computer Vision. "This lesson will explain how to write a Python program to transcribe handwritten documents using Microsoft’s Azure Cognitive Services."
+- Programming Historian: Working with batches of PDF files. "Learn how to perform OCR and text extraction with free command line tools like Tesseract and Poppler and how to get an overview of large numbers of PDF documents using topic modeling."
+- Programming Historian: Extracting Illustrated Pages from Digital Libraries with Python. "This lesson shows how to efficiently extract page regions of visual interest from digitized volumes."
+- Programming Historian: Introduction to Audiovisual Transcoding, Editing, and Color Analysis with FFmpeg. "This lesson introduces the basic functions of FFmpeg, a free command-line tool used for manipulating and analyzing audiovisual materials."
+- Programming Historian: Editing Audio with Audacity. "In this lesson you will learn how to use Audacity to load, record, edit, mix, and export audio files."
+- Programming Historian: Cleaning OCR’d text with Regular Expressions. "This lesson will help you clean up OCR’d text to make it more usable."
+</details>
+
+## Data cleaning {#data-work}
+
+Research projects often follow a pattern: data is collected. Then it is "cleaned" so that it can be analysed by digital methods. Then it is analysed and disseminated. Visualisation (see below) can also be part of the process - either part of the analysis, and/or part of the dissemination.
 
 <details markdown="1">
 <summary>Resources</summary>
@@ -141,60 +192,6 @@ Networked culture examines how people, texts, and platforms connect and circulat
 - Programming Historian: Dealing with Big Data and Network Analysis Using Neo4j. "In this lesson we will learn how to use a graph database to store and analyze complex networked information."
 </details>
 
-## Digital collections and preservation {#digital-collections}
-
-Digital collections focus on building and maintaining collections that support research, teaching, and public access. 
-
-<details markdown="1">
-<summary>Resources</summary>
-
-- Programming Historian: Preserving Your Research Data. "This lesson will suggest ways in which historians can document and structure their research data so as to ensure it remains useful in the future."
-- - Programming Historian: From Sources to Data: Designing a Database for the Humanities and Social Sciences with nodegoat. "This lesson teaches you how to use the nodegoat software to build a relational database for research in the humanities."
-- Programming Historian: Installing Omeka. "This lesson will teach you how to install your own copy of Omeka."
-- Programming Historian: Creating an Omeka Exhibit. "Now that you’ve added items to your Omeka site and grouped them into collections, you’re ready for the next step: taking your users on a guided tour through the items you’ve collected."
-- Programming Historian: Up and Running with Omeka.net. "Omeka.net makes it easy to create websites that show off collections of items."
-- GitHub Docs: [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart) — Publish a simple website directly from a repository.
-- Programming Historian: Building a static website with Jekyll and GitHub Pages. "This lesson will help you create entirely free, easy-to-maintain, preservation-friendly, secure website over which you have full control."
-- Programming Historian: Running a Collaborative Research Website and Blog with Jekyll and GitHub. "This lesson introduces the challenges and opportunities that Jekyll offers for publishing collaborative, ongoing research online."
-- Programming Historian: Introduction to Populating a Website with API Data. "This lesson introduces a way to populate a website with data obtained from another website via an Application Programming Interface (API)."
-</details>
-
-## Data collection {#web-methods}
-
-Scraping the web is one important way of collecting data. Other forms of data collection include conducting interviews, deploying microphones or other sensors to record activities, giving participants prompts or challenges or inviting them to participate in playful activities, autoethnographic reflection, etc.
-
-<details markdown="1">
-<summary>Resources</summary>
-
-- Programming Historian: Beginner's Guide to Twitter Data. "Learn how to acquire Twitter data and process them to make them usable for further analysis."
-- Programming Historian: An Introduction to Twitterbots with Tracery. "This lesson explains how to create simple twitterbots using Tracery and the Cheap Bots Done Quick service."
-- Programming Historian: Downloading Web Pages with Python. "This lesson introduces Uniform Resource Locators (URLs) and explains how to use Python to download and save the contents of a web page to your local hard drive."
-- Programming Historian: From HTML to List of Words (part 1). "We introduce looping and branching so that programs can repeat tasks and test for certain conditions, making it possible to separate the content from the HTML tags."
-- Programming Historian: From HTML to List of Words (part 2). "In this lesson, you will learn the Python commands needed to implement the second part of the algorithm begun in the lesson ‘From HTML to a List of Words (part 1)’."
-- Programming Historian: Normalizing Textual Data with Python. "In this lesson, we will make the list we created in the ‘From HTML to a List of Words’ lesson easier to analyze by normalizing this data."
-- Programming Historian: Downloading Multiple Records Using Query Strings. "In this lesson, we will write a program that will download a series of records from the Old Bailey Online using custom search criteria."
-- Programming Historian: Automated Downloading with Wget. "Wget is a useful program, run through your computer’s command line, for retrieving online material."
-- Programming Historian: Applied Archival Downloading with Wget. "This lesson expands web-scraping skills through a few more lessons that focus on other uses for Wget’s recursive retrieval function."
-- Programming Historian: Data Mining the Internet Archive Collection. "This lesson teaches you how to use Python to automate the downloading of large numbers of MARC files from the Internet Archive and parse MARC records."
-</details>
-
-- Web scraping
-- APIs
-
-## Physical computing {#physical-computing}
-
-Physical computing connects digital research to material devices and environments. It foregrounds how sensors and embedded systems shape the data we collect and how that data relates to place and lived experience.
-
-<details markdown="1">
-<summary>Resources</summary>
-
-- Programming Historian: Creating Mobile Augmented Reality Experiences in Unity. "This lesson serves as an introduction to creating mobile augmented reality applications."
-- Programming Historian: Designing a Deck of Timeline Cards for Tabletops and Tabletop Simulator. "This lesson demonstrates how to use nanDECK to design and publish your own deck of printed or digital playing cards."
-</details>
-
-- Raspberry Pis
-- Sensors
-
 ## Visual methods {#visual-methods}
 
 Visual methods explore how graphics and diagrams support interpretation and argument in the humanities. They focus on clarity, rhetoric, and the responsibilities of visual storytelling with data.
@@ -219,27 +216,6 @@ Visual methods explore how graphics and diagrams support interpretation and argu
 
 - Data visualisation
 - Exploratory vs explanatory graphics
-
-## Development foundations {#development-foundations}
-
-Development foundations introduce collaborative practices that make digital projects sustainable. Version control and shared workflows support transparency, accountability, and collective scholarship.
-
-<details markdown="1">
-<summary>Resources</summary>
-
-- [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github) — Guided mini-course: repos, commits, PRs, collaboration.
-- [GitHub Docs: “Hello World” (Get started)](https://docs.github.com/en/get-started/start-your-journey/hello-world) — Create a repo, commit changes, open a pull request.
-- [Software Carpentry: Version Control with Git](https://swcarpentry.github.io/git-novice/) — Step-by-step Git basics for complete novices.
-- [Git SCM: Pro Git (free online book)](https://git-scm.com/book/en/v2) — Comprehensive, readable Git book (free online).
-- [MIT CSAIL: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — Tools for developers: shell, Git, editors, debugging.
-- [The Turing Way: Getting Started With GitHub](https://book.the-turing-way.org/collaboration/github-novice/) — Research-focused GitHub walkthrough: issues, PRs, workflows.
-- Programming Historian: Creating Web APIs with Python and Flask. "Learn how to set up a basic Application Programming Interface (API) to make your data more accessible to users."
-- Programming Historian: Sustainable Authorship in Plain Text using Pandoc and Markdown. "This tutorial introduces Markdown and Pandoc, a command line tool that converts plain text into a number of beautifully formatted file types."
-- Programming Historian: Getting Started with Markdown. "In this lesson, you will be introduced to Markdown, a plain text-based syntax for formatting documents."
-- Programming Historian: Creating GUIs in Python for Digital Humanities Projects. "In this lesson, you will use Qt Designer and Python to design and implement a simple graphical user interface and application to merge PDF files."
-</details>
-
-- Collaborating on GitHub
 
 ## Spatial {#spatial}
 
@@ -266,23 +242,58 @@ Spatial methods use geographic tools to analyze place, movement, and spatial nar
 </details>
 
 - GIS for humanities
+  
+## Digital collections and preservation {#digital-collections}
 
-## Digitisation {#digitisation}
-
-Digitisation converts physical materials into digital forms that can be searched, analyzed, and shared. It includes attention to accuracy, labor, and the limits of automated recognition in cultural contexts.
+Digital collections focus on building and maintaining collections that support research, teaching, and public access. 
 
 <details markdown="1">
 <summary>Resources</summary>
 
-- Programming Historian: OCR with Google Vision API and Tesseract. "Google Vision and Tesseract are both popular and powerful OCR tools, but they each have their weaknesses."
-- Programming Historian: Transcribing Handwritten Text with Python and Microsoft Azure Computer Vision. "This lesson will explain how to write a Python program to transcribe handwritten documents using Microsoft’s Azure Cognitive Services."
-- Programming Historian: Working with batches of PDF files. "Learn how to perform OCR and text extraction with free command line tools like Tesseract and Poppler and how to get an overview of large numbers of PDF documents using topic modeling."
-- Programming Historian: Extracting Illustrated Pages from Digital Libraries with Python. "This lesson shows how to efficiently extract page regions of visual interest from digitized volumes."
-- Programming Historian: Introduction to Audiovisual Transcoding, Editing, and Color Analysis with FFmpeg. "This lesson introduces the basic functions of FFmpeg, a free command-line tool used for manipulating and analyzing audiovisual materials."
-- Programming Historian: Editing Audio with Audacity. "In this lesson you will learn how to use Audacity to load, record, edit, mix, and export audio files."
-- Programming Historian: Cleaning OCR’d text with Regular Expressions. "This lesson will help you clean up OCR’d text to make it more usable."
+- Programming Historian: Preserving Your Research Data. "This lesson will suggest ways in which historians can document and structure their research data so as to ensure it remains useful in the future."
+- - Programming Historian: From Sources to Data: Designing a Database for the Humanities and Social Sciences with nodegoat. "This lesson teaches you how to use the nodegoat software to build a relational database for research in the humanities."
+- Programming Historian: Installing Omeka. "This lesson will teach you how to install your own copy of Omeka."
+- Programming Historian: Creating an Omeka Exhibit. "Now that you’ve added items to your Omeka site and grouped them into collections, you’re ready for the next step: taking your users on a guided tour through the items you’ve collected."
+- Programming Historian: Up and Running with Omeka.net. "Omeka.net makes it easy to create websites that show off collections of items."
+- GitHub Docs: [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart) — Publish a simple website directly from a repository.
+- Programming Historian: Building a static website with Jekyll and GitHub Pages. "This lesson will help you create entirely free, easy-to-maintain, preservation-friendly, secure website over which you have full control."
+- Programming Historian: Running a Collaborative Research Website and Blog with Jekyll and GitHub. "This lesson introduces the challenges and opportunities that Jekyll offers for publishing collaborative, ongoing research online."
+- Programming Historian: Introduction to Populating a Website with API Data. "This lesson introduces a way to populate a website with data obtained from another website via an Application Programming Interface (API)."
 </details>
 
-- Digitisation
-- Image to text
-- OCR
+## Physical computing {#physical-computing}
+
+Physical computing connects digital research to material devices and environments. It foregrounds how sensors and embedded systems shape the data we collect and how that data relates to place and lived experience.
+
+<details markdown="1">
+<summary>Resources</summary>
+
+- Programming Historian: Creating Mobile Augmented Reality Experiences in Unity. "This lesson serves as an introduction to creating mobile augmented reality applications."
+- Programming Historian: Designing a Deck of Timeline Cards for Tabletops and Tabletop Simulator. "This lesson demonstrates how to use nanDECK to design and publish your own deck of printed or digital playing cards."
+</details>
+
+- Raspberry Pis
+- Sensors
+
+## Development foundations {#development-foundations}
+
+Development foundations introduce collaborative practices that make digital projects sustainable. Version control and shared workflows support transparency, accountability, and collective scholarship.
+
+<details markdown="1">
+<summary>Resources</summary>
+
+- [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github) — Guided mini-course: repos, commits, PRs, collaboration.
+- [GitHub Docs: “Hello World” (Get started)](https://docs.github.com/en/get-started/start-your-journey/hello-world) — Create a repo, commit changes, open a pull request.
+- [Software Carpentry: Version Control with Git](https://swcarpentry.github.io/git-novice/) — Step-by-step Git basics for complete novices.
+- [Git SCM: Pro Git (free online book)](https://git-scm.com/book/en/v2) — Comprehensive, readable Git book (free online).
+- [MIT CSAIL: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — Tools for developers: shell, Git, editors, debugging.
+- [The Turing Way: Getting Started With GitHub](https://book.the-turing-way.org/collaboration/github-novice/) — Research-focused GitHub walkthrough: issues, PRs, workflows.
+- Programming Historian: Creating Web APIs with Python and Flask. "Learn how to set up a basic Application Programming Interface (API) to make your data more accessible to users."
+- Programming Historian: Sustainable Authorship in Plain Text using Pandoc and Markdown. "This tutorial introduces Markdown and Pandoc, a command line tool that converts plain text into a number of beautifully formatted file types."
+- Programming Historian: Getting Started with Markdown. "In this lesson, you will be introduced to Markdown, a plain text-based syntax for formatting documents."
+- Programming Historian: Creating GUIs in Python for Digital Humanities Projects. "In this lesson, you will use Qt Designer and Python to design and implement a simple graphical user interface and application to merge PDF files."
+</details>
+
+- Collaborating on GitHub
+
+
