@@ -32,4 +32,8 @@ Welcome to the Digital Methods Accelerator. This is a resource hub for DH+ (or i
     <h2>SHL Digital</h2>
     <p>Sussex Digital Humanities Lab.</p>
   </a>
+  <a class="card" href="{{ "/interventions.html" | relative_url }}">
+    <h2>Interventions</h2>
+    <p>Practical, critical, and collaborative interventions across digital methods and making.</p>
+  </a>
 </div>
