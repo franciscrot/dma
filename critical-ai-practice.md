@@ -18,13 +18,6 @@ DH is being transformed by Machine Learning and other AI. At the same time, arts
 - Enabling interdisciplinary collaboration
 - Developing new ways of reading and interpreting in an era of AI slop and misinformation / disinformation
 
----
-title: Critical AI Practice
-weight: 7
----
-
-# Critical AI Practice
-
 ## Intro to making AI {#intro-to-making-ai}
 
 - RAG methods

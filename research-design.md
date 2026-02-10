@@ -14,13 +14,6 @@ Doing DH+ research means thinking reflexively and innovatively about what resear
 - Fieldwork and qualitative methods
 - Governance, ethics, and preservation
 
----
-title: Research Design
-weight: 4
----
-
-# Research Design
-
 ## Open research {#open-research}
 
 - Open research

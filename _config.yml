@@ -1,6 +1,6 @@
 title: Digital Methods Accelerator
 description: "Digital Methods Accelerator"
-baseurl: ""
+baseurl: "/dma"
 url: ""
 markdown: kramdown
 theme: minima

@@ -14,12 +14,7 @@ Highlights include ...
 
 ... and much more!
 
----
-title: Core DH Skills
-weight: 2
----
-
-# Core DH Skills
+## Core DH Skills
 
 ## Coding foundations {#coding-foundations}
 

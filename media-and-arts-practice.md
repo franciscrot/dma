@@ -13,12 +13,7 @@ The line between Digital Humanities and digital media practice is blurred.
 - Audio, video, and motion graphics production
 - Speculative design and creative research methods
 
----
-title: Digital Media and Arts
-weight: 6
----
-
-# Digital Media and Arts
+## Digital Media and Arts
 
 ## Creative coding {#creative-coding}
 
