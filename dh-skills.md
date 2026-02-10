@@ -59,11 +59,10 @@ Why are we learning coding in the first place? There are all kinds of reasons, b
 
 Scraping the web is one important way of collecting data. Other forms of data collection include conducting interviews, deploying microphones or other sensors to record activities, giving participants prompts or challenges or inviting them to participate in playful activities, autoethnographic reflection, etc.
 
-APIs (Application Programming Interfaces) are another common route: they are ways for one piece of software to ask another for data in a structured and documented way. Instead of copying information from web pages, researchers can use APIs to request specific data directly from a database, or some other service.
-
 <details markdown="1">
 <summary>What's an API?</summary>
-- API (Application Programming Interface): An API is both a piece of software running on a remote computer, which makes certain things publicly “visible,” and a set of rules for how other programs interact with it.
+- **APIs (Application Programming Interfaces)** are another common route to collect data: they are ways for one piece of software to ask another for data in a structured and documented way. Instead of copying information from web pages, researchers can use APIs to request specific data directly from a database, or some other service.
+- An API is both a piece of software running on a remote computer, which makes certain things publicly “visible,” and a set of rules for how other programs interact with it.
 - You’ll often hear people say that a platform “has an API” or “has a good API”. What this usually means is that the platform has published a set of rules for how your code can interact with their system. An API is not something you download or install. It’s a set of instructions, usually described on a webpage, that explains how to ask a service for information or tell it to do something on your behalf. Instead of clicking around on a website or app yourself, you can use code to ask a service for data or to perform an action, following rules it publishes for developers.
 - The “things” involved might be your code (e.g. your Python code) on your machine, and then some remote service on the other—e.g. it might be a digital archive, a database, etc. Twitter used to have a good API which meant it was possible to select and download data and perform analyses, but that’s no longer the case -- the kind of research that used to be possible no longer is.
 - With an API, your code can “talk” to the remote resource -- e.g. using Python or other code to ask “give me the titles of these records” or “search for items matching these terms,” and receiving a structured response that your code can then work with. 
