@@ -26,6 +26,13 @@ Basic programming ideas and workflows that support humanities research.
 <details markdown="1">
 <summary>Resources</summary>
 
+- [Harvard CS50: CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python) — Intro Python course with lectures, problems, and practice.
+- [MIT OpenCourseWare: 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) — Full intro programming course taught in Python.
+- [MIT OpenCourseWare: 6.100L Introduction to CS and Programming Using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/) — Newer OCW intro-to-programming course in Python.
+- [Google Developers: Google’s Python Class](https://developers.google.com/edu/python) — Free Python lessons, videos, and exercises.
+- [Kaggle Learn: Python](https://www.kaggle.com/learn/python) — Short, hands-on Python micro-course for beginners.
+- [Python.org: Python For Beginners](https://www.python.org/about/gettingstarted/) — Official guidance and starting points for learning Python.
+- [Python.org Docs: The Python Tutorial](https://docs.python.org/3/tutorial/index.html) — Official tutorial: core language features and patterns.
 - [Introduction to Programming](https://docs.google.com/document/d/1n2WpHzsr5VIRAJ2cPvKyZ78dj0JTdke2kDyYtkHjRpI/edit?usp=sharing)
 - [Software Carpentry: Shell Novice](https://swcarpentry.github.io/shell-novice/) — Command-line basics for navigating files and automating tasks.
 - [Software Carpentry: Automating Tasks with the Unix Shell](https://swcarpentry.github.io/shell-novice/) — Learn pipelines, scripts, and reproducible workflows.
@@ -33,6 +40,7 @@ Basic programming ideas and workflows that support humanities research.
 - [Introduction to Google Colab (and topic modelling, while we're at it!)](https://colab.research.google.com/drive/1KEyBnHgFcLf2kyTv-lVPobW34DAIYkZ0)
 - [Software Carpentry: Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/) — Python basics using data analysis and plotting examples.
 - [Software Carpentry: Programming with R](https://swcarpentry.github.io/r-novice-inflammation/) — Intro R programming with functions, loops, and data.
+- [Project Jupyter: Intro to Jupyter Notebooks (in-browser)](https://jupyter.org/try-jupyter/notebooks/?path=notebooks%2FIntro.ipynb) — Learn notebooks in JupyterLab, no install needed.
 - Programming Historian: Python Introduction and Installation. "This first lesson in our section on dealing with Online Sources is designed to get you and your computer set up to start programming. We will focus on installing the relevant software – all free and reputable – and finally we will help you to get your toes wet with some simple programming that provides immediate results."
 - Programming Historian: Introduction to the Bash Command Line. "This lesson will teach you how to enter commands using a command-line interface, rather than through a graphical interface. Command-line interfaces have advantages for computer users who need more precision in their work, such as digital historians."
 - Programming Historian: Introduction to the Windows Command Line with PowerShell. "This tutorial will introduce you to the basics of Windows PowerShell, the standard command-line interface for Windows computers."
@@ -59,6 +67,15 @@ Data work covers how humanities data is collected, cleaned, and described so it 
 - [Data Carpentry: SQL for Ecologists](https://datacarpentry.org/sql-ecology-lesson/) — Intro SQL queries using research-style datasets.
 - [Library Carpentry: Introduction to Regular Expressions](https://librarycarpentry.github.io/lc-data-intro/) — Regex basics for searching and cleaning text data.
 - [Library Carpentry: Introduction to FAIR Data](https://librarycarpentry.github.io/lc-fair-data/) — Intro to FAIR principles for research data management.
+  
+- [Harvard CS50: CS50’s Introduction to Programming with R](https://cs50.harvard.edu/r) — Intro R course: data, vectors, functions, and RStudio.
+- [DataCamp: Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) — Free interactive intro to R basics and data structures.
+- [Software Carpentry: R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/) — Intro R for non-programmers using gapminder data.
+- [swirl: Learn R, in R](https://swirlstats.com/) — Interactive R lessons that run inside the R console.
+- [Posit: Posit Recipes (R)](https://posit.cloud/learn/recipes) — Practical R “how-to” recipes for common tasks.
+- [Posit: Posit Cheatsheets](https://posit.co/resources/cheatsheets/) — Fast reference sheets for common R packages.
+- [Library Carpentry: Library Carpentry Lessons](https://librarycarpentry.org/lessons/) — DH-adjacent skills: data cleaning, OpenRefine, Git basics.
+- [Library Carpentry: OpenRefine](https://librarycarpentry.github.io/lc-open-refine/) — Intro to cleaning, reconciling, and transforming messy data.
 - Programming Historian: Introduction to Encoding Texts in TEI (Part 1). "This lesson teaches you the basics of using TEI-XML to encode texts, and demonstrates how to create a minimal TEI document."
 - Programming Historian: Transforming Data for Reuse and Re-publication with XML and XSL. "This tutorial will provide you with the ability to convert or transform historical data from an XML database into a variety of different presentations."
 - Programming Historian: Introduction to the Principles of Linked Open Data. "Introduces core concepts of Linked Open Data, including URIs, ontologies, RDF formats, and a gentle intro to the graph query language SPARQL."
@@ -140,6 +157,7 @@ Digital collections focus on building and maintaining collections that support r
 - Programming Historian: Installing Omeka. "This lesson will teach you how to install your own copy of Omeka."
 - Programming Historian: Creating an Omeka Exhibit. "Now that you’ve added items to your Omeka site and grouped them into collections, you’re ready for the next step: taking your users on a guided tour through the items you’ve collected."
 - Programming Historian: Up and Running with Omeka.net. "Omeka.net makes it easy to create websites that show off collections of items."
+- [GitHub Docs: Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart) — Publish a simple website directly from a repository.
 - Programming Historian: Building a static website with Jekyll and GitHub Pages. "This lesson will help you create entirely free, easy-to-maintain, preservation-friendly, secure website over which you have full control."
 - Programming Historian: Running a Collaborative Research Website and Blog with Jekyll and GitHub. "This lesson introduces the challenges and opportunities that Jekyll offers for publishing collaborative, ongoing research online."
 - Programming Historian: Introduction to Populating a Website with API Data. "This lesson introduces a way to populate a website with data obtained from another website via an Application Programming Interface (API)."
@@ -213,6 +231,12 @@ Development foundations introduce collaborative practices that make digital proj
 <details markdown="1">
 <summary>Resources</summary>
 
+- [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github) — Guided mini-course: repos, commits, PRs, collaboration.
+- [GitHub Docs: “Hello World” (Get started)](https://docs.github.com/en/get-started/start-your-journey/hello-world) — Create a repo, commit changes, open a pull request.
+- [Software Carpentry: Version Control with Git](https://swcarpentry.github.io/git-novice/) — Step-by-step Git basics for complete novices.
+- [Git SCM: Pro Git (free online book)](https://git-scm.com/book/en/v2) — Comprehensive, readable Git book (free online).
+- [MIT CSAIL: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — Tools for developers: shell, Git, editors, debugging.
+- [The Turing Way: Getting Started With GitHub](https://book.the-turing-way.org/collaboration/github-novice/) — Research-focused GitHub walkthrough: issues, PRs, workflows.
 - Programming Historian: Creating Web APIs with Python and Flask. "Learn how to set up a basic Application Programming Interface (API) to make your data more accessible to users."
 - Programming Historian: Sustainable Authorship in Plain Text using Pandoc and Markdown. "This tutorial introduces Markdown and Pandoc, a command line tool that converts plain text into a number of beautifully formatted file types."
 - Programming Historian: Getting Started with Markdown. "In this lesson, you will be introduced to Markdown, a plain text-based syntax for formatting documents."

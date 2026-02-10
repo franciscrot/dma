@@ -28,6 +28,10 @@ weight: 6
 <details markdown="1">
 <summary>Resources</summary>
 
+- [MDN Web Docs: Learn web development](https://developer.mozilla.org/en-US/docs/Learn_web_development) — Structured beginner path for HTML, CSS, and JavaScript.
+- [MDN Web Docs: Getting started modules](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started) — Install tools and build your first basic website.
+- [freeCodeCamp: Responsive Web Design Certification (v9)](https://www.freecodecamp.org/learn/responsive-web-design-v9) — Free HTML/CSS course with projects and responsive layouts.
+- [The Odin Project: Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) — Free bootcamp-style intro to web dev tools and basics.
 - Programming Historian: Creating a Dashboard for Interactive Data Visualization with Dash in Python. "This lesson shows how to create interactive web-based dashboards using Python’s Dash library."
 - Programming Historian: Creating Interactive Visualizations with Plotly. "This lesson demonstrates how to create interactive data visualizations in Python with Plotly’s open-source graphing libraries."
 - Programming Historian: Creating GUIs in Python for Digital Humanities Projects. "In this lesson, you will use Qt Designer and Python to design and implement a simple graphical user interface and application to merge PDF files."
@@ -96,4 +100,3 @@ weight: 6
 - Programming Historian: Editing Audio with Audacity. "In this lesson you will learn how to use Audacity to load, record, edit, mix, and export audio files."
 - Programming Historian: The Sound of Data (a gentle introduction to sonification for historians). "This lesson will help you hear the past."
 </details>
-
