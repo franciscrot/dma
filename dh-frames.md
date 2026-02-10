@@ -6,11 +6,10 @@ title: DH Frames
 
 ## Critical lenses {#critical-lenses}
 
-- Critical disability studies, accessibility, universal design
-- Feminist, queer, decolonial, and anti-racist approaches
+- Critical disability studies, feminist, queer, decolonial, and anti-racist approaches
 - Actor–Network Theory (ANT), Science and Technology Studies (STS), and relational ontologies
-- Political economy and infrastructure studies (platforms, labour, supply chains, energy)
-- Just transition and climate justice perspectives
+- Political economy,  infrastructure studies (platforms, labour, supply chains, energy)
+- Just transition, climate justice
 - Minimal computing and low-resource, low-carbon approaches
 - Participatory research, co-design, co-development, co-creation, democratisation, etc.
 
@@ -29,6 +28,7 @@ title: DH Frames
 - Accessibility
 - Critical disability studies
 - Universal design
+- Minimal computing
 
 <details>
 <summary>Resources</summary>
@@ -57,10 +57,10 @@ The data lifecycle describes how data moves through a research project, from cre
 - [XML](https://en.wikipedia.org/wiki/XML) – a structured way of marking up text so computers can tell what different parts *are* (e.g. titles, dates, names)
 - [XSLT](https://en.wikipedia.org/wiki/XSLT) / [SQL](https://en.wikipedia.org/wiki/SQL) – XSLT reshapes XML documents into new forms; SQL asks questions of databases (e.g. “show me all items from 1850”)
 - [JSON](https://en.wikipedia.org/wiki/JSON) – JSON is a common format for storing and transmitting structured data
-- Python – a beginner-friendly language for reading, cleaning, and analysing data
-- SPARQL – a query language for linked data across the web
-- TEI – a scholarly XML standard for encoding literary and historical texts in detail
-- IIIF – a shared framework for libraries and museums to deliver high-resolution images online so they can be viewed, compared, and reused across sites
+- [Python](https://www.python.org/) – a beginner-friendly language for reading, cleaning, and analysing data
+- [SPARQL](https://en.wikipedia.org/wiki/SPARQL) – a query language for linked data across the web
+- [TEI](https://tei-c.org/) – a scholarly XML standard for encoding literary and historical texts in detail
+- [IIIF](https://iiif.io/) – a shared framework for libraries and museums to deliver high-resolution images online so they can be viewed, compared, and reused across sites
 
 <details>
 <summary>Resources</summary>
@@ -73,20 +73,18 @@ The data lifecycle describes how data moves through a research project, from cre
 
 ## Critical technology studies {#ai-critique}
 
-- Critical AI Studies and critiques of automation, scale, and optimisation
-- Epistemological luddism: scepticism toward claims that technology produces neutral or superior knowledge
-- Slow technology and refusal of speed, novelty, and extractive design
+- Critical AI Studies
+- Epistemological luddism
+- Slow technology
 - Convivial technology: tools that support autonomy, care, and collective flourishing
 
 <details>
 <summary>Resources</summary>
 
-- (to add link to reasonable questions to ask of any technology)
-- [Ivan Illich on conviviality — Wikipedia](https://en.wikipedia.org/wiki/Ivan_Illich)
-- (to add link to epistemological luddism paper)
-- Programming Historian: [Interrogating a National Narrative with GPT-2](https://programminghistorian.org/en/lessons/interrogating-a-national-narrative-with-gpt-2). "In this lesson, you will learn how to apply a Generative Pre-trained Transformer language model to a large-scale corpus so that you can locate broad themes and trends within written text."
-- Programming Historian: [Creating Deep Convolutional Neural Networks for Image Classification](https://programminghistorian.org/en/lessons/deep-convolutional-neural-networks). "This lesson provides a beginner-friendly introduction to convolutional neural networks (CNNs) for image classification."
-</details>
+- [76 Reasonable Questions to Ask of Any Technology](https://76questions.neocities.org/)
+- Wikipedia: [Ivan Illich](https://en.wikipedia.org/wiki/Ivan_Illich), Langdon Winner, 
+- Wikipedia: [Technocriticism](https://en.wikipedia.org/wiki/Technocriticism), [Criticism of technology](https://en.wikipedia.org/wiki/Criticism_of_technology), [Neo-Luddites](https://en.wikipedia.org/wiki/Neo-Luddism)
+- Lachney & Dotson (2018), [Epistemological Luddism: Reinvigorating a Concept for Action in 21st Century Sociotechnical Struggles](https://www.tandfonline.com/doi/full/10.1080/02691728.2018.1476603)
 
 ## Climate and environment {#climate-environment}
 
@@ -104,7 +102,9 @@ The data lifecycle describes how data moves through a research project, from cre
 - Intro to the tech sector
 - Political economy of technology
 
-## Intro to stats {#intro-to-stats}
+<details><summary>Resources</summary></details>
+
+## What is data science? {#intro-to-stats}
 
 - Humanities data science (see "Research Design" for more)
 - Critical metric studies: statistics as interpretation, not just calculation
