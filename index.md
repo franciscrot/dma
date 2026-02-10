@@ -16,6 +16,10 @@ Welcome to the DMA static site. Use the pages below to explore the core practice
     <h2>DH Frames</h2>
     <p>Critical perspectives that guide inquiry, interpretation, and ethical decision-making.</p>
   </a>
+  <a class="card" href="{{ "/research-design.html" | relative_url }}">
+    <h2>Research Design</h2>
+    <p>Methods, ethics, and planning practices that shape humanities research projects.</p>
+  </a>
   <a class="card" href="{{ "/critical-ai-practice.html" | relative_url }}">
     <h2>Critical AI Practice</h2>
     <p>Reflection on AI systems, their impacts, and responsible design practices.</p>
