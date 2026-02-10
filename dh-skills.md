@@ -36,6 +36,19 @@ Why are we learning coding in the first place? There are all kinds of reasons, b
 </details>
 
 <details markdown="1">
+<summary>What programming language to choose?</summary>
+
+If you're just getting started, the answer is probably Python!
+  
+- **Python** is good for general-purpose programming, especially for working with text, web data, and Machine Learning (AI).
+- **R** is especially strong for data exploration, statistical analysis, and producing plots — visualisations of data such as charts and graphs that help you see patterns, trends, and relationships.
+- **JavaScript / TypeScript** are the default languages of the web, used to build interactive websites and web apps that run in a browser.
+- Other languages include **C** and **C++**, which are very fast and energy-efficient for performance-critical software, **Java**, which is widely used for large, long-lived applications, and **Rust**, which combines high performance and energy efficiency with strong safety features. **C#**, despite the name, is not very close to C. It could be a choice if you want to make games in a game engine like Unity.
+- Then there are some things that are not really programming languages, but are a bit like them. **Twine** is not a programming language but a tool for creating interactive stories and games; it can be a gentle way to learn programming ideas such as logic, variables, and conditional choices. **HTML** is a mark-up language used to structure content on web pages (headings, paragraphs, links), and **CSS** is used to control how that content looks (layout, colours, fonts).
+
+</details>
+
+<details markdown="1">
 <summary>Resources</summary>
 
 - SHL Digital: [Introduction to Programming](https://docs.google.com/document/d/1n2WpHzsr5VIRAJ2cPvKyZ78dj0JTdke2kDyYtkHjRpI/edit?usp=sharing)
@@ -53,6 +66,12 @@ Why are we learning coding in the first place? There are all kinds of reasons, b
 - Google Developers: [Google’s Python Class](https://developers.google.com/edu/python) — Free Python lessons, videos, and exercises.
 - Kaggle Learn: [Python](https://www.kaggle.com/learn/python) — Short, hands-on Python micro-course for beginners.
 - Python.org: [Docs: The Python Tutorial](https://docs.python.org/3/tutorial/index.html) — Official tutorial: core language features and patterns.
+- Harvard CS50: [Introduction to Programming with R](https://cs50.harvard.edu/r) — Intro R course: data, vectors, functions, and RStudio.
+- DataCamp: [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) — Free interactive intro to R basics and data structures.
+- Software Carpentry: [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/) — Intro R for non-programmers using gapminder data.
+- swirl: [Learn R, in R](https://swirlstats.com/) — Interactive R lessons that run inside the R console.
+- Posit: [Posit Recipes (R)](https://posit.cloud/learn/recipes) — Practical R “how-to” recipes for common tasks.
+- Posit: [Posit Cheatsheets](https://posit.co/resources/cheatsheets/) — Fast reference sheets for common R packages.
 
 </details>
 
@@ -112,20 +131,9 @@ Regular expressions (often called regex) are a way of describing patterns in tex
 
 - Data Carpentry: [Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheet-ecology-lesson/) — Best practices for spreadsheets and tidy data.
 - Programming Historian: [Normalizing Textual Data with Python](https://programminghistorian.org/en/lessons/normalizing-textual-data-with-python). “In this lesson, we will make the list we created in the ‘From HTML to a List of Words’ lesson easier to analyze by normalizing this data.”
-- Data Carpentry: [SQL for Ecologists](https://datacarpentry.org/sql-ecology-lesson/) — Intro SQL queries using research-style datasets.
 - Library Carpentry: [Introduction to Regular Expressions](https://librarycarpentry.github.io/lc-data-intro/) — Regex basics for searching and cleaning text data.
 - Programming Historian: [Cleaning OCR’d Text with Regular Expressions](https://programminghistorian.org/en/lessons/cleaning-ocrd-text-with-regular-expressions). “This lesson will help you clean up OCR’d text to make it more usable.”
-- Harvard CS50: [Introduction to Programming with R](https://cs50.harvard.edu/r) — Intro R course: data, vectors, functions, and RStudio.
-- DataCamp: [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) — Free interactive intro to R basics and data structures.
-- Software Carpentry: [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/) — Intro R for non-programmers using gapminder data.
-- swirl: [Learn R, in R](https://swirlstats.com/) — Interactive R lessons that run inside the R console.
-- Posit: [Posit Recipes (R)](https://posit.cloud/learn/recipes) — Practical R “how-to” recipes for common tasks.
-- Posit: [Posit Cheatsheets](https://posit.co/resources/cheatsheets/) — Fast reference sheets for common R packages.
-- Library Carpentry: [Library Carpentry Lessons](https://librarycarpentry.org/lessons/) — DH-adjacent skills: data cleaning, OpenRefine, Git basics.
 - Library Carpentry: [OpenRefine](https://librarycarpentry.github.io/lc-open-refine/) — Intro to cleaning, reconciling, and transforming messy data.
-- Programming Historian: [Introduction to Encoding Texts in TEI (Part 1)](https://programminghistorian.org/en/lessons/intro-to-encoding-tei-1). “This lesson teaches you the basics of using TEI-XML to encode texts, and demonstrates how to create a minimal TEI document.”
-- Programming Historian: [Transforming Data for Reuse and Re-publication with XML and XSL](https://programminghistorian.org/en/lessons/transforming-xml-with-xsl). “This tutorial will provide you with the ability to convert or transform historical data from an XML database into a variety of different presentations.”
-- Programming Historian: [Introduction to the Principles of Linked Open Data](https://programminghistorian.org/en/lessons/intro-to-linked-open-data). “Introduces core concepts of Linked Open Data, including URIs, ontologies, RDF formats, and a gentle intro to the graph query language SPARQL.”
 - Programming Historian: [Data Wrangling and Management in R](https://programminghistorian.org/en/lessons/data-wrangling-and-management-in-r). “This tutorial explores how scholars can organize ‘tidy’ data, understand R packages to manipulate data, and conduct basic data analysis.”
 - Programming Historian: [R Basics with Tabular Data](https://programminghistorian.org/en/lessons/r-basics-with-tabular-data). “This lesson teaches a way to quickly analyze large volumes of tabular data, making research faster and more effective.”
 - Programming Historian: [Cleaning Data with OpenRefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine). “This tutorial focuses on how scholars can diagnose and act upon the accuracy of data.”
@@ -202,9 +210,11 @@ Digital collections focus on building and maintaining collections that support r
 - Programming Historian: [Creating an Omeka Exhibit](https://programminghistorian.org/en/lessons/creating-an-omeka-exhibit) — “Now that you’ve added items to your Omeka site and grouped them into collections, you’re ready for the next step: taking your users on a guided tour through the items you’ve collected.” 
 - Programming Historian: [Up and Running with Omeka.net](https://programminghistorian.org/en/lessons/up-and-running-with-omeka) — “Omeka.net makes it easy to create websites that show off collections of items.” 
 - GitHub Docs: [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart) — Publish a simple website directly from a repository.
-- Programming Historian: [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) — “This lesson will help you create entirely free, easy-to-maintain, preservation-friendly, secure website over which you have full control.” 
-- Programming Historian: [Running a Collaborative Research Website and Blog with Jekyll and GitHub](https://programminghistorian.org/en/lessons/running-a-collaborative-research-website-and-blog-with-jekyll-and-github) — “This lesson introduces the challenges and opportunities that Jekyll offers for publishing collaborative, ongoing research online.” 
 - Programming Historian: [Introduction to Populating a Website with API Data](https://programminghistorian.org/en/lessons/introduction-to-populating-a-website-with-api-data) — “This lesson introduces a way to populate a website with data obtained from another website via an Application Programming Interface (API).”
+- Data Carpentry: [SQL for Ecologists](https://datacarpentry.org/sql-ecology-lesson/) — Intro SQL queries using research-style datasets.
+- Programming Historian: [Introduction to Encoding Texts in TEI (Part 1)](https://programminghistorian.org/en/lessons/intro-to-encoding-tei-1). “This lesson teaches you the basics of using TEI-XML to encode texts, and demonstrates how to create a minimal TEI document.”
+- Programming Historian: [Transforming Data for Reuse and Re-publication with XML and XSL](https://programminghistorian.org/en/lessons/transforming-xml-with-xsl). “This tutorial will provide you with the ability to convert or transform historical data from an XML database into a variety of different presentations.”
+- Programming Historian: [Introduction to the Principles of Linked Open Data](https://programminghistorian.org/en/lessons/intro-to-linked-open-data). “Introduces core concepts of Linked Open Data, including URIs, ontologies, RDF formats, and a gentle intro to the graph query language SPARQL.”
 - Programming Historian: Understanding Web Pages and HTML. "This lesson introduces you to HTML and the web pages it structures."
 
 </details>
@@ -270,7 +280,14 @@ Physical computing connects digital research to material devices and environment
 
 - Programming Historian: [Creating Mobile Augmented Reality Experiences in Unity](https://programminghistorian.org/en/lessons/creating-mobile-augmented-reality-experiences-in-unity). “This lesson serves as an introduction to creating mobile augmented reality applications.”
 - Programming Historian: [Designing a Deck of Timeline Cards for Tabletops and Tabletop Simulator](https://programminghistorian.org/en/lessons/designing-a-deck-of-timeline-cards-for-tabletops-and-tabletop-simulator). “This lesson demonstrates how to use nanDECK to design and publish your own deck of printed or digital playing c
-- Raspberry Pis
+- Raspberry Pi: [Raspberry Pi Getting Started](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started)
+- Raspberry Pi: [Raspberry Pi Tutorials](https://www.raspberrypi.com/tutorials/)
+- SparkFun: [SparkFun Raspberry Pi Python Programming Tutorial](https://learn.sparkfun.com/tutorials/python-programming-tutorial-getting-started-with-the-raspberry-pi/all)
+- Adafruit: [Raspberry Pi Learning Guides](https://learn.adafruit.com/category/raspberry-pi)
+- [The MagPi Magazine](https://magpi.raspberrypi.com/)
+- [Arduino Project Hub](https://projecthub.arduino.cc/)
+- [ITP Physical Computing Resources](https://itp.nyu.edu/physcomp/)
+
 </details>
 
 ## Development foundations {#development-foundations}
@@ -296,12 +313,14 @@ d) Simple websites or browser-based tools. In some cases, code can be put in a w
 <details markdown="1">
 <summary>Resources</summary>
 
+- Programming Historian: [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) — “This lesson will help you create entirely free, easy-to-maintain, preservation-friendly, secure website over which you have full control.” 
+- Programming Historian: [Running a Collaborative Research Website and Blog with Jekyll and GitHub](https://programminghistorian.org/en/lessons/running-a-collaborative-research-website-and-blog-with-jekyll-and-github) — “This lesson introduces the challenges and opportunities that Jekyll offers for publishing collaborative, ongoing research online.”
 - GitHub Skills: [Introduction to GitHub](https://github.com/skills/introduction-to-github) — Guided mini-course: repos, commits, PRs, collaboration.
-- [GitHub Docs: “Hello World” (Get started)](https://docs.github.com/en/get-started/start-your-journey/hello-world) — Create a repo, commit changes, open a pull request.
+- GitHub Docs: [“Hello World” (Get started)](https://docs.github.com/en/get-started/start-your-journey/hello-world) — Create a repo, commit changes, open a pull request.
 - Software Carpentry: [Version Control with Git](https://swcarpentry.github.io/git-novice/) — Step-by-step Git basics for complete novices.
-- [Git SCM: Pro Git (free online book)](https://git-scm.com/book/en/v2) — Comprehensive, readable Git book (free online).
-- [MIT CSAIL: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — Tools for developers: shell, Git, editors, debugging.
-- [The Turing Way: Getting Started With GitHub](https://book.the-turing-way.org/collaboration/github-novice/) — Research-focused GitHub walkthrough: issues, PRs, workflows.
+- Git SCM: [Pro Git (free online book)](https://git-scm.com/book/en/v2) — Comprehensive, readable Git book (free online).
+- MIT CSAIL: [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — Tools for developers: shell, Git, editors, debugging.
+- The Turing Way: [Getting Started With GitHub](https://book.the-turing-way.org/collaboration/github-novice/) — Research-focused GitHub walkthrough: issues, PRs, workflows.
 - Programming Historian: [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask). “Learn how to set up a basic Application Programming Interface (API) to make your data more accessible to users.”
 - Programming Historian: [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown). “This tutorial introduces Markdown and Pandoc, a command line tool that converts plain text into a number of beautifully formatted file types.”
 - Programming Historian: [Getting Started with Markdown](https://programminghistorian.org/en/lessons/getting-started-with-markdown). “In this lesson, you will be introduced to Markdown, a plain text-based syntax for formatting documents.”
