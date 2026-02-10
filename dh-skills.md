@@ -12,7 +12,7 @@ title: DH+ Skills
 - **Text and cultural analytics** - Topic modelling and more
 - **Networked culture** - Network analysis and more
 - **Digital collections, digital editions, & preservation** - Creating digital resources
-- **Visual methods** - Visualisation for exploration or for explanation
+- **Visual methods and more** - Visualisation for exploration or for explanation
 - **Spatial methods** - Maps and more
 - **Physical computing** - Making things happen with code
 - **Development foundations** - GitHub and more
@@ -75,16 +75,12 @@ Scraping the web is one important way of collecting data. Other forms of data co
 <details markdown="1">
 <summary>Resources</summary>
   
-- Programming Historian: [Beginner’s Guide to Twitter Data](https://programminghistorian.org/en/lessons/beginners-guide-to-twitter-data). “Learn how to acquire Twitter data and process them to make them usable for further analysis.”
-- Programming Historian: [An Introduction to Twitterbots with Tracery](https://programminghistorian.org/en/lessons/an-introduction-to-twitterbots-with-tracery). “This lesson explains how to create simple twitterbots using Tracery and the Cheap Bots Done Quick service.”
 - Programming Historian: [Downloading Web Pages with Python](https://programminghistorian.org/en/lessons/downloading-web-pages-with-python). “This lesson introduces Uniform Resource Locators (URLs) and explains how to use Python to download and save the contents of a web page to your local hard drive.”
-- Programming Historian: [From HTML to a List of Words (part 1)](https://programminghistorian.org/en/lessons/from-html-to-a-list-of-words-1). “We introduce looping and branching so that programs can repeat tasks and test for certain conditions, making it possible to separate the content from the HTML tags.”
-- Programming Historian: [From HTML to a List of Words (part 2)](https://programminghistorian.org/en/lessons/from-html-to-a-list-of-words-2). “In this lesson, you will learn the Python commands needed to implement the second part of the algorithm begun in the lesson ‘From HTML to a List of Words (part 1)’.”
-- Programming Historian: [Normalizing Textual Data with Python](https://programminghistorian.org/en/lessons/normalizing-textual-data-with-python). “In this lesson, we will make the list we created in the ‘From HTML to a List of Words’ lesson easier to analyze by normalizing this data.”
 - Programming Historian: [Downloading Multiple Records Using Query Strings](https://programminghistorian.org/en/lessons/downloading-multiple-records-using-query-strings). “In this lesson, we will write a program that will download a series of records from the Old Bailey Online using custom search criteria.”
 - Programming Historian: [Automated Downloading with Wget](https://programminghistorian.org/en/lessons/automated-downloading-with-wget). “Wget is a useful program, run through your computer’s command line, for retrieving online material.”
 - Programming Historian: [Applied Archival Downloading with Wget](https://programminghistorian.org/en/lessons/applied-archival-downloading-with-wget). “This lesson expands web-scraping skills through a few more lessons that focus on other uses for Wget’s recursive retrieval function.”
 - Programming Historian: [Data Mining the Internet Archive Collection](https://programminghistorian.org/en/lessons/data-mining-the-internet-archive). “This lesson teaches you how to use Python to automate the downloading of large numbers of MARC files from the Internet Archive and parse MARC records.”
+- Programming Historian: [Beginner’s Guide to Twitter Data](https://programminghistorian.org/en/lessons/beginners-guide-to-twitter-data). “Learn how to acquire Twitter data and process them to make them usable for further analysis.” The days of the super-useful Twitter API are long gone, but may still be of interest!
 
 </details>
 
@@ -99,8 +95,6 @@ Digitisation converts physical materials into digital forms that can be searched
 - Programming Historian: [Transcribing Handwritten Text with Python and Microsoft Azure Computer Vision](https://programminghistorian.org/en/lessons/transcribing-handwritten-text-with-python-and-microsoft-azure-computer-vision). “This lesson will explain how to write a Python program to transcribe handwritten documents using Microsoft’s Azure Cognitive Services.”
 - Programming Historian: [Working with Batches of PDF Files](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files). “Learn how to perform OCR and text extraction with free command line tools like Tesseract and Poppler and how to get an overview of large numbers of PDF documents using topic modeling.”
 - Programming Historian: [Extracting Illustrated Pages from Digital Libraries with Python](https://programminghistorian.org/en/lessons/extracting-illustrated-pages-from-digital-libraries-with-python). “This lesson shows how to efficiently extract page regions of visual interest from digitized volumes.”
-- Programming Historian: [Introduction to Audiovisual Transcoding, Editing, and Color Analysis with FFmpeg](https://programminghistorian.org/en/lessons/introduction-to-audiovisual-transcoding-editing-and-color-analysis-with-ffmpeg). “This lesson introduces the basic functions of FFmpeg, a free command-line tool used for manipulating and analyzing audiovisual materials.”
-- Programming Historian: [Editing Audio with Audacity](https://programminghistorian.org/en/lessons/editing-audio-with-audacity). “In this lesson you will learn how to use Audacity to load, record, edit, mix, and export audio files.”
 
 </details>
 
@@ -117,11 +111,9 @@ Regular expressions (often called regex) are a way of describing patterns in tex
 <summary>Resources</summary>
 
 - Data Carpentry: [Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheet-ecology-lesson/) — Best practices for spreadsheets and tidy data.
-- Data Carpentry: [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/) — R basics for data cleaning, analysis, and plotting.
-- Data Carpentry: [Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/) — Python intro focused on tabular data and visualisation.
+- Programming Historian: [Normalizing Textual Data with Python](https://programminghistorian.org/en/lessons/normalizing-textual-data-with-python). “In this lesson, we will make the list we created in the ‘From HTML to a List of Words’ lesson easier to analyze by normalizing this data.”
 - Data Carpentry: [SQL for Ecologists](https://datacarpentry.org/sql-ecology-lesson/) — Intro SQL queries using research-style datasets.
 - Library Carpentry: [Introduction to Regular Expressions](https://librarycarpentry.github.io/lc-data-intro/) — Regex basics for searching and cleaning text data.
-- Library Carpentry: [Introduction to FAIR Data](https://librarycarpentry.github.io/lc-fair-data/) — Intro to FAIR principles for research data management.
 - Programming Historian: [Cleaning OCR’d Text with Regular Expressions](https://programminghistorian.org/en/lessons/cleaning-ocrd-text-with-regular-expressions). “This lesson will help you clean up OCR’d text to make it more usable.”
 - Harvard CS50: [Introduction to Programming with R](https://cs50.harvard.edu/r) — Intro R course: data, vectors, functions, and RStudio.
 - DataCamp: [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) — Free interactive intro to R basics and data structures.
@@ -146,10 +138,8 @@ Regular expressions (often called regex) are a way of describing patterns in tex
 - Programming Historian: [Transliterating Non-ASCII Characters with Python](https://programminghistorian.org/en/lessons/transliterating-non-ascii-characters-with-python). “This lesson shows how to use Python to transliterate automatically a list of words from a language with a non-Latin alphabet to a standardized format using ASCII characters.”
 - Programming Historian: [Scalable Reading of Structured Data](https://programminghistorian.org/en/lessons/scalable-reading-of-structured-data). “In this lesson, you will be introduced to ‘scalable reading’ and how to apply this workflow to your analysis of structured data.”
 - Programming Historian: [Generating an Ordered Data Set from an OCR Text File](https://programminghistorian.org/en/lessons/generating-an-ordered-data-set-from-an-ocr-text-file). “This tutorial illustrates strategies for taking raw OCR output from a scanned text, parsing it to isolate and correct essential elements of metadata, and generating an ordered data set (a python dictionary) from it.”
-- Programming Historian: [Correspondence Analysis for Historical Research with R](https://programminghistorian.org/en/lessons/correspondence-analysis-for-historical-research-with-r). “This tutorial explains how to carry out and interpret a correspondence analysis, which can be used to identify relationships within categorical data.”
-- Programming Historian: [Regression Analysis with Scikit-Learn (Part 1 – Linear)](https://programminghistorian.org/en/lessons/regression-analysis-with-scikit-learn-part-1). “This lesson provides an overview of linear regression and walks through running both algorithms in Python (using scikit-learn).”
-- Programming Historian: [Regression Analysis with Scikit-Learn (Part 2 – Logistic)](https://programminghistorian.org/en/lessons/regression-analysis-with-scikit-learn-part-2). “This lesson provides an overview of logistic regression, how to use Python (scikit-learn) to make a logistic regression model.”
-- Programming Historian: [Calibrating Radiocarbon Dates with R](https://programminghistorian.org/en/lessons/calibrating-radiocarbon-dates-with-r). “After reviewing the basic principles and challenges of radiocarbon dating, this lesson teaches you how to use R to calibrate a set of dates, and then explore and present your results.”
+- Programming Historian: [From HTML to a List of Words (part 1)](https://programminghistorian.org/en/lessons/from-html-to-a-list-of-words-1). “We introduce looping and branching so that programs can repeat tasks and test for certain conditions, making it possible to separate the content from the HTML tags.”
+- Programming Historian: [From HTML to a List of Words (part 2)](https://programminghistorian.org/en/lessons/from-html-to-a-list-of-words-2). “In this lesson, you will learn the Python commands needed to implement the second part of the algorithm begun in the lesson ‘From HTML to a List of Words (part 1)’.”
 </details>
 
 ## Text & cultural analytics {#text-cultural-analytics}
@@ -158,30 +148,29 @@ Text and cultural analytics explore computational approaches to studying languag
 
 <details markdown="1">
 <summary>Resources</summary>
+- Programming Historian: [Corpus Analysis with Voyant Tools](https://programminghistorian.org/en/lessons/corpus-analysis-with-voyant-tools). “In this lesson, you will learn how to organise a set of texts into a corpus and perform some basic linguistic analysis using the Voyant Tools platform.”
+- Programming Historian: [Corpus Analysis with spaCy](https://programminghistorian.org/en/lessons/corpus-analysis-with-spacy). “This lesson demonstrates how to use the Python library spaCy for analysis of large collections of texts.”
+- Programming Historian: [Corpus Analysis with AntConc](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc). “Corpus analysis is a form of text analysis which allows you to make comparisons between textual objects at a large scale (so-called ‘distant reading’).”
+- Programming Historian: [Basic Text Processing in R](https://programminghistorian.org/en/lessons/basic-text-processing-in-r). “Learn how to use R to analyze high-level patterns in texts, apply stylometric methods over time and across authors, and use summary methods to describe items in a corpus.”
+- Programming Historian: [Analyzing Documents with TF-IDF](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf). “This lesson focuses on a foundational natural language processing and information retrieval method called Term Frequency - Inverse Document Frequency (tf-idf).”
+- Programming Historian: [Getting Started with Topic Modeling and MALLET](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet). “In this lesson you will first learn what topic modeling is and why you might want to employ it in your research.”
+- Programming Historian: [Understanding and Creating Word Embeddings](https://programminghistorian.org/en/lessons/understanding-and-creating-word-embeddings). “Through a primarily theoretical lens, this lesson will teach you how to prepare a corpus and train a word embedding model.”
+- Programming Historian: [Clustering and Visualising Documents using Word Embeddings](https://programminghistorian.org/en/lessons/clustering-and-visualising-documents-using-word-embeddings). “This lesson uses word embeddings and clustering algorithms in Python to identify groups of similar documents in a corpus of approximately 9,000 academic abstracts.”
+- Programming Historian: [Clustering with Scikit-Learn in Python](https://programminghistorian.org/en/lessons/clustering-with-scikit-learn-in-python). “This tutorial demonstrates how to apply clustering algorithms with Python to a dataset with two concrete use cases.”
+- Programming Historian: [Understanding and Using Common Similarity Measures for Text Analysis](https://programminghistorian.org/en/lessons/understanding-and-using-common-similarity-measures-for-text-analysis). “This lesson introduces three common measures for determining how similar texts are to one another.”
+- Programming Historian: [Sentiment Analysis with ‘syuzhet’ using R](https://programminghistorian.org/en/lessons/sentiment-analysis-with-syuzhet-using-r). “This lesson teaches you how to obtain and analyse narrative texts for patterns of sentiment and emotion.”
+- Programming Historian: [Sentiment Analysis for Exploratory Data Analysis](https://programminghistorian.org/en/lessons/sentiment-analysis-for-exploratory-data-analysis). “In this lesson you will learn to conduct ‘sentiment analysis’ on texts and to interpret the results.”
+- Programming Historian: [Detecting Text Reuse with Passim](https://programminghistorian.org/en/lessons/detecting-text-reuse-with-passim). “In this lesson you will learn about text reuse detection – the automatic identification of reused passages in texts – and why you might want to use it in your research.”
+- Programming Historian: [Introduction to Stylometry with Python](https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python). “In this lesson you will learn to conduct ‘stylometric analysis’ on texts and determine authorship of disputed texts.”
+- Programming Historian: [Supervised Classification: The Naive Bayesian Returns to the Old Bailey](https://programminghistorian.org/en/lessons/naive-bayesian-returns-to-the-old-bailey). “This lesson shows how to use machine learning to extract interesting documents out of a digital archive.”
+- Programming Historian: [Interrogating a National Narrative with GPT-2](https://programminghistorian.org/en/lessons/interrogating-a-national-narrative-with-gpt-2). “In this lesson, you will learn how to apply a Generative Pre-trained Transformer language model to a large-scale corpus so that you can locate broad themes and trends within written text.”
+- Programming Historian: [Text Mining in Python through the HTRC Feature Reader](https://programminghistorian.org/en/lessons/text-mining-in-python-through-the-htrc-feature-reader). “Explains how to use Python to summarize and visualize data on millions of texts from the HathiTrust Research Center’s Extracted Features dataset.”
+- Programming Historian: [Text Mining YouTube Comment Data with Wordfish in R](https://programminghistorian.org/en/lessons/text-mining-youtube-comment-data-with-wordfish-in-r). “In this lesson, you will learn how to download YouTube video comments and use the R programming language to analyze the dataset with Wordfish.”
+- Programming Historian: [Analyzing Multilingual French and Russian Text using NLTK, spaCy, and Stanza](https://programminghistorian.org/en/lessons/analyzing-multilingual-french-and-russian-text). “This lesson covers tokenization, part-of-speech tagging, and lemmatization, as well as automatic language detection, for non-English and multilingual text.”
+- Programming Historian: [Keywords in Context (Using n-grams) with Python](https://programminghistorian.org/en/lessons/keywords-in-context-using-n-grams-with-python). “This lesson takes the frequency pairs collected in ‘Counting Frequencies’ and outputs them in HTML.”
+- Programming Historian: [Output Keywords in Context in an HTML File with Python](https://programminghistorian.org/en/lessons/output-keywords-in-context-in-an-html-file-with-python). “This lesson builds on ‘Keywords in Context (Using N-grams)’, where n-grams were extracted from a text.”
+- Programming Historian: [Counting Word Frequencies with Python](https://programminghistorian.org/en/lessons/counting-word-frequencies-with-python). “Counting the frequency of specific words in a list can provide illustrative data. This lesson will teach you Python’s easy way to count such frequencies.”
 
-- Programming Historian: Corpus Analysis with Voyant Tools. "In this lesson, you will learn how to organise a set of texts into a corpus and perform some basic linguistic analysis using the Voyant Tools platform."
-- Programming Historian: Corpus Analysis with spaCy. "This lesson demonstrates how to use the Python library spaCy for analysis of large collections of texts."
-- Programming Historian: Corpus Analysis with Antconc. "Corpus analysis is a form of text analysis which allows you to make comparisons between textual objects at a large scale (so-called ‘distant reading’)."
-- Programming Historian: Basic Text Processing in R. "Learn how to use R to analyze high-level patterns in texts, apply stylometric methods over time and across authors, and use summary methods to describe items in a corpus."
-- Programming Historian: Analyzing Documents with TF-IDF. "This lesson focuses on a foundational natural language processing and information retrieval method called Term Frequency - Inverse Document Frequency (tf-idf)."
-- Programming Historian: Getting Started with Topic Modeling and MALLET. "In this lesson you will first learn what topic modeling is and why you might want to employ it in your research."
-- Programming Historian: Understanding and Creating Word Embeddings. "Through a primarily theoretical lens, this lesson will teach you how to prepare a corpus and train a word embedding model."
-- Programming Historian: Clustering and Visualising Documents using Word Embeddings. "This lesson uses word embeddings and clustering algorithms in Python to identify groups of similar documents in a corpus of approximately 9,000 academic abstracts."
-- Programming Historian: Clustering with Scikit-Learn in Python. "This tutorial demonstrates how to apply clustering algorithms with Python to a dataset with two concrete use cases."
-- Programming Historian: Understanding and Using Common Similarity Measures for Text Analysis. "This lesson introduces three common measures for determining how similar texts are to one another."
-- Programming Historian: Sentiment Analysis with 'syuzhet' using R. "This lesson teaches you how to obtain and analyse narrative texts for patterns of sentiment and emotion."
-- Programming Historian: Sentiment Analysis for Exploratory Data Analysis. "In this lesson you will learn to conduct ‘sentiment analysis’ on texts and to interpret the results."
-- Programming Historian: Detecting Text Reuse with Passim. "In this lesson you will learn about text reuse detection – the automatic identification of reused passages in texts – and why you might want to use it in your research."
-- Programming Historian: Introduction to stylometry with Python. "In this lesson you will learn to conduct ‘stylometric analysis’ on texts and determine authorship of disputed texts."
-- Programming Historian: Supervised Classification: The Naive Bayesian Returns to the Old Bailey. "This lesson shows how to use machine learning to extract interesting documents out of a digital archive."
-- Programming Historian: Interrogating a National Narrative with GPT-2. "In this lesson, you will learn how to apply a Generative Pre-trained Transformer language model to a large-scale corpus so that you can locate broad themes and trends within written text."
-- Programming Historian: Text Mining in Python through the HTRC Feature Reader. "Explains how to use Python to summarize and visualize data on millions of texts from the HathiTrust Research Center’s Extracted Features dataset."
-- Programming Historian: Text Mining YouTube Comment Data with Wordfish in R. "In this lesson, you will learn how to download YouTube video comments and use the R programming language to analyze the dataset with Wordfish."
-- Programming Historian: Analyzing Multilingual French and Russian Text using NLTK, spaCy, and Stanza. "This lesson covers tokenization, part-of-speech tagging, and lemmatization, as well as automatic language detection, for non-English and multilingual text."
-- Programming Historian: Keywords in Context (Using n-grams) with Python. "This lesson takes the frequency pairs collected in “Counting Frequencies” and outputs them in HTML."
-- Programming Historian: Output Keywords in Context in an HTML File with Python. "This lesson builds on ‘Keywords in Context (Using N-grams)’, where n-grams were extracted from a text. Here, you will learn how to output all of the n-grams of a given keyword in a document downloaded from the Internet, and display them clearly in your browser window."
-- Programming Historian: Counting Word Frequencies with Python. "Counting the frequency of specific words in a list can provide illustrative data. This lesson will teach you Python’s easy way to count such frequencies."
-- Programming Historian: Understanding Web Pages and HTML. "This lesson introduces you to HTML and the web pages it structures."
 </details>
 
 ## Networked culture {#networked-culture}
@@ -191,11 +180,12 @@ Networked culture examines how people, texts, and platforms connect and circulat
 <details markdown="1">
 <summary>Resources</summary>
 
-- Programming Historian: Exploring and Analyzing Network Data with Python. "This lesson introduces network metrics and how to draw conclusions from them when working with humanities data."
-- Programming Historian: Temporal Network Analysis with R. "Learn how to use R to analyze networks that change over time."
-- Programming Historian: Simulating Historical Communication Networks in Python. "You will learn the basics of programming a simulation model by building an Agent-Based Model of historical letter exchanges using the Python library mesa."
-- Programming Historian: From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources. "This tutorial explains how to extract network data (people, institutions, places, etc) from historical sources and how to visualize this data with Palladio."
-- Programming Historian: Dealing with Big Data and Network Analysis Using Neo4j. "In this lesson we will learn how to use a graph database to store and analyze complex networked information."
+- Programming Historian: [Exploring and Analyzing Network Data with Python](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python). “This lesson introduces network metrics and how to draw conclusions from them when working with humanities data.”
+- Programming Historian: [Temporal Network Analysis with R](https://programminghistorian.org/en/lessons/temporal-network-analysis-with-r). “Learn how to use R to analyze networks that change over time.”
+- Programming Historian: [Simulating Historical Communication Networks in Python](https://programminghistorian.org/en/lessons/simulating-historical-communication-networks-in-python). “You will learn the basics of programming a simulation model by building an Agent-Based Model of historical letter exchanges using the Python library mesa.”
+- Programming Historian: [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](https://programminghistorian.org/en/lessons/from-hermeneutics-to-data-to-networks). “This tutorial explains how to extract network data (people, institutions, places, etc) from historical sources and how to visualize this data with Palladio.”
+- Programming Historian: [Dealing with Big Data and Network Analysis Using Neo4j](https://programminghistorian.org/en/lessons/dealing-with-big-data-and-network-analysis-using-neo4j). “In this lesson we will learn how to use a graph database to store and analyse complex networked information.”
+
 </details>
 
 ## Digital collections, digital editions, and preservation {#digital-collections}
@@ -205,6 +195,7 @@ Digital collections focus on building and maintaining collections that support r
 <details markdown="1">
 <summary>Resources</summary>
 
+- Library Carpentry: [Introduction to FAIR Data](https://librarycarpentry.github.io/lc-fair-data/) — Intro to FAIR principles for research data management.
 - Programming Historian: [Preserving Your Research Data](https://programminghistorian.org/en/lessons/preserving-your-research-data) — “This lesson will suggest ways in which historians can document and structure their research data so as to ensure it remains useful in the future.” 
 - Programming Historian: [From Sources to Data: Designing a Database for the Humanities and Social Sciences with nodegoat](https://programminghistorian.org/en/lessons/from-sources-to-data-designing-a-database-for-the-humanities-and-social-sciences-with-nodegoat) — “This lesson teaches you how to use the nodegoat software to build a relational database for research in the humanities.”
 - Programming Historian: [Installing Omeka](https://programminghistorian.org/en/lessons/installing-omeka) — “This lesson will teach you how to install your own copy of Omeka.” 
@@ -213,11 +204,12 @@ Digital collections focus on building and maintaining collections that support r
 - GitHub Docs: [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart) — Publish a simple website directly from a repository.
 - Programming Historian: [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) — “This lesson will help you create entirely free, easy-to-maintain, preservation-friendly, secure website over which you have full control.” 
 - Programming Historian: [Running a Collaborative Research Website and Blog with Jekyll and GitHub](https://programminghistorian.org/en/lessons/running-a-collaborative-research-website-and-blog-with-jekyll-and-github) — “This lesson introduces the challenges and opportunities that Jekyll offers for publishing collaborative, ongoing research online.” 
-- Programming Historian: [Introduction to Populating a Website with API Data](https://programminghistorian.org/en/lessons/introduction-to-populating-a-website-with-api-data) — “This lesson introduces a way to populate a website with data obtained from another website via an Application Programming Interface (API).” :contentReference[oaicite:7]{index=7}
+- Programming Historian: [Introduction to Populating a Website with API Data](https://programminghistorian.org/en/lessons/introduction-to-populating-a-website-with-api-data) — “This lesson introduces a way to populate a website with data obtained from another website via an Application Programming Interface (API).”
+- Programming Historian: Understanding Web Pages and HTML. "This lesson introduces you to HTML and the web pages it structures."
 
 </details>
 
-## Visual methods {#visual-methods}
+## Visual methods and more {#visual-methods}
 
 Visual methods can be used to explore data-sets to look for data, and/or to communicate findings to various audiences or users. We might also go beyond the visual. How can data be sonified? How can data be gamified? How can complex data be humanised, to create opportunities for learning, critique, translation, revalation, transformation, rapture, estrangement, immersion, or something else?
 
@@ -228,6 +220,8 @@ Visual methods can be used to explore data-sets to look for data, and/or to comm
 - Programming Historian: [Visualizing Urban and Demographic Data in R with ggplot2](https://programminghistorian.org/en/lessons/visualizing-urban-data-with-r). “This lesson demonstrates how to use R’s ggplot2 package to create sophisticated data visualizations.”
 - Programming Historian: [Creating Interactive Visualizations with Plotly](https://programminghistorian.org/en/lessons/creating-interactive-visualizations-with-plotly). “This lesson demonstrates how to create interactive data visualizations in Python with Plotly’s open-source graphing libraries.”
 - Programming Historian: [Visualizing Data with Bokeh and Pandas](https://programminghistorian.org/en/lessons/visualizing-data-with-bokeh-and-pandas). “In this lesson you will learn how to visually explore and present data in Python by using the Bokeh and Pandas libraries.”
+- Data Carpentry: [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/) — R basics for data cleaning, analysis, and plotting.
+- Data Carpentry: [Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/) — Python intro focused on tabular data and visualisation.
 - Programming Historian: [Creating a Dashboard for Interactive Data Visualization with Dash in Python](https://programminghistorian.org/en/lessons/creating-a-dashboard-with-dash). “This lesson shows how to create interactive web-based dashboards using Python’s Dash library.”
 - Programming Historian: [Making an Interactive Web Application with R and Shiny](https://programminghistorian.org/en/lessons/shiny-r). “This lesson demonstrates how to build an interactive webmap using R and the Shiny library.”
 - Programming Historian: [Creating Deep Convolutional Neural Networks for Image Classification](https://programminghistorian.org/en/lessons/creating-deep-convolutional-neural-networks-for-image-classification). “This lesson provides a beginner-friendly introduction to convolutional neural networks (CNNs) for image classification.”
@@ -236,7 +230,10 @@ Visual methods can be used to explore data-sets to look for data, and/or to comm
 - Programming Historian: [Facial Recognition in Historical Photographs with Artificial Intelligence in Python](https://programminghistorian.org/en/lessons/facial-recognition-in-historical-photographs). “In this lesson, you’ll learn computer vision and machine learning principles for object recognition, and how to apply these principles using Python to recognize and classify smiling faces in historical photographs.”
 - Programming Historian: [Teaching History and Languages with a Strategy Computer Game: 0̸ A.D. in the Classroom](https://programminghistorian.org/en/lessons/0ad-in-the-classroom). “This lesson demonstrates how to prepare a geographically accurate historical battle scene in the free and open source computer game 0̸ A.D.”
 - Programming Historian: [Interactive Fiction in the Humanities Classroom: How to Create Interactive Text Games Using Twine](https://programminghistorian.org/en/lessons/interactive-fiction-with-twine). “This lesson provides strategies for incorporating game creation into the classroom.”
+- Programming Historian: [An Introduction to Twitterbots with Tracery](https://programminghistorian.org/en/lessons/an-introduction-to-twitterbots-with-tracery). “This lesson explains how to create simple twitterbots using Tracery and the Cheap Bots Done Quick service.”
 - Programming Historian: [The Sound of Data: A Gentle Introduction to Sonification for Historians](https://programminghistorian.org/en/lessons/the-sound-of-data). “This lesson will help you hear the past.”
+- Programming Historian: [Introduction to Audiovisual Transcoding, Editing, and Color Analysis with FFmpeg](https://programminghistorian.org/en/lessons/introduction-to-audiovisual-transcoding-editing-and-color-analysis-with-ffmpeg). “This lesson introduces the basic functions of FFmpeg, a free command-line tool used for manipulating and analyzing audiovisual materials.”
+- Programming Historian: [Editing Audio with Audacity](https://programminghistorian.org/en/lessons/editing-audio-with-audacity). “In this lesson you will learn how to use Audacity to load, record, edit, mix, and export audio files.”
 
 </details>
 
