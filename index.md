@@ -3,9 +3,9 @@ layout: default
 title: Main
 ---
 
-# Digital Media and Arts
+# Digital Methods Accelerator
 
-Welcome to the DMA static site. Use the pages below to explore the core practice areas and frames that shape the program.
+Welcome to the Digital Methods Accelerator. This is a resource hub for DH+ (or in other words, all things digital as they pertain to media, arts and humanities researchers). Feel free to update or add new resources on the GitHub repository.
 
 <div class="card-grid">
   <a class="card" href="{{ "/dh-skills.html" | relative_url }}">
@@ -30,6 +30,6 @@ Welcome to the DMA static site. Use the pages below to explore the core practice
   </a>
   <a class="card" href="{{ "/shl-digital.html" | relative_url }}">
     <h2>SHL Digital</h2>
-    <p>Digital scholarship and learning initiatives that support collaboration and public engagement.</p>
+    <p>Sussex Digital Humanities Lab.</p>
   </a>
 </div>
