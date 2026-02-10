@@ -1,16 +1,18 @@
 ---
 layout: default
-title: DH Skills
+title: DH+ Skills
 ---
 
-# DH Skills
+# DH+ Skills
 
-This page highlights practical skills that support digital humanities work, including:
+Highlights include ...
 
-- Text analysis and data wrangling
+- Data wrangling and text analysis
 - Mapping, visualization, and spatial storytelling
 - Web publishing and digital exhibits
 - Collaborative project management
+
+... and much more!
 
 ---
 title: Core DH Skills
