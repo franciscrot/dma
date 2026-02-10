@@ -51,13 +51,15 @@ The data lifecycle describes how data moves through a research project, from cre
 <details>
 <summary>Resources</summary></details>
 
-## Formats, standards, etc. {#formats-standards}
+## Interoperability {#formats-standards}
 
-- "Mark-up" often means adding information to a text that explains what parts of it are, in a way a computer can understand. For example, HTML marks up how content is displayed on the web (headings, paragraphs, links); XML marks up the underlying structure and meaning of data in a flexible, machine-readable way; and TEI is a specific scholarly XML standard for marking up literary and historical texts in rich, interpretive detail.
+What systems can talk to what systems, and how easily? 
+
+"Mark-up" often means adding information to a text that explains what parts of it are, in a way a computer can understand. For example, HTML marks up how content is displayed on the web (headings, paragraphs, links); XML marks up the underlying structure and meaning of data in a flexible, machine-readable way; and TEI is a specific scholarly XML standard for marking up literary and historical texts in rich, interpretive detail.
+
 - [XML](https://en.wikipedia.org/wiki/XML) – a structured way of marking up text so computers can tell what different parts *are* (e.g. titles, dates, names)
 - [XSLT](https://en.wikipedia.org/wiki/XSLT) / [SQL](https://en.wikipedia.org/wiki/SQL) – XSLT reshapes XML documents into new forms; SQL asks questions of databases (e.g. “show me all items from 1850”)
 - [JSON](https://en.wikipedia.org/wiki/JSON) – JSON is a common format for storing and transmitting structured data
-- [Python](https://www.python.org/) – a beginner-friendly language for reading, cleaning, and analysing data
 - [SPARQL](https://en.wikipedia.org/wiki/SPARQL) – a query language for linked data across the web
 - [TEI](https://tei-c.org/) – a scholarly XML standard for encoding literary and historical texts in detail
 - [IIIF](https://iiif.io/) – a shared framework for libraries and museums to deliver high-resolution images online so they can be viewed, compared, and reused across sites
@@ -69,6 +71,7 @@ The data lifecycle describes how data moves through a research project, from cre
 - Programming Historian: [Transforming Data for Reuse and Re-publication with XML and XSL](https://programminghistorian.org/en/lessons/transforming-xml-with-xsl). "This tutorial will provide you with the ability to convert or transform historical data from an XML database into a variety of different presentations."
 - Programming Historian: [Introduction to the Principles of Linked Open Data](https://programminghistorian.org/en/lessons/intro-to-linked-data). "Introduces core concepts of Linked Open Data, including URIs, ontologies, RDF formats, and a gentle intro to the graph query language SPARQL." :contentReference[oaicite:0]{index=0}
 - Programming Historian: [Reshaping JSON with jq](https://programminghistorian.org/en/lessons/json-and-jq). "Working with data from an art museum API and from the Twitter API, this lesson teaches how to use the command-line utility jq to filter and parse complex JSON files into flat CSV files." :contentReference[oaicite:1]{index=1}
+- [Python](https://www.python.org/) – a beginner-friendly language for reading, cleaning, and analysing data
 </details>
 
 ## Critical technology studies {#ai-critique}
@@ -94,17 +97,27 @@ The data lifecycle describes how data moves through a research project, from cre
 <summary>Resources</summary>
 
 - Programming Historian: [Preserving Your Research Data](https://programminghistorian.org/en/lessons/preserving-your-research-data). "This lesson will suggest ways in which historians can document and structure their research data so as to ensure it remains useful in the future."
+- DHCC: [The Digital Humanities Climate Coalition Toolkit](https://sas-dhrh.github.io/dhcc-toolkit/)
 
 </details>
 
 ## What is tech? {#what-is-tech}
 
+What is tech, physically?
+
 - Intro to the tech sector
 - Political economy of technology
 
-<details><summary>Resources</summary></details>
+<details><summary>Resources</summary>
+
+- DHCC: [The Cloud and the Climate: Navigating our AI-Powered Futures](https://zenodo.org/records/13850067)
+- Adrian Daub, [What Tech Calls Thinking](https://fabricating.it/media/pages/repository/23d8a22dfe-1616916755/adrian-daub-what-tech-calls-thinking.pdf)
+
+</details>
 
 ## What is data science? {#intro-to-stats}
+
+DH+ exists at the crossroads of media, arts, and humanities, and data science / computer science.
 
 - Humanities data science (see "Research Design" for more)
 - Critical metric studies: statistics as interpretation, not just calculation
