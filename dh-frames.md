@@ -45,7 +45,7 @@ weight: 3
 - TEI - a scholarly XML standard for encoding literary and historical texts in detail.
 - IIIF – a shared way for libraries and museums to deliver high-resolution images online so they can be viewed, compared, and reused across sites.
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Introduction to Encoding Texts in TEI (Part 1). "This lesson teaches you the basics of using TEI-XML to encode texts, and demonstrates how to create a minimal TEI document."
@@ -60,7 +60,7 @@ weight: 3
 - Resistance
 - Abolition
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Interrogating a National Narrative with GPT-2. "In this lesson, you will learn how to apply a Generative Pre-trained Transformer language model to a large-scale corpus so that you can locate broad themes and trends within written text."
@@ -71,7 +71,7 @@ weight: 3
 
 - Digital sustainability
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Preserving Your Research Data. "This lesson will suggest ways in which historians can document and structure their research data so as to ensure it remains useful in the future."
@@ -86,7 +86,7 @@ weight: 3
 
 - Humanities data science
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Correspondence Analysis for Historical Research with R. "This tutorial explains how to carry out and interpret a correspondence analysis, which can be used to identify relationships within categorical data."

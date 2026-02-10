@@ -25,7 +25,7 @@ weight: 4
 - Open data
 - Open software
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Sustainable Authorship in Plain Text using Pandoc and Markdown. "This tutorial introduces Markdown and Pandoc, a command line tool that converts plain text into a number of beautifully formatted file types."
@@ -40,7 +40,7 @@ weight: 4
 - Controls & blocking
 - Factorial interaction
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Regression Analysis with Scikit-Learn (part 1 - Linear). "This lesson provides an overview of linear regression and walks through running both algorithms in Python (using scikit-learn)."
@@ -53,7 +53,7 @@ weight: 4
 - Interviews
 - Coding
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Scalable Reading of Structured Data. "In this lesson, you will be introduced to ‘scalable reading’ and how to apply this workflow to your analysis of structured data."
@@ -66,7 +66,7 @@ weight: 4
 - Consent
 - Data protection
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Introduction to the Principles of Linked Open Data. "Introduces core concepts of Linked Open Data, including URIs, ontologies, RDF formats, and a gentle intro to the graph query language SPARQL."
@@ -78,7 +78,7 @@ weight: 4
 - Risk assessment
 - Institutional review
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Interrogating a National Narrative with GPT-2. "In this lesson, you will learn how to apply a Generative Pre-trained Transformer language model to a large-scale corpus so that you can locate broad themes and trends within written text."
@@ -91,7 +91,7 @@ weight: 4
 - Archiving
 - Stewardship
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Preserving Your Research Data. "This lesson will suggest ways in which historians can document and structure their research data so as to ensure it remains useful in the future."
@@ -104,7 +104,7 @@ weight: 4
 - Licensing
 - Reuse
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Transforming Data for Reuse and Re-publication with XML and XSL. "This tutorial will provide you with the ability to convert or transform historical data from an XML database into a variety of different presentations."

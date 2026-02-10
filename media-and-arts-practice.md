@@ -25,7 +25,7 @@ weight: 6
 - CSS + HTML + JS
 - In-browser games
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Creating a Dashboard for Interactive Data Visualization with Dash in Python. "This lesson shows how to create interactive web-based dashboards using Python’s Dash library."
@@ -39,7 +39,7 @@ weight: 6
 - Intro to game design
 - Intro to Unity
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Interactive Fiction in the Humanities Classroom: How to Create Interactive Text Games Using Twine. "This lesson provides strategies for incorporating game creation into the classroom."
@@ -54,7 +54,7 @@ weight: 6
 - Soldering
 - Code textiles
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Creating Mobile Augmented Reality Experiences in Unity. "This lesson serves as an introduction to creating mobile augmented reality applications."
@@ -67,7 +67,7 @@ weight: 6
 - Design thinking
 - Prototyping
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Building a static website with Jekyll and GitHub Pages. "This lesson will help you create entirely free, easy-to-maintain, preservation-friendly, secure website over which you have full control."
@@ -78,7 +78,7 @@ weight: 6
 
 - Intro to cybersecurity
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Introduction to the Bash Command Line. "This lesson will teach you how to enter commands using a command-line interface, rather than through a graphical interface."
@@ -89,7 +89,7 @@ weight: 6
 - Digital forensics
 - Recovery from obsolete media
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Introduction to Audiovisual Transcoding, Editing, and Color Analysis with FFmpeg. "This lesson introduces the basic functions of FFmpeg, a free command-line tool used for manipulating and analyzing audiovisual materials."
