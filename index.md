@@ -14,19 +14,19 @@ Welcome to the Digital Methods Accelerator. This is a resource hub for DH+ (or i
   </a>
   <a class="card" href="{{ "/dh-frames.html" | relative_url }}">
     <h2>DH Frames</h2>
-    <p>Critical perspectives that guide inquiry, interpretation, and ethical decision-making.</p>
+    <p>Critical perspectives to guide DH+ research.</p>
   </a>
   <a class="card" href="{{ "/research-design.html" | relative_url }}">
     <h2>Research Design</h2>
-    <p>Methods, ethics, and planning practices that shape humanities research projects.</p>
+    <p>Data protection, IP licenses, sustainable research, interdisciplinary research, and more.</p>
   </a>
   <a class="card" href="{{ "/critical-ai-practice.html" | relative_url }}">
     <h2>Critical AI Practice</h2>
-    <p>Reflection on AI systems, their impacts, and responsible design practices.</p>
+    <p>Responsible AI? Or resist AI? Or something else?</p>
   </a>
   <a class="card" href="{{ "/media-and-arts-practice.html" | relative_url }}">
     <h2>Media and Arts Practice</h2>
-    <p>Creative production, storytelling, and experimental media formats.</p>
+    <p>Using digital tools and methods in arts-based research.</p>
   </a>
   <a class="card" href="{{ "/shl-digital.html" | relative_url }}">
     <h2>SHL Digital</h2>
