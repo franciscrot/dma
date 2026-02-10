@@ -1,7 +1,6 @@
 ---
 layout: default
 title: SHL Digital
-permalink: /shl-digital/
 ---
 
 # SHL Digital

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Critical AI Practice
-permalink: /critical-ai-practice/
 ---
 
 # Critical AI Practice

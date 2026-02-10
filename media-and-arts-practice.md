@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Media and Arts Practice
-permalink: /media-and-arts-practice/
 ---
 
 # Media and Arts Practice
