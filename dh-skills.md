@@ -5,18 +5,17 @@ title: DH+ Skills
 
 # DH+ Skills
 
-- Coding foundations
-- Data collection
-- Digitisation and OCR
-- Data cleaning
-- Text and cultural analytics
-- Networked culture
-- Digital collections & preservation
-- Visual methods
-- Spatial methods
-- Physical computing
-
-... and much more!
+- **Coding foundations** - Introductions to Python
+- **Data collection** - What do you want to study?
+- **Digitisation and OCR** - Part of data collection
+- **Data cleaning** - Getting data ready for automated analysis
+- **Text and cultural analytics** - Topic modelling and more
+- **Networked culture** - Network analysis and more
+- **Digital collections, digital editions, & preservation** - Creating digital resources
+- **Visual methods** - Visualisation for exploration or for explanation
+- **Spatial methods** - Maps and more
+- **Physical computing** - Making things happen with code
+- **Development foundations** - GitHub and more
 
 ## Coding foundations {#coding-foundations}
 
