@@ -14,13 +14,6 @@ Highlights include ...
 
 ... and much more!
 
----
-title: Core DH Skills
-weight: 2
----
-
-# Core DH Skills
-
 ## Coding foundations {#coding-foundations}
 
 Basic programming ideas and workflows that support humanities research. 
@@ -28,32 +21,21 @@ Basic programming ideas and workflows that support humanities research.
 <details markdown="1">
 <summary>Resources</summary>
 
+- [Introduction to Programming](https://docs.google.com/document/d/1n2WpHzsr5VIRAJ2cPvKyZ78dj0JTdke2kDyYtkHjRpI/edit?usp=sharing)
+- [Python.org: Python For Beginners](https://www.python.org/about/gettingstarted/) — Official guidance and starting points for learning Python.
+- [Thonny, a Python IDE for beginners](https://thonny.org/)
+- [Project Jupyter: Intro to Jupyter Notebooks (in-browser)](https://jupyter.org/try-jupyter/notebooks/?path=notebooks%2FIntro.ipynb) — Learn notebooks in JupyterLab, no install needed.
+- [Introduction to Google Colab (and topic modelling, while we're at it!)](https://colab.research.google.com/drive/1KEyBnHgFcLf2kyTv-lVPobW34DAIYkZ0)
+- Programming Historian: Introduction to Jupyter Notebooks. "Jupyter notebooks provide an environment where you can freely combine human-readable narrative with computer-readable code. This lesson describes how to install the Jupyter Notebook software, how to run and create Jupyter notebook files,
+- Programming Historian: Python Introduction and Installation. "This first lesson in our section on dealing with Online Sources is designed to get you and your computer set up to start programming. We will focus on installing the relevant software – all free and reputable – and finally we will help you to get your toes wet with some simple programming that provides immediate results."
+- Programming Historian: Setting Up an Integrated Development Environment for Python (Windows). "This lesson will help you set up an integrated development environment for Python on a computer running the Windows operating system." 
 - [Harvard CS50: CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python) — Intro Python course with lectures, problems, and practice.
 - [MIT OpenCourseWare: 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) — Full intro programming course taught in Python.
 - [MIT OpenCourseWare: 6.100L Introduction to CS and Programming Using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/) — Newer OCW intro-to-programming course in Python.
 - [Google Developers: Google’s Python Class](https://developers.google.com/edu/python) — Free Python lessons, videos, and exercises.
 - [Kaggle Learn: Python](https://www.kaggle.com/learn/python) — Short, hands-on Python micro-course for beginners.
-- [Python.org: Python For Beginners](https://www.python.org/about/gettingstarted/) — Official guidance and starting points for learning Python.
 - [Python.org Docs: The Python Tutorial](https://docs.python.org/3/tutorial/index.html) — Official tutorial: core language features and patterns.
-- [Introduction to Programming](https://docs.google.com/document/d/1n2WpHzsr5VIRAJ2cPvKyZ78dj0JTdke2kDyYtkHjRpI/edit?usp=sharing)
-- [Software Carpentry: Shell Novice](https://swcarpentry.github.io/shell-novice/) — Command-line basics for navigating files and automating tasks.
-- [Software Carpentry: Automating Tasks with the Unix Shell](https://swcarpentry.github.io/shell-novice/) — Learn pipelines, scripts, and reproducible workflows.
-- [Thonny, a Python IDE for beginners](https://thonny.org/)
-- [Introduction to Google Colab (and topic modelling, while we're at it!)](https://colab.research.google.com/drive/1KEyBnHgFcLf2kyTv-lVPobW34DAIYkZ0)
-- [Software Carpentry: Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/) — Python basics using data analysis and plotting examples.
-- [Software Carpentry: Programming with R](https://swcarpentry.github.io/r-novice-inflammation/) — Intro R programming with functions, loops, and data.
-- [Project Jupyter: Intro to Jupyter Notebooks (in-browser)](https://jupyter.org/try-jupyter/notebooks/?path=notebooks%2FIntro.ipynb) — Learn notebooks in JupyterLab, no install needed.
-- Programming Historian: Python Introduction and Installation. "This first lesson in our section on dealing with Online Sources is designed to get you and your computer set up to start programming. We will focus on installing the relevant software – all free and reputable – and finally we will help you to get your toes wet with some simple programming that provides immediate results."
-- Programming Historian: Introduction to the Bash Command Line. "This lesson will teach you how to enter commands using a command-line interface, rather than through a graphical interface. Command-line interfaces have advantages for computer users who need more precision in their work, such as digital historians."
-- Programming Historian: Introduction to the Windows Command Line with PowerShell. "This tutorial will introduce you to the basics of Windows PowerShell, the standard command-line interface for Windows computers."
-- Programming Historian: Setting Up an Integrated Development Environment for Python (Windows). "This lesson will help you set up an integrated development environment for Python on a computer running the Windows operating system." 
-- Programming Historian: Introduction to Jupyter Notebooks. "Jupyter notebooks provide an environment where you can freely combine human-readable narrative with computer-readable code. This lesson describes how to install the Jupyter Notebook software, how to run and create Jupyter notebook files, and contexts where Jupyter notebooks can be particularly helpful."
-- Programming Historian: Working with Text Files in Python. "In this lesson you will learn how to manipulate text files using Python."
-- Programming Historian: Manipulating Strings in Python. "This lesson is a brief introduction to string manipulation techniques in Python."
-- Programming Historian: Code Reuse and Modularity in Python. "Computer programs can become long, unwieldy and confusing without special mechanisms for managing complexity. This lesson will show you how to reuse parts of your code by writing functions and break your programs into modules, in order to keep everything concise and easier to debug."
-- Programming Historian: Creating and Viewing HTML Files with Python. "Here you will learn how to create HTML files with Python scripts, and how to use Python to automatically open an HTML file in Firefox."
-- Programming Historian: Output Data as an HTML File with Python. "This lesson takes the frequency pairs created in the ‘Counting Frequencies’ lesson and outputs them to an HTML file."
-- Programming Historian: Installing Python Modules with pip. "There are many ways to install external python libraries; this tutorial explains one of the most common methods using pip."
+
 </details>
 
 ## Data work {#data-work}
