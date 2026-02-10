@@ -5,7 +5,7 @@ title: Media and Arts Practice
 
 # Media and Arts Practice
 
-The line is blurred between Digital Humanities and digital media and arts practice.
+The line is blurred between Digital Humanities and digital media and arts practice. DH+ includes things like ...
 
 - Practice-led research / practice-based research / arts-led research
 - Multimedia storytelling, immersive storytelling
