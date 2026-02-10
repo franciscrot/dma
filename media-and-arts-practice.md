@@ -5,12 +5,14 @@ title: Media and Arts Practice
 
 # Media and Arts Practice
 
-The line between Digital Humanities and digital media practice is blurred. 
+The line is blurred between Digital Humanities and digital media and arts practice.
 
-- Practice-led research
-- Multimedia storytelling and narrative design
+- Practice-led research / practice-based research / arts-led research
+- Multimedia storytelling, immersive storytelling
+- Narative design
 - Interactive installations and immersive media
 - Audio, video, and motion graphics production
+- UX
 - Speculative design and creative research methods
 
 ## Digital Media and Arts
@@ -41,10 +43,15 @@ The line between Digital Humanities and digital media practice is blurred.
 <details markdown="1">
 <summary>Resources</summary>
 
+- Jo Lindsay Walton: [Twine handbook](https://docs.google.com/presentation/d/1bNzxW39pYul2yVieuxaSsnB5SAexOde1Higr9mxs7EA/edit?usp=sharing)
+- Whitby et al. (2024): [Serious Games Cookbook](https://doi.org/10.31273/978-1-911675-13-6)
 - Programming Historian: Interactive Fiction in the Humanities Classroom: How to Create Interactive Text Games Using Twine. "This lesson provides strategies for incorporating game creation into the classroom."
 - Programming Historian: Teaching History and Languages with a Strategy Computer Game: 0̸ A.D. in the Classroom. "This lesson demonstrates how to prepare a geographically accurate historical battle scene in the free and open source computer game 0̸ A.D."
 - Programming Historian: Creating Mobile Augmented Reality Experiences in Unity. "This lesson serves as an introduction to creating mobile augmented reality applications."
 - Programming Historian: Designing a Deck of Timeline Cards for Tabletops and Tabletop Simulator. "This lesson demonstrates how to use nanDECK to design and publish your own deck of printed or digital playing cards."
+- [Tabletop Roleplaying Games to hack and deconstruct](https://docs.google.com/document/d/1aYirOhihJHOixroDUN4DH88N3f9wAUIiBzyKlt4E8t0/edit?usp=sharing)
+- Add resources on game design
+- Add resources on Unity
 </details>
 
 ## Making & materiality {#making-materiality}
