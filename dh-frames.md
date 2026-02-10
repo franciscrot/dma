@@ -12,12 +12,7 @@ Digital humanities frames shape how we interpret and apply our tools.
 - Accessibility and inclusive design
 - Ethical data stewardship
 
----
-title: Core DH Frames
-weight: 3
----
-
-# Core DH Frames
+## Core DH Frames
 
 ## Critical lenses {#critical-lenses}
 

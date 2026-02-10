@@ -14,6 +14,8 @@ Highlights include ...
 
 ... and much more!
 
+## Core DH Skills
+
 ## Coding foundations {#coding-foundations}
 
 Basic programming ideas and workflows that support humanities research. 
