@@ -82,6 +82,12 @@ weight: 3
 - Intro to the tech sector
 - Political economy of tech
 
+<details>
+<summary>Resources</summary>
+
+- [DARIAH-Campus: Introduction to Digital Humanities](https://campus.dariah.eu/resources/external/introduction-to-digital-humanities) — Video-based overview of DH methods, tools, and debates.
+</details>
+
 ## Intro to stats {#intro-to-stats}
 
 - Humanities data science
@@ -93,4 +99,3 @@ weight: 3
 - Programming Historian: Regression Analysis with Scikit-Learn (part 1 - Linear). "This lesson provides an overview of linear regression and walks through running both algorithms in Python (using scikit-learn)."
 - Programming Historian: Regression Analysis with Scikit-learn (part 2 - Logistic). "This lesson provides an overview of logistic regression, how to use Python (scikit-learn) to make a logistic regression model."
 </details>
-
