@@ -7,61 +7,73 @@ title: DH+ Skills
 
 Highlights include ...
 
-- Data wrangling and text analysis
-- Mapping, visualization, and spatial storytelling
+- Data collection, data cleaning, and text analysis
+- Mapping, visualisation, and spatial storytelling
 - Web publishing and digital exhibits
 - Collaborative project management
 
 ... and much more!
-
-## Core DH Skills
 
 ## Coding foundations {#coding-foundations}
 
 Basic programming ideas and workflows that support humanities research. 
 
 <details markdown="1">
-<summary>Resources</summary>
+<summary>Why learn some coding?</summary>
+Why are we learning coding in the first place? There are all kinds of reasons, but here are just a few. Well, once you’ve got to an intermediary level, you might …
 
-- [Introduction to Programming](https://docs.google.com/document/d/1n2WpHzsr5VIRAJ2cPvKyZ78dj0JTdke2kDyYtkHjRpI/edit?usp=sharing)
-- [Python.org: Python For Beginners](https://www.python.org/about/gettingstarted/) — Official guidance and starting points for learning Python.
-- [Thonny, a Python IDE for beginners](https://thonny.org/)
-- [Project Jupyter: Intro to Jupyter Notebooks (in-browser)](https://jupyter.org/try-jupyter/notebooks/?path=notebooks%2FIntro.ipynb) — Learn notebooks in JupyterLab, no install needed.
-- [Introduction to Google Colab (and topic modelling, while we're at it!)](https://colab.research.google.com/drive/1KEyBnHgFcLf2kyTv-lVPobW34DAIYkZ0)
-- Programming Historian: Introduction to Jupyter Notebooks. "Jupyter notebooks provide an environment where you can freely combine human-readable narrative with computer-readable code. This lesson describes how to install the Jupyter Notebook software, how to run and create Jupyter notebook files,
-- Programming Historian: Python Introduction and Installation. "This first lesson in our section on dealing with Online Sources is designed to get you and your computer set up to start programming. We will focus on installing the relevant software – all free and reputable – and finally we will help you to get your toes wet with some simple programming that provides immediate results."
-- Programming Historian: Setting Up an Integrated Development Environment for Python (Windows). "This lesson will help you set up an integrated development environment for Python on a computer running the Windows operating system." 
-- [Harvard CS50: CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python) — Intro Python course with lectures, problems, and practice.
-- [MIT OpenCourseWare: 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) — Full intro programming course taught in Python.
-- [MIT OpenCourseWare: 6.100L Introduction to CS and Programming Using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/) — Newer OCW intro-to-programming course in Python.
-- [Google Developers: Google’s Python Class](https://developers.google.com/edu/python) — Free Python lessons, videos, and exercises.
-- [Kaggle Learn: Python](https://www.kaggle.com/learn/python) — Short, hands-on Python micro-course for beginners.
-- [Python.org Docs: The Python Tutorial](https://docs.python.org/3/tutorial/index.html) — Official tutorial: core language features and patterns.
-
+- **Automate mundane tasks** — renaming files, batch-processing images or texts, extracting information from many sources, etc.
+- **Create games** or interactive tools to help to disseminate your research, or to use within your teaching.
+- **Explore data** (e.g. text corpori) at scale, helping you to notice patterns, connections, repetitions, anomalies, absences that would be hard to see by eye.
+- **Visualise data** - making abstract ideas (e.g. about form, rhythm, or variation) concrete, and putting it into a form you can play around with.
+- **Build simple models** or simulations to think through processes or systems over time, asking “what happens if…” in a way that is explicit and repeatable.
+- **Scrape the web** to create data-sets to study further.
+- **Influence the physical world**, for example by running code on a Raspberry Pi to drive screens, sound, sensors, or small installations for exhibitions, teaching, or creative projects.
 </details>
-
-## Data work {#data-work}
-
-Data work covers how humanities data is collected, cleaned, and described so it can be responsibly analyzed. It emphasizes provenance, documentation, and the ways data practices shape what can be known, especially in the context of bias and exclusion.
 
 <details markdown="1">
 <summary>Resources</summary>
 
-- [Data Carpentry: Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheet-ecology-lesson/) — Best practices for spreadsheets and tidy data.
-- [Data Carpentry: Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/) — R basics for data cleaning, analysis, and plotting.
-- [Data Carpentry: Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/) — Python intro focused on tabular data and visualisation.
-- [Data Carpentry: SQL for Ecologists](https://datacarpentry.org/sql-ecology-lesson/) — Intro SQL queries using research-style datasets.
-- [Library Carpentry: Introduction to Regular Expressions](https://librarycarpentry.github.io/lc-data-intro/) — Regex basics for searching and cleaning text data.
-- [Library Carpentry: Introduction to FAIR Data](https://librarycarpentry.github.io/lc-fair-data/) — Intro to FAIR principles for research data management.
+- SHL Digital: [Introduction to Programming](https://docs.google.com/document/d/1n2WpHzsr5VIRAJ2cPvKyZ78dj0JTdke2kDyYtkHjRpI/edit?usp=sharing)
+- SHL Digital: [Slides from 'Coding for Beginners in Media, Arts, and Humanities' by Nic Seymour-Smith](https://shldigital.github.io/DMA/2026/spring/coding-for-beginners/)
+- Python.org: [Python For Beginners](https://www.python.org/about/gettingstarted/) — Official guidance and starting points for learning Python.
+- Thonny: [Thonny, a Python IDE for beginners](https://thonny.org/)
+- Project Jupyter: [Intro to Jupyter Notebooks (in-browser)](https://jupyter.org/try-jupyter/notebooks/?path=notebooks%2FIntro.ipynb) — Learn notebooks in JupyterLab, no install needed.
+- SHL Digital: [Introduction to Google Colab (and topic modelling, while we're at it!)](https://colab.research.google.com/drive/1KEyBnHgFcLf2kyTv-lVPobW34DAIYkZ0)
+- Programming Historian: [Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks). "Jupyter notebooks provide an environment where you can freely combine human-readable narrative with computer-readable code. This lesson describes how to install the Jupyter Notebook software, how to run and create Jupyter notebook files,
+- Programming Historian: [Python Introduction and Installation](https://programminghistorian.org/en/lessons/introduction-and-installation). "This first lesson in our section on dealing with Online Sources is designed to get you and your computer set up to start programming. We will focus on installing the relevant software – all free and reputable – and finally we will help you to get your toes wet with some simple programming that provides immediate results."
+- Programming Historian: [Setting Up an Integrated Development Environment for Python (Windows)](https://programminghistorian.org/en/lessons/windows-installation). "This lesson will help you set up an integrated development environment for Python on a computer running the Windows operating system." There's a similar lesson for other Operating Systems.
+- Harvard CS50: [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python) — Intro Python course with lectures, problems, and practice.
+- MIT OpenCourseWare: [6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) — Full intro programming course taught in Python.
+- MIT OpenCourseWare: [6.100L Introduction to CS and Programming Using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/) — Newer OCW intro-to-programming course in Python.
+- Google Developers: [Google’s Python Class](https://developers.google.com/edu/python) — Free Python lessons, videos, and exercises.
+- Kaggle Learn: [Python](https://www.kaggle.com/learn/python) — Short, hands-on Python micro-course for beginners.
+- Python.org: [Docs: The Python Tutorial](https://docs.python.org/3/tutorial/index.html) — Official tutorial: core language features and patterns.
+
+</details>
+
+## Data collection and cleaning {#data-work}
+
+Research projects often follow a pattern: data is collected. Then it is "cleaned" so that it can be analysed by digital methods. Then it is analysed and disseminated. Visualisation (see below) can also be part of the process.
+
+<details markdown="1">
+<summary>Resources</summary>
+
+- Data Carpentry: [Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheet-ecology-lesson/) — Best practices for spreadsheets and tidy data.
+- Data Carpentry: [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/) — R basics for data cleaning, analysis, and plotting.
+- Data Carpentry: [Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/) — Python intro focused on tabular data and visualisation.
+- Data Carpentry: [SQL for Ecologists](https://datacarpentry.org/sql-ecology-lesson/) — Intro SQL queries using research-style datasets.
+- Library Carpentry: [Introduction to Regular Expressions](https://librarycarpentry.github.io/lc-data-intro/) — Regex basics for searching and cleaning text data.
+- Library Carpentry: [Introduction to FAIR Data](https://librarycarpentry.github.io/lc-fair-data/) — Intro to FAIR principles for research data management.
   
-- [Harvard CS50: CS50’s Introduction to Programming with R](https://cs50.harvard.edu/r) — Intro R course: data, vectors, functions, and RStudio.
-- [DataCamp: Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) — Free interactive intro to R basics and data structures.
-- [Software Carpentry: R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/) — Intro R for non-programmers using gapminder data.
+- Harvard CS50: [Introduction to Programming with R](https://cs50.harvard.edu/r) — Intro R course: data, vectors, functions, and RStudio.
+- DataCamp: [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) — Free interactive intro to R basics and data structures.
+- Software Carpentry: [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/) — Intro R for non-programmers using gapminder data.
 - [swirl: Learn R, in R](https://swirlstats.com/) — Interactive R lessons that run inside the R console.
 - [Posit: Posit Recipes (R)](https://posit.cloud/learn/recipes) — Practical R “how-to” recipes for common tasks.
 - [Posit: Posit Cheatsheets](https://posit.co/resources/cheatsheets/) — Fast reference sheets for common R packages.
-- [Library Carpentry: Library Carpentry Lessons](https://librarycarpentry.org/lessons/) — DH-adjacent skills: data cleaning, OpenRefine, Git basics.
-- [Library Carpentry: OpenRefine](https://librarycarpentry.github.io/lc-open-refine/) — Intro to cleaning, reconciling, and transforming messy data.
+- Library Carpentry: [Library Carpentry Lessons](https://librarycarpentry.org/lessons/) — DH-adjacent skills: data cleaning, OpenRefine, Git basics.
+- Library Carpentry: [OpenRefine](https://librarycarpentry.github.io/lc-open-refine/) — Intro to cleaning, reconciling, and transforming messy data.
 - Programming Historian: Introduction to Encoding Texts in TEI (Part 1). "This lesson teaches you the basics of using TEI-XML to encode texts, and demonstrates how to create a minimal TEI document."
 - Programming Historian: Transforming Data for Reuse and Re-publication with XML and XSL. "This tutorial will provide you with the ability to convert or transform historical data from an XML database into a variety of different presentations."
 - Programming Historian: Introduction to the Principles of Linked Open Data. "Introduces core concepts of Linked Open Data, including URIs, ontologies, RDF formats, and a gentle intro to the graph query language SPARQL."
@@ -81,10 +93,7 @@ Data work covers how humanities data is collected, cleaned, and described so it 
 - Programming Historian: Regression Analysis with Scikit-Learn (part 1 - Linear). "This lesson provides an overview of linear regression and walks through running both algorithms in Python (using scikit-learn)."
 - Programming Historian: Regression Analysis with Scikit-learn (part 2 - Logistic). "This lesson provides an overview of logistic regression, how to use Python (scikit-learn) to make a logistic regression model."
 - Programming Historian: Calibrating Radiocarbon Dates with R. "After reviewing the basic principles and challenges of radiocarbon dating, this lesson teaches you how to use R to calibrate a set of dates, and then explore and present your results."
-- Programming Historian: Preserving Your Research Data. "This lesson will suggest ways in which historians can document and structure their research data so as to ensure it remains useful in the future."
 </details>
-
-
 
 ## Text & cultural analytics {#text-cultural-analytics}
 
@@ -132,18 +141,19 @@ Networked culture examines how people, texts, and platforms connect and circulat
 - Programming Historian: Dealing with Big Data and Network Analysis Using Neo4j. "In this lesson we will learn how to use a graph database to store and analyze complex networked information."
 </details>
 
-## Digital collections {#digital-collections}
+## Digital collections and preservation {#digital-collections}
 
 Digital collections focus on building and maintaining collections that support research, teaching, and public access. 
 
 <details markdown="1">
 <summary>Resources</summary>
 
-- Programming Historian: From Sources to Data: Designing a Database for the Humanities and Social Sciences with nodegoat. "This lesson teaches you how to use the nodegoat software to build a relational database for research in the humanities."
+- Programming Historian: Preserving Your Research Data. "This lesson will suggest ways in which historians can document and structure their research data so as to ensure it remains useful in the future."
+- - Programming Historian: From Sources to Data: Designing a Database for the Humanities and Social Sciences with nodegoat. "This lesson teaches you how to use the nodegoat software to build a relational database for research in the humanities."
 - Programming Historian: Installing Omeka. "This lesson will teach you how to install your own copy of Omeka."
 - Programming Historian: Creating an Omeka Exhibit. "Now that you’ve added items to your Omeka site and grouped them into collections, you’re ready for the next step: taking your users on a guided tour through the items you’ve collected."
 - Programming Historian: Up and Running with Omeka.net. "Omeka.net makes it easy to create websites that show off collections of items."
-- [GitHub Docs: Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart) — Publish a simple website directly from a repository.
+- GitHub Docs: [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart) — Publish a simple website directly from a repository.
 - Programming Historian: Building a static website with Jekyll and GitHub Pages. "This lesson will help you create entirely free, easy-to-maintain, preservation-friendly, secure website over which you have full control."
 - Programming Historian: Running a Collaborative Research Website and Blog with Jekyll and GitHub. "This lesson introduces the challenges and opportunities that Jekyll offers for publishing collaborative, ongoing research online."
 - Programming Historian: Introduction to Populating a Website with API Data. "This lesson introduces a way to populate a website with data obtained from another website via an Application Programming Interface (API)."
