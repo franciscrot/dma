@@ -30,7 +30,7 @@ weight: 7
 - RAG methods
 - Risks and harms
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Creating Deep Convolutional Neural Networks for Image Classification. "This lesson provides a beginner-friendly introduction to convolutional neural networks (CNNs) for image classification."
@@ -44,7 +44,7 @@ weight: 7
 
 - CodeCarbon
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Sustainable Authorship in Plain Text using Pandoc and Markdown. "This tutorial introduces Markdown and Pandoc, a command line tool that converts plain text into a number of beautifully formatted file types."
@@ -55,7 +55,7 @@ weight: 7
 - AI summation methods
 - Risks and harms
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Clustering and Visualising Documents using Word Embeddings. "This lesson uses word embeddings and clustering algorithms in Python to identify groups of similar documents in a corpus of approximately 9,000 academic abstracts."
@@ -67,7 +67,7 @@ weight: 7
 
 - Identifying genAI content
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Facial Recognition in Historical Photographs with Artificial Intelligence in Python. "In this lesson, you’ll learn computer vision and machine learning principles for object recognition, and how to apply these principles using Python to recognize and classify smiling faces in historical photographs."

@@ -23,7 +23,7 @@ weight: 2
 
 Basic programming ideas and workflows that support humanities research. 
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - [Harvard CS50: CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python) — Intro Python course with lectures, problems, and practice.
@@ -34,8 +34,12 @@ Basic programming ideas and workflows that support humanities research.
 - [Python.org: Python For Beginners](https://www.python.org/about/gettingstarted/) — Official guidance and starting points for learning Python.
 - [Python.org Docs: The Python Tutorial](https://docs.python.org/3/tutorial/index.html) — Official tutorial: core language features and patterns.
 - [Introduction to Programming](https://docs.google.com/document/d/1n2WpHzsr5VIRAJ2cPvKyZ78dj0JTdke2kDyYtkHjRpI/edit?usp=sharing)
+- [Software Carpentry: Shell Novice](https://swcarpentry.github.io/shell-novice/) — Command-line basics for navigating files and automating tasks.
+- [Software Carpentry: Automating Tasks with the Unix Shell](https://swcarpentry.github.io/shell-novice/) — Learn pipelines, scripts, and reproducible workflows.
 - [Thonny, a Python IDE for beginners](https://thonny.org/)
 - [Introduction to Google Colab (and topic modelling, while we're at it!)](https://colab.research.google.com/drive/1KEyBnHgFcLf2kyTv-lVPobW34DAIYkZ0)
+- [Software Carpentry: Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/) — Python basics using data analysis and plotting examples.
+- [Software Carpentry: Programming with R](https://swcarpentry.github.io/r-novice-inflammation/) — Intro R programming with functions, loops, and data.
 - [Project Jupyter: Intro to Jupyter Notebooks (in-browser)](https://jupyter.org/try-jupyter/notebooks/?path=notebooks%2FIntro.ipynb) — Learn notebooks in JupyterLab, no install needed.
 - Programming Historian: Python Introduction and Installation. "This first lesson in our section on dealing with Online Sources is designed to get you and your computer set up to start programming. We will focus on installing the relevant software – all free and reputable – and finally we will help you to get your toes wet with some simple programming that provides immediate results."
 - Programming Historian: Introduction to the Bash Command Line. "This lesson will teach you how to enter commands using a command-line interface, rather than through a graphical interface. Command-line interfaces have advantages for computer users who need more precision in their work, such as digital historians."
@@ -54,8 +58,15 @@ Basic programming ideas and workflows that support humanities research.
 
 Data work covers how humanities data is collected, cleaned, and described so it can be responsibly analyzed. It emphasizes provenance, documentation, and the ways data practices shape what can be known, especially in the context of bias and exclusion.
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
+
+- [Data Carpentry: Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheet-ecology-lesson/) — Best practices for spreadsheets and tidy data.
+- [Data Carpentry: Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/) — R basics for data cleaning, analysis, and plotting.
+- [Data Carpentry: Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/) — Python intro focused on tabular data and visualisation.
+- [Data Carpentry: SQL for Ecologists](https://datacarpentry.org/sql-ecology-lesson/) — Intro SQL queries using research-style datasets.
+- [Library Carpentry: Introduction to Regular Expressions](https://librarycarpentry.github.io/lc-data-intro/) — Regex basics for searching and cleaning text data.
+- [Library Carpentry: Introduction to FAIR Data](https://librarycarpentry.github.io/lc-fair-data/) — Intro to FAIR principles for research data management.
   
 - [Harvard CS50: CS50’s Introduction to Programming with R](https://cs50.harvard.edu/r) — Intro R course: data, vectors, functions, and RStudio.
 - [DataCamp: Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) — Free interactive intro to R basics and data structures.
@@ -93,7 +104,7 @@ Data work covers how humanities data is collected, cleaned, and described so it 
 
 Text and cultural analytics explore computational approaches to studying language and cultural patterns at scale ("at scale" means there's lots of data - for examples, thousands of books that you wouldn't be able to read in the time available). 
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Corpus Analysis with Voyant Tools. "In this lesson, you will learn how to organise a set of texts into a corpus and perform some basic linguistic analysis using the Voyant Tools platform."
@@ -115,7 +126,7 @@ Text and cultural analytics explore computational approaches to studying languag
 - Programming Historian: Text Mining in Python through the HTRC Feature Reader. "Explains how to use Python to summarize and visualize data on millions of texts from the HathiTrust Research Center’s Extracted Features dataset."
 - Programming Historian: Text Mining YouTube Comment Data with Wordfish in R. "In this lesson, you will learn how to download YouTube video comments and use the R programming language to analyze the dataset with Wordfish."
 - Programming Historian: Analyzing Multilingual French and Russian Text using NLTK, spaCy, and Stanza. "This lesson covers tokenization, part-of-speech tagging, and lemmatization, as well as automatic language detection, for non-English and multilingual text."
-- - Programming Historian: Keywords in Context (Using n-grams) with Python. "This lesson takes the frequency pairs collected in “Counting Frequencies” and outputs them in HTML."
+- Programming Historian: Keywords in Context (Using n-grams) with Python. "This lesson takes the frequency pairs collected in “Counting Frequencies” and outputs them in HTML."
 - Programming Historian: Output Keywords in Context in an HTML File with Python. "This lesson builds on ‘Keywords in Context (Using N-grams)’, where n-grams were extracted from a text. Here, you will learn how to output all of the n-grams of a given keyword in a document downloaded from the Internet, and display them clearly in your browser window."
 - Programming Historian: Counting Word Frequencies with Python. "Counting the frequency of specific words in a list can provide illustrative data. This lesson will teach you Python’s easy way to count such frequencies."
 - Programming Historian: Understanding Web Pages and HTML. "This lesson introduces you to HTML and the web pages it structures."
@@ -125,7 +136,7 @@ Text and cultural analytics explore computational approaches to studying languag
 
 Networked culture examines how people, texts, and platforms connect and circulate. It combines network analysis with attention to power, mediation, and the politics of digital infrastructures. You might want to visualise how various entities are connected in order to communicate your research to audiences. But you also might want to do it just for yourself - to help you spot interesting patterns.
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Exploring and Analyzing Network Data with Python. "This lesson introduces network metrics and how to draw conclusions from them when working with humanities data."
@@ -139,7 +150,7 @@ Networked culture examines how people, texts, and platforms connect and circulat
 
 Digital collections focus on building and maintaining collections that support research, teaching, and public access. 
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: From Sources to Data: Designing a Database for the Humanities and Social Sciences with nodegoat. "This lesson teaches you how to use the nodegoat software to build a relational database for research in the humanities."
@@ -156,7 +167,7 @@ Digital collections focus on building and maintaining collections that support r
 
 Scraping the web is one important way of collecting data. Other forms of data collection include conducting interviews, deploying microphones or other sensors to record activities, giving participants prompts or challenges or inviting them to participate in playful activities, autoethnographic reflection, etc.
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Beginner's Guide to Twitter Data. "Learn how to acquire Twitter data and process them to make them usable for further analysis."
@@ -178,7 +189,7 @@ Scraping the web is one important way of collecting data. Other forms of data co
 
 Physical computing connects digital research to material devices and environments. It foregrounds how sensors and embedded systems shape the data we collect and how that data relates to place and lived experience.
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Creating Mobile Augmented Reality Experiences in Unity. "This lesson serves as an introduction to creating mobile augmented reality applications."
@@ -192,7 +203,7 @@ Physical computing connects digital research to material devices and environment
 
 Visual methods explore how graphics and diagrams support interpretation and argument in the humanities. They focus on clarity, rhetoric, and the responsibilities of visual storytelling with data.
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Creating Choropleth Maps with Python and Folium. "This lesson demonstrates how to visualize data through choropleth maps using Python and the Folium library."
@@ -217,7 +228,7 @@ Visual methods explore how graphics and diagrams support interpretation and argu
 
 Development foundations introduce collaborative practices that make digital projects sustainable. Version control and shared workflows support transparency, accountability, and collective scholarship.
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github) — Guided mini-course: repos, commits, PRs, collaboration.
@@ -238,7 +249,7 @@ Development foundations introduce collaborative practices that make digital proj
 
 Spatial methods use geographic tools to analyze place, movement, and spatial narratives in the humanities. They also consider how mapping choices can reinforce or challenge historical and cultural power relations.
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Introduction to Map Warper. "This lesson introduces basic use of Map Warper for historical maps."
@@ -264,7 +275,7 @@ Spatial methods use geographic tools to analyze place, movement, and spatial nar
 
 Digitisation converts physical materials into digital forms that can be searched, analyzed, and shared. It includes attention to accuracy, labor, and the limits of automated recognition in cultural contexts.
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: OCR with Google Vision API and Tesseract. "Google Vision and Tesseract are both popular and powerful OCR tools, but they each have their weaknesses."
