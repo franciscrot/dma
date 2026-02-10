@@ -1,0 +1,11 @@
+title: DMA Static Site
+description: "Digital Media and Arts overview"
+baseurl: ""
+url: ""
+markdown: kramdown
+theme: minima
+permalink: pretty
+
+collections:
+  pages:
+    output: true

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <p class="site-title">{{ site.title }}</p>
+        <p class="site-description">{{ site.description }}</p>
+        <nav class="site-nav">
+          <a href="{{ "/" | relative_url }}">Main</a>
+          <a href="{{ "/dh-skills/" | relative_url }}">DH Skills</a>
+          <a href="{{ "/dh-frames/" | relative_url }}">DH Frames</a>
+          <a href="{{ "/critical-ai-practice/" | relative_url }}">Critical AI Practice</a>
+          <a href="{{ "/media-and-arts-practice/" | relative_url }}">Media and Arts Practice</a>
+          <a href="{{ "/shl-digital/" | relative_url }}">SHL Digital</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <div class="container">
+        <p>Built with Jekyll.</p>
+      </div>
+    </footer>
+  </body>
+</html>
