@@ -187,9 +187,17 @@ Text and cultural analytics explore computational approaches to studying languag
 
 ## Networked culture {#networked-culture}
 
-Networked culture examines how people, texts, and platforms connect and circulate. It combines network analysis with attention to power, mediation, and the politics of digital infrastructures. You might want to visualise how various entities are connected in order to communicate your research to audiences. But you also might want to do it just for yourself - to help you spot interesting patterns.
+You might want to visualise how various entities are connected in order to communicate your research to audiences. But you also might want to do it just for yourself - to help you spot interesting patterns.
 
-<details markdown="1">
+<details markdown="1"> <summary>What is a “network” in DH?</summary>
+
+- A network is a set of nodes (things) and edges (relationships).
+- Nodes might be e.g. people, texts, hashtags, or institutions. Edges might be letters, citations, follows, or shared tags.
+- An example is a [citation graph](https://en.wikipedia.org/wiki/Citation_graph) that can indicate what documents are cited by other documents, or which authors are cited by other authors.
+- If two scholars independently visualise the network of the same underlying data, the results may look very different.
+
+</details>
+  
 <summary>Resources</summary>
 
 - Programming Historian: [Exploring and Analyzing Network Data with Python](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python). “This lesson introduces network metrics and how to draw conclusions from them when working with humanities data.”
@@ -203,6 +211,26 @@ Networked culture examines how people, texts, and platforms connect and circulat
 ## Digital collections, digital editions, and preservation {#digital-collections}
 
 Digital collections focus on building and maintaining collections that support research, teaching, and public access. This often includes creating digital editions, where texts, images, or objects are carefully digitised, described, and sometimes annotated so they can be studied online. Preservation is also pretty interesting: how do we ensure that digital materials remain usable over time despite changing file formats, software, and hardware?
+
+<details><summary>What is metadata?</summary>
+
+<details>
+<summary>What is metadata?</summary>
+
+- **Metadata is data about data** — often information that describes, explains, or gives context to some digital object.
+- Common examples include **titles, creators, dates, places, subjects, formats, rights, and provenance** (where something comes from and how it has changed).
+- Metadata can help materials be **found, cited, compared, preserved, and reused**. Without it, files quickly become meaningless blobs.
+- Metadata is often **structured**, using agreed standards, so that different systems can understand and exchange information.
+- Some kinds of metadata include:
+  - **Descriptive metadata** (what it is, what it’s about)
+  - **Administrative metadata** (who owns it, usage rights, file formats)
+  - **Technical metadata** (how it was created, resolution, software, sensors)
+  - **Provenance metadata** (how it was collected, edited, cleaned, or transformed)
+- Metadata always reflects **choices and assumptions**. What gets recorded — and what doesn’t — shapes what questions can later be asked.
+- Metadata also matters for **long-term preservation**: formats change, platforms disappear, but clear metadata helps future users interpret surviving files.
+
+</details>
+
 
 <details markdown="1">
 <summary>Resources</summary>
@@ -226,6 +254,18 @@ Digital collections focus on building and maintaining collections that support r
 ## Visual methods and more {#visual-methods}
 
 Visual methods can be used to explore data-sets to look for data, and/or to communicate findings to various audiences or users. We might also go beyond the visual. How can data be sonified? How can data be gamified? How can complex data be humanised, to create opportunities for learning, critique, translation, revalation, transformation, rapture, estrangement, immersion, or something else?
+
+<details markdown="1">
+<summary>What are some common types of plots / charts?</summary>
+
+- Bar chart – Compares quantities across categories. Comparing how many apples, pears, and plums were harvested from an orchard.
+- Line chart – Shows change over time or another continuous sequence. Tracking global carbon emissions over time.
+- Histogram – Shows how values are distributed by grouping them into ranges. Each bar typically covers a range of numeric values called a bin or class; a bar's height indicates the frequency of data points with a value within the corresponding bin. The spread of leaf sizes in a forest plot, from tiny to very broad.
+- Scatter chart (scatter plot) – Shows the relationship between two variables. Sometimes you draw a trend line through the dots. Plotting rainfall against tomato yield.
+- Sankey diagram – Shows flows from left to right, where width represents quantity. Visualise migration from origin country to destination country.
+- Pie chart – Shows parts of a whole as proportions.
+- Gantt chart – Shows tasks laid out over time, often overlapping.
+</details>
 
 <details markdown="1">
 <summary>Resources</summary>
