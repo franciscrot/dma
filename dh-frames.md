@@ -84,7 +84,7 @@ The data lifecycle describes how data moves through a research project, from cre
 - Disseminate
 - Sustain
 
-<details>
+<details markdown="1">
 <summary>What questions might we ask ourselves at each stage?</summary>
 
 To do: insert some critically reflexive questions for each stage
@@ -132,11 +132,12 @@ What systems can talk to what systems, and how easily? Sometimes this can be a v
 - Climate policy
 - Materiality of the digital
 
-<details markdown="1"><summary>What is sustainability?</sustainability>
+<details markdown="1"><summary>What is sustainability?</summary>
 
 - For some time, 'sustainability' in a Digital Humanities context tended to be about long-term preservation - how do you ensure data remains accessible as technology and institutions change, etc. Nowadays, sustainability tends to mean environmental sustainability (the two things are connected).
 - In a broader sense, sustainability is sometimes divided into environmental, social, and economic sustainability, and linked with sustainable development, corporate sustainability (CSR, ESG etc.), regulation and compliance, and the UN Sustainable Development Goals.
 - Sustainability can be a broad umbrella term for many ways of thinking about climate, nature, the environment, the more-than-human world, etc. At the same time, sustainability as a concept is sometimes critiqued. For example, post-development and pluriversal perspectives offer critiques of sustainable development, as do some degrowth / postgrowth perspectives. Some design perspectives see sustainability as a stepping stone to something better, e.g. regenerative design.
+</details>
 
 <details>
 <summary>Resources</summary>
@@ -149,7 +150,7 @@ What systems can talk to what systems, and how easily? Sometimes this can be a v
 
 Can we imagine different, better technological systems? Can we create such systems, perhaps initially at a small scale?  Critical AI Studies, Luddism, neo-Luddism, epistemological Luddism, slow technology, convivial technology, and technofeminism offer ideas, tools, and imaginative practices for cultivating alternative futures.
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - [76 Reasonable Questions to Ask of Any Technology](https://76questions.neocities.org/)
@@ -168,7 +169,7 @@ Can we imagine different, better technological systems? Can we create such syste
 
 What is tech, physically, culturally, socially, economically, historically?
 
-<details><summary>Resources</summary>
+<details markdown="1"><summary>Resources</summary>
 
 - DHCC: [The Cloud and the Climate: Navigating our AI-Powered Futures](https://zenodo.org/records/13850067)
 - Adrian Daub, [What Tech Calls Thinking](https://fabricating.it/media/pages/repository/23d8a22dfe-1616916755/adrian-daub-what-tech-calls-thinking.pdf)
@@ -193,7 +194,7 @@ What is tech, physically, culturally, socially, economically, historically?
 
 DH+ exists at the crossroads of media, arts, and humanities, and data science / computer science.
 
-<details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Add resources on humanities data science (see "Research Design" for more)
