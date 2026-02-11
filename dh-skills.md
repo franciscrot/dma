@@ -95,12 +95,14 @@ Scraping the web is one important way of collecting data. Other forms of data co
 
 ## Digitisation and OCR / HCR {#digitisation}
 
-Digitisation converts physical materials into digital forms that can be searched, analysed, and shared. Optical Character Recognition (OCR) turns images of printed or typed text into digital text. Handwritten Text Recognition (HTR) turns images of handwritten text into digital text. In either case, you'd start with an image file (such as JPEGs or TIFFs) and finish with a text file (such as TXT or PDF).
+Digitisation converts physical materials into digital forms that can be searched, analysed, and shared. Optical Character Recognition (OCR) turns images of printed or typed text into digital text. Handwritten Text Recognition (HTR) turns images of handwritten text into digital text.
 
 <details markdown="1">
 <summary>What are OCR / HCR?</summary>
+  
 - Optical Character Recognition (OCR) mainly means turning printed or typed text (so image files - e.g. JPEGs) into digital text. 
 - Handwritten Text Recognition (HTR) is for handwriting and often needs a trained Machine Learning model, plus careful correction, because handwriting varies so much. 
+- In either case, you'd start with an image file (such as JPEGs or TIFFs) and finish with a text file (such as TXT or PDF).
 - OCR and HTR both have to make guesses from pixels. They can struggle with e.g. unusual fonts, faded ink, skewed pages, marginal notes, columns, poor lighting, low-resolution images, etc.
 </details>
 
@@ -152,6 +154,12 @@ Regular expressions (often called regex) are a way of describing patterns in tex
 Text and cultural analytics explore computational approaches to studying language and cultural patterns at scale ("at scale" means there's lots of data - for examples, thousands of books that you wouldn't be able to read in the time available). 
 
 <details markdown="1">
+<summary>What are distant reading and close reading?</summary>
+- Close reading means reading text carefully and thoughtfully. Some related terms to explore if you like: practical criticism, paranoid vs. reparative interpretations.
+- Distant reading means using digital methods to study patterns across lots of texts, rather than reading every text closely. It’s not a replacement for close reading; the two can work together in complementary ways. In simple terms, distant reading can guide you where to focus your close reading.
+</details>
+
+<details markdown="1">
 <summary>Resources</summary>
 - Programming Historian: [Corpus Analysis with Voyant Tools](https://programminghistorian.org/en/lessons/corpus-analysis-with-voyant-tools). “In this lesson, you will learn how to organise a set of texts into a corpus and perform some basic linguistic analysis using the Voyant Tools platform.”
 - Programming Historian: [Corpus Analysis with spaCy](https://programminghistorian.org/en/lessons/corpus-analysis-with-spacy). “This lesson demonstrates how to use the Python library spaCy for analysis of large collections of texts.”
@@ -173,6 +181,7 @@ Text and cultural analytics explore computational approaches to studying languag
 - Programming Historian: [Keywords in Context (Using n-grams) with Python](https://programminghistorian.org/en/lessons/keywords-in-context-using-n-grams-with-python). “This lesson takes the frequency pairs collected in ‘Counting Frequencies’ and outputs them in HTML.”
 - Programming Historian: [Output Keywords in Context in an HTML File with Python](https://programminghistorian.org/en/lessons/output-keywords-in-context-in-an-html-file-with-python). “This lesson builds on ‘Keywords in Context (Using N-grams)’, where n-grams were extracted from a text.”
 - Programming Historian: [Counting Word Frequencies with Python](https://programminghistorian.org/en/lessons/counting-word-frequencies-with-python). “Counting the frequency of specific words in a list can provide illustrative data. This lesson will teach you Python’s easy way to count such frequencies.”
+- Jo Lindsay Walton: [Introduction to Close Reading](https://youtu.be/2mVek-oCZt8?si=xqoufVtRDhfrE1Qz)
 
 </details>
 
