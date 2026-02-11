@@ -189,13 +189,13 @@ Text and cultural analytics explore computational approaches to studying languag
 
 You might want to visualise how various entities are connected in order to communicate your research to audiences. But you also might want to do it just for yourself - to help you spot interesting patterns.
 
-<details markdown="1"> <summary>What is a “network” in DH?</summary>
+<details markdown="1"> 
+  <summary>What is a network in DH+?</summary>
 
-- A network is a set of nodes (things) and edges (relationships).
-- Nodes might be e.g. people, texts, hashtags, or institutions. Edges might be letters, citations, follows, or shared tags.
+- A network is a set of 'nodes' (things) and 'edges' (relationships that connect them).
+- Nodes might be e.g. people, texts, hashtags, institutions, or anything. Edges might be letters, citations, follows, or something else.
 - An example is a [citation graph](https://en.wikipedia.org/wiki/Citation_graph) that can indicate what documents are cited by other documents, or which authors are cited by other authors.
 - If two scholars independently visualise the network of the same underlying data, the results may look very different.
-
 </details>
   
 <details markdown="1"><summary>Resources</summary>
