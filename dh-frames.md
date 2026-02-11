@@ -4,6 +4,14 @@ title: DH Frames
 
 # DH Frames
 
+- Critical lenses
+- Accessibility
+- The data lifecycle
+- Interoperability
+- Sustainability
+- Critical technology studies
+- What is tech?
+
 ## Critical lenses {#critical-lenses}
 
 - Critical disability studies, feminist, queer, decolonial, and anti-racist approaches
@@ -23,7 +31,7 @@ title: DH Frames
 - DHCC: [Minimal Computing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html)
 - [How to Avoid Being a DH Lab: The Stories of the Sussex Humanities Lab](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003185932-6/avoid-being-dh-lab-anna-maria-sichani-james-baker-alice-eldridge-tim-hitchcock-ben-roberts-suzanne-tatham-amelia-wakeford-jo-walton-sharon-webb)
 
-## Accessibility and critical disability studies {#accessibility}
+## Accessibility {#accessibility}
 
 - Accessibility
 - Critical disability studies
@@ -84,14 +92,13 @@ What systems can talk to what systems, and how easily?
 - [Python](https://www.python.org/) – a beginner-friendly language for reading, cleaning, and analysing data
 </details>
 
-## Critical technology studies, histories of tech {#ai-critique}
+## Critical technology studies {#ai-critique}
 
 - Critical AI Studies
 - Luddism, neo-luddism, epistemological luddism
 - Slow technology
 - Convivial technology
 - Technofeminism
-- Histories of tech
 
 <details>
 <summary>Resources</summary>
@@ -101,13 +108,21 @@ What systems can talk to what systems, and how easily?
 - Wikipedia: [Technocriticism](https://en.wikipedia.org/wiki/Technocriticism), [Criticism of technology](https://en.wikipedia.org/wiki/Criticism_of_technology), [Neo-Luddites](https://en.wikipedia.org/wiki/Neo-Luddism)
 - Lachney & Dotson (2018), [Epistemological Luddism: Reinvigorating a Concept for Action in 21st Century Sociotechnical Struggles](https://www.tandfonline.com/doi/full/10.1080/02691728.2018.1476603)
 
-## Climate and environment {#climate-environment}
+## Sustainability {#climate-environment}
 
 - Digital sustainability, environmental cost of infrastructure, and climate justice
 - Infrastructure studies
 - Climate and environmental activism
 - Climate policy
 - Materiality of the digital
+
+<detail><summary>What is sustainability?</sustainability>
+
+- For some time, 'sustainability' in a Digital Humanities context tended to be about long-term preservation - how do you ensure data remains accessible as technology and institutions change, etc. Nowadays, sustainability tends to mean environmental sustainability (the two things are connected).
+- In a broader sense, sustainability is sometimes divided into environmental, social, and economic sustainability, and linked with sustainable development, corporate sustainability (CSR, ESG etc.), regulation and compliance, and the UN Sustainable Development Goals.
+- Sustainability can be a broad umbrella term for many ways of thinking about climate, nature, the environment, the more-than-human world, etc. At the same time, sustainability as a concept is sometimes critiqued. For example, post-development and pluriversal perspectives offer critiques of sustainable development, as do some degrowth / postgrowth perspectives. Some design perspectives see sustainability as a stepping stone to something better, e.g. regenerative design.
+
+</detail>
 
 <details>
 <summary>Resources</summary>
@@ -118,7 +133,7 @@ What systems can talk to what systems, and how easily?
 
 ## What is tech? {#what-is-tech}
 
-What is tech, physically?
+What is tech, physically, culturally, socially, economically, historically?
 
 - Intro to the tech sector
 - Political economy of technology
@@ -146,12 +161,11 @@ What is tech, physically?
 
 DH+ exists at the crossroads of media, arts, and humanities, and data science / computer science.
 
-- Humanities data science (see "Research Design" for more)
-- Critical metric studies: statistics as interpretation, not just calculation
-
 <details>
 <summary>Resources</summary>
 
+- Add resources on humanities data science (see "Research Design" for more)
+- Add resources on critical metric studies: statistics as interpretation, not just calculation
 - Programming Historian: [Correspondence Analysis for Historical Research with R](https://programminghistorian.org/en/lessons/correspondence-analysis-in-R). "This tutorial explains how to carry out and interpret a correspondence analysis, which can be used to identify relationships within categorical data." :contentReference[oaicite:2]{index=2}
 - Programming Historian: [Regression Analysis with Scikit-Learn (part 1 - Linear)](https://programminghistorian.org/en/lessons/linear-regression). "This lesson provides an overview of linear regression and walks through running regression algorithms in Python using scikit-learn." :contentReference[oaicite:3]{index=3}
 - Programming Historian: [Regression Analysis with Scikit-learn (part 2 - Logistic)](https://programminghistorian.org/en/lessons/logistic-regression). "This lesson provides an overview of logistic regression and walks through building logistic regression models with scikit-learn." :contentReference[oaicite:4]{index=4}
