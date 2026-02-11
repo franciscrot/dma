@@ -51,7 +51,7 @@ title: DH Frames
 - Minimal computing isn't just about being thrifty with computational resources. It's also about thinking holistically about labour, infrastructure, environmental impact, power, diversity, equity, and inclusion.
 - It asks what is necessary, for whom, at what cost, and what are the wider implications (rather than just assuming that more data, more speed, and more scale are better ... or that less is always better!)
 - There can also sometimes be trade-offs between accessibility and certain kinds of minimalism: highly optimised, lightweight systems may exclude users who rely on assistive technologies, while feature-rich platforms can increase energy use and technical complexity.
-<details>
+</details>
   
 <summary>Resources</summary>
 
@@ -95,7 +95,7 @@ To do: include some pitfalls
 <details>
 <summary>Resources</summary>
 
-Add resources on data lifecycle
+To do: Add resources on data lifecycle
 
 </details>
 
@@ -149,11 +149,7 @@ What systems can talk to what systems, and how easily? Sometimes this can be a v
 
 ## Alternative technologies {#ai-critique}
 
-- Critical AI Studies
-- Luddism, neo-luddism, epistemological luddism
-- Slow technology
-- Convivial technology
-- Technofeminism
+Can we imagine different, better technological systems? Can we create such systems, perhaps initially at a small scale?  Critical AI Studies, Luddism, neo-Luddism, epistemological Luddism, slow technology, convivial technology, and technofeminism offer ideas, tools, and imaginative practices for cultivating alternative futures.
 
 <details>
 <summary>Resources</summary>
@@ -162,15 +158,17 @@ What systems can talk to what systems, and how easily? Sometimes this can be a v
 - Wikipedia: [Sharon Beder](https://en.wikipedia.org/wiki/Sharon_Beder), [Ruha Benjamin](https://en.wikipedia.org/wiki/Ruha_Benjamin), [Caroline Bassett](https://en.wikipedia.org/wiki/Caroline_Bassett), [Amy Bix](https://en.wikipedia.org/wiki/Amy_Bix), [Jorge Canizares-Esguerra](https://en.wikipedia.org/wiki/Jorge_Canizares-Esguerra), [Ruth Schwartz Cowan](https://en.wikipedia.org/wiki/Ruth_Schwartz_Cowan), [Jacques Ellul](https://en.wikipedia.org/wiki/Jacques_Ellul), [Eva Haifa Giraud](https://en.wikipedia.org/wiki/Eva_Haifa_Giraud), [Stuart Hall](https://en.wikipedia.org/wiki/Stuart_Hall_(cultural_theorist)), [Donna Haraway](https://en.wikipedia.org/wiki/Donna_Haraway), [N. Katherine Hayles](https://en.wikipedia.org/wiki/N._Katherine_Hayles), [Gabrielle Hecht](https://en.wikipedia.org/wiki/Gabrielle_Hecht), [Ivan Illich](https://en.wikipedia.org/wiki/Ivan_Illich), [Sheila Jasanoff](https://en.wikipedia.org/wiki/Sheila_Jasanoff), [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier), [Bruno Latour](https://en.wikipedia.org/wiki/Bruno_Latour), [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan), [Shobita Parthasarathy](https://en.wikipedia.org/wiki/Shobita_Parthasarathy), [Bernard Stiegler](https://en.wikipedia.org/wiki/Bernard_Stiegler), [Helen Verran](https://en.wikipedia.org/wiki/Helen_Verran), [Shiv Visvanathan](https://en.wikipedia.org/wiki/Shiv_Visvanathan), [Judy Wajcman](https://en.wikipedia.org/wiki/Judy_Wajcman), [Langdon Winner](https://en.wikipedia.org/wiki/Langdon_Winner), [Shoshana Zuboff](https://en.wikipedia.org/wiki/Shoshana_Zuboff)   
 - Wikipedia: [Technocriticism](https://en.wikipedia.org/wiki/Technocriticism), [Criticism of technology](https://en.wikipedia.org/wiki/Criticism_of_technology), [Neo-Luddites](https://en.wikipedia.org/wiki/Neo-Luddism)
 - Lachney & Dotson (2018), [Epistemological Luddism: Reinvigorating a Concept for Action in 21st Century Sociotechnical Struggles](https://www.tandfonline.com/doi/full/10.1080/02691728.2018.1476603)
+- To do: add resources on Critical AI Studies, Luddism, neo-Luddism, epistemological Luddism, slow technology, convivial technology, and technofeminism
+- To do: add resources on Industrial revolution 5.0
+- To do: add resources on People and planet centred design
+- To do: add resources on Speculative design
+- To do: add resources on future methodologies, e.g. horizon scanning, backcasting
+- To do: add resources on applied science fiction, diegetic prototyping
 </details>
 
 ## What is tech? {#what-is-tech}
 
 What is tech, physically, culturally, socially, economically, historically?
-
-- Intro to the tech sector
-- Political economy of technology
-- Histories of technology
 
 <details><summary>Resources</summary>
 
@@ -187,7 +185,9 @@ What is tech, physically, culturally, socially, economically, historically?
 - [Your Computer Is on Fire](https://en.wikipedia.org/wiki/Your_Computer_Is_on_Fire) – Edited by Thomas Mullaney, Benjamin Peters, Mar Hicks & Kavita Philip (2021). Essay collection.
 - [The Shock of the Old](https://en.wikipedia.org/wiki/The_Shock_of_the_Old) – David Edgerton (2006). A challenge to innovation-centric histories, showing how technologies persist and accumulate.
 - [The Cybernetic Brain](https://en.wikipedia.org/wiki/The_Cybernetic_Brain) – Andrew Pickering (2010). Explores British cybernetics and alternative systems thinking traditions that influenced digital culture.
-
+- Add more resources on intro to the tech sector
+- Add more resources on political economy of technology
+- Add more resources on histories of technology
 
 </details>
 
