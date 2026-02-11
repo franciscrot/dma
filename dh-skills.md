@@ -7,7 +7,7 @@ title: DH+ Skills
 
 - **Coding foundations** - Introductions to Python
 - **Data collection** - What do you want to study?
-- **Digitisation and OCR / HCR** - Part of data collection
+- **Digitisation and OCR** - Part of data collection
 - **Data cleaning** - Getting data ready for automated analysis
 - **Text and cultural analytics** - Topic modelling and more
 - **Networked culture** - Network analysis and more
@@ -36,22 +36,10 @@ Why are we learning coding in the first place? There are all kinds of reasons, b
 </details>
 
 <details markdown="1">
-<summary>What programming language to choose?</summary>
-
-If you're just getting started, the answer is probably Python!
-  
-- **Python** is good for general-purpose programming, especially for working with text, web data, and Machine Learning (AI).
-- **R** is especially strong for data exploration, statistical analysis, and producing plots — visualisations of data such as charts and graphs that help you see patterns, trends, and relationships.
-- **JavaScript / TypeScript** are the default languages of the web, used to build interactive websites and web apps that run in a browser.
-- Other languages include **C** and **C++**, which are very fast and energy-efficient for performance-critical software, **Java**, which is widely used for large, long-lived applications, and **Rust**, which combines high performance and energy efficiency with strong safety features. **C#**, despite the name, is not very close to C. It could be a choice if you want to make games in a game engine like Unity.
-- Then there are some things that are not really programming languages, but are a bit like them. **Twine** is not a programming language but a tool for creating interactive stories and games; it can be a gentle way to learn programming ideas such as logic, variables, and conditional choices. **HTML** is a mark-up language used to structure content on web pages (headings, paragraphs, links), and **CSS** is used to control how that content looks (layout, colours, fonts).
-
-</details>
-
-<details markdown="1">
 <summary>Resources</summary>
 
 - SHL Digital: [Introduction to Programming](https://docs.google.com/document/d/1n2WpHzsr5VIRAJ2cPvKyZ78dj0JTdke2kDyYtkHjRpI/edit?usp=sharing)
+- SHL Digital: [What Programming Language to Choose?](https://docs.google.com/document/d/1NSpwLzf_mynUFBcWgPIWiFi_1tJnBS-lcazEWYaRbeo/edit?usp=sharing)
 - SHL Digital: [Slides from 'Coding for Beginners in Media, Arts, and Humanities' by Nic Seymour-Smith](https://shldigital.github.io/DMA/2026/spring/coding-for-beginners/)
 - Python.org: [Python For Beginners](https://www.python.org/about/gettingstarted/) — Official guidance and starting points for learning Python.
 - Thonny: [Thonny, a Python IDE for beginners](https://thonny.org/)
@@ -102,18 +90,19 @@ Scraping the web is one important way of collecting data. Other forms of data co
 - Programming Historian: [Beginner’s Guide to Twitter Data](https://programminghistorian.org/en/lessons/beginners-guide-to-twitter-data). “Learn how to acquire Twitter data and process them to make them usable for further analysis.” The days of the super-useful Twitter API are long gone, but may still be of interest!
 - Programming Historian: [Text Mining in Python through the HTRC Feature Reader](https://programminghistorian.org/en/lessons/text-mining-in-python-through-the-htrc-feature-reader). “Explains how to use Python to summarize and visualize data on millions of texts from the HathiTrust Research Center’s Extracted Features dataset.”
 - Programming Historian: [Text Mining YouTube Comment Data with Wordfish in R](https://programminghistorian.org/en/lessons/text-mining-youtube-comment-data-with-wordfish-in-r). “In this lesson, you will learn how to download YouTube video comments and use the R programming language to analyze the dataset with Wordfish.”
-- Programming Historian: [Analyzing Multilingual French and Russian Text using NLTK, spaCy, and Stanza](https://programminghistorian.org/en/lessons/analyzing-multilingual-french-and-russian-text). “This lesson covers tokenization, part-of-speech tagging, and lemmatization, as well as automatic language detection, for non-English and multilingual text.”
 
 </details>
 
 ## Digitisation and OCR / HCR {#digitisation}
 
-Digitisation converts physical materials into digital forms that can be searched, analysed, and shared. Optical Character Recognition (OCR) turns printed or typed text into digital text.
+Digitisation converts physical materials into digital forms that can be searched, analysed, and shared. Optical Character Recognition (OCR) turns images of printed or typed text into digital text. Handwritten Text Recognition (HTR) turns images of handwritten text into digital text. In either case, you'd start with an image file (such as JPEGs or TIFFs) and finish with a text file (such as TXT or PDF).
 
-<details markdown="1"> <summary>What are OCR / HCR?</summary>
+<details markdown="1">
+<summary>What are OCR / HCR?</summary>
 - Optical Character Recognition (OCR) mainly means turning printed or typed text (so image files - e.g. JPEGs) into digital text. 
-- Handwritten Text Recognition (HTR) is for handwriting and often needs a trained Machine Learning model, plus careful correction, because handwriting varies so much.
+- Handwritten Text Recognition (HTR) is for handwriting and often needs a trained Machine Learning model, plus careful correction, because handwriting varies so much. 
 - OCR and HTR both have to make guesses from pixels. They can struggle with e.g. unusual fonts, faded ink, skewed pages, marginal notes, columns, poor lighting, low-resolution images, etc.
+</details>
 
 <details markdown="1">
 <summary>Resources</summary>
@@ -122,9 +111,6 @@ Digitisation converts physical materials into digital forms that can be searched
 - Programming Historian: [Transcribing Handwritten Text with Python and Microsoft Azure Computer Vision](https://programminghistorian.org/en/lessons/transcribing-handwritten-text-with-python-and-microsoft-azure-computer-vision). “This lesson will explain how to write a Python program to transcribe handwritten documents using Microsoft’s Azure Cognitive Services.”
 - Programming Historian: [Working with Batches of PDF Files](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files). “Learn how to perform OCR and text extraction with free command line tools like Tesseract and Poppler and how to get an overview of large numbers of PDF documents using topic modeling.”
 - Programming Historian: [Extracting Illustrated Pages from Digital Libraries with Python](https://programminghistorian.org/en/lessons/extracting-illustrated-pages-from-digital-libraries-with-python). “This lesson shows how to efficiently extract page regions of visual interest from digitized volumes.”
-- DARIAH-Campus: [Photogrammetry Tutorial](https://campus.dariah.eu/resources/external/photogrammetry-tutorial) — Step-by-step on preparing, photographing an object, and using Kiri Engine to reconstruct a 3D model.
-- DARIAH-Campus: [Photogrammetry 3D Digitisation](https://culturedigitalskills.github.io/2024-digitisation-3d-photogrammetry/) — Intro to photogrammetry (also called Structure from Motion) focused on capturing heritage objects and creating 3D models.
-- USMCDH: [Photogrammetry Tutorial](https://usmcdh.org/tutorial-3d-imagery-and-photogrammetry/) — How to use photographs to build 3D models of objects and scenes.
 
 </details>
 
@@ -183,6 +169,7 @@ Text and cultural analytics explore computational approaches to studying languag
 - Programming Historian: [Introduction to Stylometry with Python](https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python). “In this lesson you will learn to conduct ‘stylometric analysis’ on texts and determine authorship of disputed texts.”
 - Programming Historian: [Supervised Classification: The Naive Bayesian Returns to the Old Bailey](https://programminghistorian.org/en/lessons/naive-bayesian-returns-to-the-old-bailey). “This lesson shows how to use machine learning to extract interesting documents out of a digital archive.”
 - Programming Historian: [Interrogating a National Narrative with GPT-2](https://programminghistorian.org/en/lessons/interrogating-a-national-narrative-with-gpt-2). “In this lesson, you will learn how to apply a Generative Pre-trained Transformer language model to a large-scale corpus so that you can locate broad themes and trends within written text.”
+- Programming Historian: [Analyzing Multilingual French and Russian Text using NLTK, spaCy, and Stanza](https://programminghistorian.org/en/lessons/analyzing-multilingual-french-and-russian-text). “This lesson covers tokenization, part-of-speech tagging, and lemmatization, as well as automatic language detection, for non-English and multilingual text.”
 - Programming Historian: [Keywords in Context (Using n-grams) with Python](https://programminghistorian.org/en/lessons/keywords-in-context-using-n-grams-with-python). “This lesson takes the frequency pairs collected in ‘Counting Frequencies’ and outputs them in HTML.”
 - Programming Historian: [Output Keywords in Context in an HTML File with Python](https://programminghistorian.org/en/lessons/output-keywords-in-context-in-an-html-file-with-python). “This lesson builds on ‘Keywords in Context (Using N-grams)’, where n-grams were extracted from a text.”
 - Programming Historian: [Counting Word Frequencies with Python](https://programminghistorian.org/en/lessons/counting-word-frequencies-with-python). “Counting the frequency of specific words in a list can provide illustrative data. This lesson will teach you Python’s easy way to count such frequencies.”
@@ -245,7 +232,6 @@ Visual methods can be used to explore data-sets to look for data, and/or to comm
 - Programming Historian: [Creating Deep Convolutional Neural Networks for Image Classification](https://programminghistorian.org/en/lessons/creating-deep-convolutional-neural-networks-for-image-classification). “This lesson provides a beginner-friendly introduction to convolutional neural networks (CNNs) for image classification.”
 - Programming Historian: [Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 1)](https://programminghistorian.org/en/lessons/computer-vision-for-the-humanities-part-1). “This is the first of a two-part lesson introducing deep learning based computer vision methods for humanities research.”
 - Programming Historian: [Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 2)](https://programminghistorian.org/en/lessons/computer-vision-for-the-humanities-part-2). “This lesson digs deeper into the details of training a deep learning based computer vision model.”
-- Programming Historian: [Corpus Analysis with Voyant Tools](https://programminghistorian.org/en/lessons/corpus-analysis-with-voyant-tools). “In this lesson, you will learn how to organise a set of texts into a corpus and perform some basic linguistic analysis using the Voyant Tools platform.”
 - Programming Historian: [Facial Recognition in Historical Photographs with Artificial Intelligence in Python](https://programminghistorian.org/en/lessons/facial-recognition-in-historical-photographs). “In this lesson, you’ll learn computer vision and machine learning principles for object recognition, and how to apply these principles using Python to recognize and classify smiling faces in historical photographs.”
 - Programming Historian: [Teaching History and Languages with a Strategy Computer Game: 0̸ A.D. in the Classroom](https://programminghistorian.org/en/lessons/0ad-in-the-classroom). “This lesson demonstrates how to prepare a geographically accurate historical battle scene in the free and open source computer game 0̸ A.D.”
 - Programming Historian: [Interactive Fiction in the Humanities Classroom: How to Create Interactive Text Games Using Twine](https://programminghistorian.org/en/lessons/interactive-fiction-with-twine). “This lesson provides strategies for incorporating game creation into the classroom.”
@@ -259,6 +245,14 @@ Visual methods can be used to explore data-sets to look for data, and/or to comm
 ## Spatial methods {#spatial}
 
 Maps and more.
+
+<details markdown="1"><summary>What is GIS / georeferencing?</summary>
+
+- **GIS** (Geographic Information Systems) is software for working with data that has locations. It lets you join tables to places, make maps, and analyse spatial patterns.
+- **Georeferencing** basically means lining up a historical map with real-world coordinates by matching known points (like road junctions or landmarks). After that, you can overlay it with modern data.
+- **Geocoding** turns place names or addresses into coordinates. You usually need it when your data is a list of places but you want to map them or analyse distance and clustering. Names change, borders change, and the “same” place can have multiple spellings. You sometimes need a 'gazetteer' (a structured place list) plus careful documentation of your choices.
+
+</details>
 
 <details markdown="1">
 <summary>Resources</summary>
@@ -283,6 +277,12 @@ Maps and more.
 ## Physical computing {#physical-computing}
 
 Physical computing connects digital research to material devices and environments. It foregrounds how sensors and embedded systems shape the data we collect and how that data relates to place and lived experience.
+
+<details markdown="1"> <summary>What’s the difference between a Raspberry Pi and an Arduino?</summary>
+
+A Raspberry Pi is a small computer that runs an operating system. An Arduino (and the Raspberry Pi Pico) is a 'microcontroller': simpler, good for reading sensors and controlling devices directly.
+
+</details>
 
 <details markdown="1">
 <summary>Resources</summary>
