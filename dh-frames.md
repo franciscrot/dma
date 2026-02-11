@@ -52,7 +52,7 @@ title: DH Frames
 - It asks what is necessary, for whom, at what cost, and what are the wider implications (rather than just assuming that more data, more speed, and more scale are better ... or that less is always better!)
 - There can also sometimes be trade-offs between accessibility and certain kinds of minimalism: highly optimised, lightweight systems may exclude users who rely on assistive technologies, while feature-rich platforms can increase energy use and technical complexity.
 </details>
-  
+<details>
 <summary>Resources</summary>
 
 - [WCAG 2.1 Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/) Describes best accessibility practices for web content and interfaces.
