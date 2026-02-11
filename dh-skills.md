@@ -198,7 +198,7 @@ You might want to visualise how various entities are connected in order to commu
 
 </details>
   
-<summary>Resources</summary>
+<details markdown="1"><summary>Resources</summary>
 
 - Programming Historian: [Exploring and Analyzing Network Data with Python](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python). “This lesson introduces network metrics and how to draw conclusions from them when working with humanities data.”
 - Programming Historian: [Temporal Network Analysis with R](https://programminghistorian.org/en/lessons/temporal-network-analysis-with-r). “Learn how to use R to analyze networks that change over time.”
@@ -212,10 +212,7 @@ You might want to visualise how various entities are connected in order to commu
 
 Digital collections focus on building and maintaining collections that support research, teaching, and public access. This often includes creating digital editions, where texts, images, or objects are carefully digitised, described, and sometimes annotated so they can be studied online. Preservation is also pretty interesting: how do we ensure that digital materials remain usable over time despite changing file formats, software, and hardware?
 
-<details><summary>What is metadata?</summary>
-
-<details>
-<summary>What is metadata?</summary>
+<details markdown="1"><summary>What is metadata?</summary>
 
 - **Metadata is data about data** — often information that describes, explains, or gives context to some digital object.
 - Common examples include **titles, creators, dates, places, subjects, formats, rights, and provenance** (where something comes from and how it has changed).
@@ -327,9 +324,10 @@ Maps and more.
 
 Physical computing connects digital research to material devices and environments. It foregrounds how sensors and embedded systems shape the data we collect and how that data relates to place and lived experience.
 
-<details markdown="1"> <summary>What’s the difference between a Raspberry Pi and an Arduino?</summary>
+<details markdown="1"> <summary>What’s a Raspberry Pi / an Arduino?</summary>
 
-A Raspberry Pi is a small computer that runs an operating system. An Arduino (and the Raspberry Pi Pico) is a 'microcontroller': simpler, good for reading sensors and controlling devices directly.
+- A Raspberry Pi is a small computer that runs an operating system. 
+- An Arduino (and the Raspberry Pi Pico) is a 'microcontroller': simpler, good for reading sensors and controlling devices directly.
 
 </details>
 
