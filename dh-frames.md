@@ -46,15 +46,33 @@ title: DH Frames
 - Minimal computing
 
 <details>
-<summary>Resources</summary>
-- [WCAG quick reference](https://www.w3.org/WAI/WCAG21/quickref/) Describes best accessibility practices for various web features
-- [Principles of Universal Design](https://design.ncsu.edu/wp-content/uploads/2022/11/principles-of-universal-design.pdf)
-- Add more accessibility
-- Add more critical disability studies
-- Add more universal design
-- Add more minimal computing
+  <summary>Why is 'minimal computing' here too?</summary>
+
+- Minimal computing isn't just about being thrifty with computational resources. It's also about thinking holistically about labour, infrastructure, environmental impact, power, diversity, equity, and inclusion.
+- It asks what is necessary, for whom, at what cost, and what are the wider implications (rather than just assuming that more data, more speed, and more scale are better ... or that less is always better!)
+- There can also sometimes be trade-offs between accessibility and certain kinds of minimalism: highly optimised, lightweight systems may exclude users who rely on assistive technologies, while feature-rich platforms can increase energy use and technical complexity.
+<details>
   
+<summary>Resources</summary>
+
+- [WCAG 2.1 Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/) Describes best accessibility practices for web content and interfaces.
+- [Principles of Universal Design](https://design.ncsu.edu/wp-content/uploads/2022/11/principles-of-universal-design.pdf) Foundational framework outlining inclusive design principles.
+- [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/) Official W3C guidance, standards, and educational materials on web accessibility.
+- [Accessibility Developer Guide](https://www.accessibility-developer-guide.com/) Practical, example-driven explanations of accessibility patterns and implementation.
+- [A11Y Project](https://www.a11yproject.com/) Community-driven accessibility checklist and learning resource.
+- [Disability Visibility Project](https://disabilityvisibilityproject.com/) 
+- [Center for Critical Design and Disability](https://cdndisability.org/) Research hub connecting disability studies, design, and technology.
+- Hamraie & Fritsch, [Crip Technoscience Manifesto](https://doi.org/10.1215/01642472-7145653) 
+- [Critical Disability Studies Collective](https://cdsc.syr.edu/) 
+- [Inclusive Design Toolkit (University of Cambridge)](https://www.inclusivedesigntoolkit.com/) Methods and tools for designing with diverse bodies and capacities in mind.
+- [Design Justice Network Principles](https://designjustice.org/read-the-principles) 
+- [Minimal Computing Working Group](https://go-dh.github.io/mincomp/) Digital Humanities initiative advocating low-bandwidth, sustainable, and accessible computing practices.
+- [The Case for Minimal Computing (Risam & Gil)](https://dhdebates.gc.cuny.edu/read/untitled-ae337007-6ff9-4553-82a8-5e0d6f29a4f6/section/94d81a1e-8a87-4e9d-9a6f-6e3b5d1f4b4f) Argument for sustainable, equitable digital infrastructures in DH.
+- [Low-Tech Magazine (solar-powered site)](https://solar.lowtechmagazine.com/) Demonstrates radically low-energy web publishing.
+- [Sustainable Web Design](https://sustainablewebdesign.org/) Principles for reducing the environmental impact of digital systems.
+
 </details>
+
 
 ## Data lifecycle {#data-lifecycle}
 
@@ -158,17 +176,18 @@ What is tech, physically, culturally, socially, economically, historically?
 
 - DHCC: [The Cloud and the Climate: Navigating our AI-Powered Futures](https://zenodo.org/records/13850067)
 - Adrian Daub, [What Tech Calls Thinking](https://fabricating.it/media/pages/repository/23d8a22dfe-1616916755/adrian-daub-what-tech-calls-thinking.pdf)
-- - Barbrook & Cameron (1995/1996), ['The Californian Ideology'](https://monoskop.org/images/d/dc/Barbrook_Richard_Cameron_Andy_1996_The_Californian_Ideology.pdf)
-- [From Counterculture to Cyberculture][https://en.wikipedia.org/wiki/From_Counterculture_to_Cyberculture] – Fred Turner (2006). Traces how 1960s countercultural networks, especially around the Whole Earth Catalog, fed into Silicon Valley’s techno-libertarian ideology and digital utopianism.
-- [What the Dormouse Said][https://en.wikipedia.org/wiki/What_the_Dormouse_Said] – John Markoff (2005).
-- [To Save Everything, Click Here][https://en.wikipedia.org/wiki/Evgeny_Morozov] – Evgeny Morozov (2013). Critiques “technological solutionism” and Silicon Valley’s tendency to frame political problems as engineering challenges. (No standalone Wikipedia page for the book.)
-- [The Googlization of Everything][https://en.wikipedia.org/wiki/The_Googlization_of_Everything] – Siva Vaidhyanathan (2011). 
-- [The Code: Silicon Valley and the Remaking of America][https://en.wikipedia.org/wiki/The_Code:_Silicon_Valley_and_the_Remaking_of_America] – Margaret O’Mara (2019). A political history emphasising Cold War funding, state power, and the myth of garage entrepreneurship.
-- [Making Silicon Valley][https://en.wikipedia.org/wiki/David_N._Pellow] – David N. Pellow & Lisa Sun-Hee Park (2002).
-- [The Revolution That Wasn’t][https://en.wikipedia.org/wiki/The_Revolution_That_Wasn%27t] – Joy Lisi Rankin (2018).
-- [Your Computer Is on Fire][https://en.wikipedia.org/wiki/Your_Computer_Is_on_Fire] – Edited by Thomas Mullaney, Benjamin Peters, Mar Hicks & Kavita Philip (2021). Essay collection .
-- [The Shock of the Old][https://en.wikipedia.org/wiki/The_Shock_of_the_Old] – David Edgerton (2006). A challenge to innovation-centric histories, showing how technologies persist and accumulate.
-- [The Cybernetic Brain][https://en.wikipedia.org/wiki/The_Cybernetic_Brain] – Andrew Pickering (2010). Explores British cybernetics and alternative systems thinking traditions that influenced digital culture.
+- Barbrook & Cameron (1995/1996), ['The Californian Ideology'](https://monoskop.org/images/d/dc/Barbrook_Richard_Cameron_Andy_1996_The_Californian_Ideology.pdf)
+- [From Counterculture to Cyberculture](https://en.wikipedia.org/wiki/From_Counterculture_to_Cyberculture) – Fred Turner (2006). Traces how 1960s countercultural networks, especially around the Whole Earth Catalog, fed into Silicon Valley’s techno-libertarian ideology and digital utopianism.
+- [What the Dormouse Said](https://en.wikipedia.org/wiki/What_the_Dormouse_Said) – John Markoff (2005).
+- [To Save Everything, Click Here](https://en.wikipedia.org/wiki/Evgeny_Morozov) – Evgeny Morozov (2013). Critiques “technological solutionism” and Silicon Valley’s tendency to frame political problems as engineering challenges. 
+- [The Googlization of Everything](https://en.wikipedia.org/wiki/The_Googlization_of_Everything) – Siva Vaidhyanathan (2011).
+- [The Code: Silicon Valley and the Remaking of America](https://en.wikipedia.org/wiki/The_Code:_Silicon_Valley_and_the_Remaking_of_America) – Margaret O’Mara (2019). A political history emphasising Cold War funding, state power, and the myth of garage entrepreneurship.
+- [Making Silicon Valley](https://en.wikipedia.org/wiki/David_N._Pellow) – David N. Pellow & Lisa Sun-Hee Park (2002).
+- [The Revolution That Wasn’t](https://en.wikipedia.org/wiki/The_Revolution_That_Wasn%27t) – Joy Lisi Rankin (2018).
+- [Your Computer Is on Fire](https://en.wikipedia.org/wiki/Your_Computer_Is_on_Fire) – Edited by Thomas Mullaney, Benjamin Peters, Mar Hicks & Kavita Philip (2021). Essay collection.
+- [The Shock of the Old](https://en.wikipedia.org/wiki/The_Shock_of_the_Old) – David Edgerton (2006). A challenge to innovation-centric histories, showing how technologies persist and accumulate.
+- [The Cybernetic Brain](https://en.wikipedia.org/wiki/The_Cybernetic_Brain) – Andrew Pickering (2010). Explores British cybernetics and alternative systems thinking traditions that influenced digital culture.
+
 
 </details>
 
