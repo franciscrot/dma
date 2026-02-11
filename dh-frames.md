@@ -30,6 +30,7 @@ title: DH Frames
 - [What is Minimal Computing?](https://go-dh.github.io/mincomp/about/)
 - DHCC: [Minimal Computing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html)
 - [How to Avoid Being a DH Lab: The Stories of the Sussex Humanities Lab](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003185932-6/avoid-being-dh-lab-anna-maria-sichani-james-baker-alice-eldridge-tim-hitchcock-ben-roberts-suzanne-tatham-amelia-wakeford-jo-walton-sharon-webb)
+</details>
 
 ## Accessibility {#accessibility}
 
