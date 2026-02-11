@@ -82,14 +82,14 @@ Scraping the web is one important way of collecting data. Other forms of data co
 <details markdown="1">
 <summary>Resources</summary>
   
-- Programming Historian: [Downloading Web Pages with Python](https://programminghistorian.org/en/lessons/downloading-web-pages-with-python). “This lesson introduces Uniform Resource Locators (URLs) and explains how to use Python to download and save the contents of a web page to your local hard drive.”
+- Programming Historian: [Downloading Web Pages with Python](https://programminghistorian.org/en/lessons/working-with-web-pages). “This lesson introduces Uniform Resource Locators (URLs) and explains how to use Python to download and save the contents of a web page to your local hard drive.”
 - Programming Historian: [Downloading Multiple Records Using Query Strings](https://programminghistorian.org/en/lessons/downloading-multiple-records-using-query-strings). “In this lesson, we will write a program that will download a series of records from the Old Bailey Online using custom search criteria.”
 - Programming Historian: [Automated Downloading with Wget](https://programminghistorian.org/en/lessons/automated-downloading-with-wget). “Wget is a useful program, run through your computer’s command line, for retrieving online material.”
 - Programming Historian: [Applied Archival Downloading with Wget](https://programminghistorian.org/en/lessons/applied-archival-downloading-with-wget). “This lesson expands web-scraping skills through a few more lessons that focus on other uses for Wget’s recursive retrieval function.”
 - Programming Historian: [Data Mining the Internet Archive Collection](https://programminghistorian.org/en/lessons/data-mining-the-internet-archive). “This lesson teaches you how to use Python to automate the downloading of large numbers of MARC files from the Internet Archive and parse MARC records.”
 - Programming Historian: [Beginner’s Guide to Twitter Data](https://programminghistorian.org/en/lessons/beginners-guide-to-twitter-data). “Learn how to acquire Twitter data and process them to make them usable for further analysis.” The days of the super-useful Twitter API are long gone, but may still be of interest!
-- Programming Historian: [Text Mining in Python through the HTRC Feature Reader](https://programminghistorian.org/en/lessons/text-mining-in-python-through-the-htrc-feature-reader). “Explains how to use Python to summarize and visualize data on millions of texts from the HathiTrust Research Center’s Extracted Features dataset.”
-- Programming Historian: [Text Mining YouTube Comment Data with Wordfish in R](https://programminghistorian.org/en/lessons/text-mining-youtube-comment-data-with-wordfish-in-r). “In this lesson, you will learn how to download YouTube video comments and use the R programming language to analyze the dataset with Wordfish.”
+- Programming Historian: [Text Mining in Python through the HTRC Feature Reader](https://programminghistorian.org/en/lessons/text-mining-with-extracted-features). “Explains how to use Python to summarize and visualize data on millions of texts from the HathiTrust Research Center’s Extracted Features dataset.”
+- Programming Historian: [Text Mining YouTube Comment Data with Wordfish in R](https://programminghistorian.org/en/lessons/text-mining-youtube-comments). “In this lesson, you will learn how to download YouTube video comments and use the R programming language to analyze the dataset with Wordfish.”
 
 </details>
 
