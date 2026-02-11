@@ -7,7 +7,7 @@ title: DH+ Skills
 
 - **Coding foundations** - Introductions to Python
 - **Data collection** - What do you want to study?
-- **Digitisation and OCR** - Part of data collection
+- **Digitisation and OCR / HCR** - Part of data collection
 - **Data cleaning** - Getting data ready for automated analysis
 - **Text and cultural analytics** - Topic modelling and more
 - **Networked culture** - Network analysis and more
@@ -100,12 +100,20 @@ Scraping the web is one important way of collecting data. Other forms of data co
 - Programming Historian: [Applied Archival Downloading with Wget](https://programminghistorian.org/en/lessons/applied-archival-downloading-with-wget). “This lesson expands web-scraping skills through a few more lessons that focus on other uses for Wget’s recursive retrieval function.”
 - Programming Historian: [Data Mining the Internet Archive Collection](https://programminghistorian.org/en/lessons/data-mining-the-internet-archive). “This lesson teaches you how to use Python to automate the downloading of large numbers of MARC files from the Internet Archive and parse MARC records.”
 - Programming Historian: [Beginner’s Guide to Twitter Data](https://programminghistorian.org/en/lessons/beginners-guide-to-twitter-data). “Learn how to acquire Twitter data and process them to make them usable for further analysis.” The days of the super-useful Twitter API are long gone, but may still be of interest!
+- Programming Historian: [Text Mining in Python through the HTRC Feature Reader](https://programminghistorian.org/en/lessons/text-mining-in-python-through-the-htrc-feature-reader). “Explains how to use Python to summarize and visualize data on millions of texts from the HathiTrust Research Center’s Extracted Features dataset.”
+- Programming Historian: [Text Mining YouTube Comment Data with Wordfish in R](https://programminghistorian.org/en/lessons/text-mining-youtube-comment-data-with-wordfish-in-r). “In this lesson, you will learn how to download YouTube video comments and use the R programming language to analyze the dataset with Wordfish.”
+- Programming Historian: [Analyzing Multilingual French and Russian Text using NLTK, spaCy, and Stanza](https://programminghistorian.org/en/lessons/analyzing-multilingual-french-and-russian-text). “This lesson covers tokenization, part-of-speech tagging, and lemmatization, as well as automatic language detection, for non-English and multilingual text.”
 
 </details>
 
-## Digitisation and OCR {#digitisation}
+## Digitisation and OCR / HCR {#digitisation}
 
-Digitisation converts physical materials into digital forms that can be searched, analysed, and shared. Optical Character Recognition (OCR) turns printed, typed, or handwritten text into digital text.
+Digitisation converts physical materials into digital forms that can be searched, analysed, and shared. Optical Character Recognition (OCR) turns printed or typed text into digital text.
+
+<details markdown="1"> <summary>What are OCR / HCR?</summary>
+- Optical Character Recognition (OCR) mainly means turning printed or typed text (so image files - e.g. JPEGs) into digital text. 
+- Handwritten Text Recognition (HTR) is for handwriting and often needs a trained Machine Learning model, plus careful correction, because handwriting varies so much.
+- OCR and HTR both have to make guesses from pixels. They can struggle with e.g. unusual fonts, faded ink, skewed pages, marginal notes, columns, poor lighting, low-resolution images, etc.
 
 <details markdown="1">
 <summary>Resources</summary>
@@ -114,6 +122,9 @@ Digitisation converts physical materials into digital forms that can be searched
 - Programming Historian: [Transcribing Handwritten Text with Python and Microsoft Azure Computer Vision](https://programminghistorian.org/en/lessons/transcribing-handwritten-text-with-python-and-microsoft-azure-computer-vision). “This lesson will explain how to write a Python program to transcribe handwritten documents using Microsoft’s Azure Cognitive Services.”
 - Programming Historian: [Working with Batches of PDF Files](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files). “Learn how to perform OCR and text extraction with free command line tools like Tesseract and Poppler and how to get an overview of large numbers of PDF documents using topic modeling.”
 - Programming Historian: [Extracting Illustrated Pages from Digital Libraries with Python](https://programminghistorian.org/en/lessons/extracting-illustrated-pages-from-digital-libraries-with-python). “This lesson shows how to efficiently extract page regions of visual interest from digitized volumes.”
+- DARIAH-Campus: [Photogrammetry Tutorial](https://campus.dariah.eu/resources/external/photogrammetry-tutorial) — Step-by-step on preparing, photographing an object, and using Kiri Engine to reconstruct a 3D model.
+- DARIAH-Campus: [Photogrammetry 3D Digitisation](https://culturedigitalskills.github.io/2024-digitisation-3d-photogrammetry/) — Intro to photogrammetry (also called Structure from Motion) focused on capturing heritage objects and creating 3D models.
+- USMCDH: [Photogrammetry Tutorial](https://usmcdh.org/tutorial-3d-imagery-and-photogrammetry/) — How to use photographs to build 3D models of objects and scenes.
 
 </details>
 
@@ -172,9 +183,6 @@ Text and cultural analytics explore computational approaches to studying languag
 - Programming Historian: [Introduction to Stylometry with Python](https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python). “In this lesson you will learn to conduct ‘stylometric analysis’ on texts and determine authorship of disputed texts.”
 - Programming Historian: [Supervised Classification: The Naive Bayesian Returns to the Old Bailey](https://programminghistorian.org/en/lessons/naive-bayesian-returns-to-the-old-bailey). “This lesson shows how to use machine learning to extract interesting documents out of a digital archive.”
 - Programming Historian: [Interrogating a National Narrative with GPT-2](https://programminghistorian.org/en/lessons/interrogating-a-national-narrative-with-gpt-2). “In this lesson, you will learn how to apply a Generative Pre-trained Transformer language model to a large-scale corpus so that you can locate broad themes and trends within written text.”
-- Programming Historian: [Text Mining in Python through the HTRC Feature Reader](https://programminghistorian.org/en/lessons/text-mining-in-python-through-the-htrc-feature-reader). “Explains how to use Python to summarize and visualize data on millions of texts from the HathiTrust Research Center’s Extracted Features dataset.”
-- Programming Historian: [Text Mining YouTube Comment Data with Wordfish in R](https://programminghistorian.org/en/lessons/text-mining-youtube-comment-data-with-wordfish-in-r). “In this lesson, you will learn how to download YouTube video comments and use the R programming language to analyze the dataset with Wordfish.”
-- Programming Historian: [Analyzing Multilingual French and Russian Text using NLTK, spaCy, and Stanza](https://programminghistorian.org/en/lessons/analyzing-multilingual-french-and-russian-text). “This lesson covers tokenization, part-of-speech tagging, and lemmatization, as well as automatic language detection, for non-English and multilingual text.”
 - Programming Historian: [Keywords in Context (Using n-grams) with Python](https://programminghistorian.org/en/lessons/keywords-in-context-using-n-grams-with-python). “This lesson takes the frequency pairs collected in ‘Counting Frequencies’ and outputs them in HTML.”
 - Programming Historian: [Output Keywords in Context in an HTML File with Python](https://programminghistorian.org/en/lessons/output-keywords-in-context-in-an-html-file-with-python). “This lesson builds on ‘Keywords in Context (Using N-grams)’, where n-grams were extracted from a text.”
 - Programming Historian: [Counting Word Frequencies with Python](https://programminghistorian.org/en/lessons/counting-word-frequencies-with-python). “Counting the frequency of specific words in a list can provide illustrative data. This lesson will teach you Python’s easy way to count such frequencies.”
@@ -237,6 +245,7 @@ Visual methods can be used to explore data-sets to look for data, and/or to comm
 - Programming Historian: [Creating Deep Convolutional Neural Networks for Image Classification](https://programminghistorian.org/en/lessons/creating-deep-convolutional-neural-networks-for-image-classification). “This lesson provides a beginner-friendly introduction to convolutional neural networks (CNNs) for image classification.”
 - Programming Historian: [Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 1)](https://programminghistorian.org/en/lessons/computer-vision-for-the-humanities-part-1). “This is the first of a two-part lesson introducing deep learning based computer vision methods for humanities research.”
 - Programming Historian: [Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 2)](https://programminghistorian.org/en/lessons/computer-vision-for-the-humanities-part-2). “This lesson digs deeper into the details of training a deep learning based computer vision model.”
+- Programming Historian: [Corpus Analysis with Voyant Tools](https://programminghistorian.org/en/lessons/corpus-analysis-with-voyant-tools). “In this lesson, you will learn how to organise a set of texts into a corpus and perform some basic linguistic analysis using the Voyant Tools platform.”
 - Programming Historian: [Facial Recognition in Historical Photographs with Artificial Intelligence in Python](https://programminghistorian.org/en/lessons/facial-recognition-in-historical-photographs). “In this lesson, you’ll learn computer vision and machine learning principles for object recognition, and how to apply these principles using Python to recognize and classify smiling faces in historical photographs.”
 - Programming Historian: [Teaching History and Languages with a Strategy Computer Game: 0̸ A.D. in the Classroom](https://programminghistorian.org/en/lessons/0ad-in-the-classroom). “This lesson demonstrates how to prepare a geographically accurate historical battle scene in the free and open source computer game 0̸ A.D.”
 - Programming Historian: [Interactive Fiction in the Humanities Classroom: How to Create Interactive Text Games Using Twine](https://programminghistorian.org/en/lessons/interactive-fiction-with-twine). “This lesson provides strategies for incorporating game creation into the classroom.”
