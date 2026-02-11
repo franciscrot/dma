@@ -11,12 +11,13 @@ title: DH+ Skills
 - **Data cleaning** - Getting data ready for automated analysis
 - **Text and cultural analytics** - Topic modelling and more
 - **Networked culture** - Network analysis and more
+- **Cultural heritage foundations** - Curation and archiving
 - **Digital collections, digital editions, & preservation** - Creating digital resources
-- **Visual methods and more** - Visualisation for exploration or for explanation
+- - **Visual methods and more** - Visualisation for exploration or for explanation
 - **Spatial methods** - Maps and more
 - **Physical computing** - Making things happen with code
 - **Development foundations** - GitHub and more
-- **Cultural heritage foundations** - Curation and archiving
+
 
 ## Coding foundations {#coding-foundations}
 
@@ -211,6 +212,32 @@ You might want to visualise how various entities are connected in order to commu
 
 </details>
 
+## Cultural heritage foundations {#cultural-heritage-foundations}
+
+<details markdown="1"><summary>What is cultural heritage?</summary>
+
+Cultural heritage refers to the objects, stories, practices, places, and traditions that communities value and pass on over time. It includes tangible heritage such as buildings, artworks, and archives, as well as intangible heritage such as languages, rituals, skills, and collective memory. Cultural heritage helps people understand where they come from and how their identities have been shaped.
+
+Contemporary cultural heritage professionals also often oversee connections with academic, sectoral, and industry partners, seeking innovative ways to reach audiences, co-design experiences and outcomes, and diversify funding streams.
+
+</details>
+
+<details markdown="1"><summary>Resources</summary>
+
+- [Digital Heritage Hub](https://www.culturehive.co.uk/digital-heritage-hub/) 
+- [Digital Skills for Heritage Initiative](https://www.heritagefund.org.uk/our-work/digital-skills-heritage) 
+- [Getting Started with Online Learning (PDF)](https://www.heritagefund.org.uk/sites/default/files/media/attachments/Digital%20guide%20getting%20started%20with%20online%20learning.pdf) 
+- [IIIF for Beginners](https://iiif.io/get-started/how-iiif-works/) (IIIF Consortium) Clear explanation of how the International Image Interoperability Framework works and why it matters for sharing high-quality collection images.
+- [Introduction to IIIF Presentation API](https://iiif.io/api/presentation/3.0/) (IIIF Consortium) Technical but readable overview of how digital objects and metadata are structured for interoperable image delivery.
+- [Omeka Classic Documentation](https://omeka.org/classic/docs/) (Omeka) Practical documentation for building and publishing online collections and exhibitions with structured metadata.
+- [Introduction to Metadata](https://www.dcc.ac.uk/guidance/briefing-papers/introduction-metadata) (Digital Curation Centre) Accessible introduction to what metadata is, why it matters, and how to structure it effectively.
+- [Digital Preservation Handbook](https://www.dpconline.org/handbook) (Digital Preservation Coalition) Comprehensive guide to preserving digital materials, covering formats, storage, risk management and policy.
+- [OCR with Tesseract Tutorial](https://nanonets.com/blog/ocr-with-tesseract/) Beginner-friendly explanation of how optical character recognition works and how to experiment with it in practice.
+- [Photogrammetry Guide for Cultural Heritage](https://www.cyark.org/what-is-3d-documentation) (CyArk) Overview of 3D documentation methods for heritage objects and sites, including photogrammetry and laser scanning.
+- See also 'Digitisation and OCR / HCR' and 'Digital collections, digital editions, and preservation'
+
+</details>
+
 ## Digital collections, digital editions, and preservation {#digital-collections}
 
 Digital collections focus on building and maintaining collections that support research, teaching, and public access. This often includes creating digital editions, where texts, images, or objects are carefully digitised, described, and sometimes annotated so they can be studied online. Preservation is also pretty interesting: how do we ensure that digital materials remain usable over time despite changing file formats, software, and hardware?
@@ -387,28 +414,3 @@ d) Simple websites or browser-based tools. In some cases, code can be put in a w
 
 </details>
 
-## Cultural heritage foundations
-
-<details markdown="1"><summary>What is cultural heritage?</summary>
-
-Cultural heritage refers to the objects, stories, practices, places, and traditions that communities value and pass on over time. It includes tangible heritage such as buildings, artworks, and archives, as well as intangible heritage such as languages, rituals, skills, and collective memory. Cultural heritage helps people understand where they come from and how their identities have been shaped.
-
-Contemporary cultural heritage professionals also often oversee connections with academic, sectoral, and industry partners, seeking innovative ways to reach audiences, co-design experiences and outcomes, and diversify funding streams.
-
-</details>
-
-<details markdown="1"><summary>Resources</summary>
-
-- [Digital Heritage Hub](https://www.culturehive.co.uk/digital-heritage-hub/) 
-- [Digital Skills for Heritage Initiative](https://www.heritagefund.org.uk/our-work/digital-skills-heritage) 
-- [Getting Started with Online Learning (PDF)](https://www.heritagefund.org.uk/sites/default/files/media/attachments/Digital%20guide%20getting%20started%20with%20online%20learning.pdf) 
-- [IIIF for Beginners](https://iiif.io/get-started/how-iiif-works/) (IIIF Consortium) Clear explanation of how the International Image Interoperability Framework works and why it matters for sharing high-quality collection images.
-- [Introduction to IIIF Presentation API](https://iiif.io/api/presentation/3.0/) (IIIF Consortium) Technical but readable overview of how digital objects and metadata are structured for interoperable image delivery.
-- [Omeka Classic Documentation](https://omeka.org/classic/docs/) (Omeka) Practical documentation for building and publishing online collections and exhibitions with structured metadata.
-- [Introduction to Metadata](https://www.dcc.ac.uk/guidance/briefing-papers/introduction-metadata) (Digital Curation Centre) Accessible introduction to what metadata is, why it matters, and how to structure it effectively.
-- [Digital Preservation Handbook](https://www.dpconline.org/handbook) (Digital Preservation Coalition) Comprehensive guide to preserving digital materials, covering formats, storage, risk management and policy.
-- [OCR with Tesseract Tutorial](https://nanonets.com/blog/ocr-with-tesseract/) Beginner-friendly explanation of how optical character recognition works and how to experiment with it in practice.
-- [Photogrammetry Guide for Cultural Heritage](https://www.cyark.org/what-is-3d-documentation) (CyArk) Overview of 3D documentation methods for heritage objects and sites, including photogrammetry and laser scanning.
-- See also 'Digitisation and OCR / HCR' and 'Digital collections, digital editions, and preservation'
-
-</details>
