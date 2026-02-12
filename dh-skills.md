@@ -165,6 +165,7 @@ Text and cultural analytics explore computational approaches to studying languag
 
 <details markdown="1">
 <summary>Resources</summary>
+
 - Programming Historian: [Corpus Analysis with Voyant Tools](https://programminghistorian.org/en/lessons/corpus-analysis-voyant-tools). “In this lesson, you will learn how to organise a set of texts into a corpus and perform some basic linguistic analysis using the Voyant Tools platform.”
 - Programming Historian: [Corpus Analysis with spaCy](https://programminghistorian.org/en/lessons/corpus-analysis-with-spacy). “This lesson demonstrates how to use the Python library spaCy for analysis of large collections of texts.”
 - Programming Historian: [Corpus Analysis with AntConc](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc). “Corpus analysis is a form of text analysis which allows you to make comparisons between textual objects at a large scale (so-called ‘distant reading’).”
@@ -185,7 +186,6 @@ Text and cultural analytics explore computational approaches to studying languag
 - Programming Historian: [Keywords in Context (Using n-grams) with Python](https://programminghistorian.org/en/lessons/keywords-in-context-using-n-grams). “This lesson takes the frequency pairs collected in ‘Counting Frequencies’ and outputs them in HTML.”
 - Programming Historian: [Output Keywords in Context in an HTML File with Python](https://programminghistorian.org/en/lessons/output-keywords-in-context-in-html-file). “This lesson builds on ‘Keywords in Context (Using N-grams)’, where n-grams were extracted from a text.”
 - Programming Historian: [Counting Word Frequencies with Python](https://programminghistorian.org/en/lessons/counting-frequencies). “Counting the frequency of specific words in a list can provide illustrative data. This lesson will teach you Python’s easy way to count such frequencies.”
-
 - Jo Lindsay Walton: [Introduction to Close Reading](https://youtu.be/2mVek-oCZt8?si=xqoufVtRDhfrE1Qz)
 
 </details>
