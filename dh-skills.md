@@ -24,7 +24,7 @@ title: DH+ Skills
 Basic programming ideas and workflows that support media, arts, and humanities research. 
 
 <details markdown="1">
-<summary>As a scholar in media, arts, and humanities, why learn coding?</summary>
+<summary>How do DH+ scholars use code?</summary>
   
 Why learning coding in the first place? There are all kinds of reasons, but here are just a few. Once you’ve got to an intermediary level, you might …
 
@@ -36,6 +36,7 @@ Why learning coding in the first place? There are all kinds of reasons, but here
 - **Scrape the web** to create data-sets to study further.
 - **Influence the physical world**, for example by running code on a Raspberry Pi to drive screens, sound, sensors, or small installations for exhibitions, teaching, or creative projects.
 - **Make art**, for example digital art or interactive installations.
+- **Collaborate with Research Software Engineers** or other developers on more advanced projects. Understanding some basic code can enrich your collaborative understanding.
 </details>
 
 <details markdown="1">
@@ -213,6 +214,8 @@ You might want to visualise how various entities are connected in order to commu
 </details>
 
 ## Cultural heritage foundations {#cultural-heritage-foundations}
+
+DH+ practitioners often work with non-academic partners, especially Galleries, Libraries, Archives and Museums (GLAM) and other cultural heritage organisations.
 
 <details markdown="1"><summary>What is cultural heritage?</summary>
 
