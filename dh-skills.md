@@ -13,7 +13,7 @@ title: DH+ Skills
 - **Networked culture** - Network analysis and more
 - **Cultural heritage foundations** - Curation and archiving
 - **Digital collections, digital editions, & preservation** - Creating digital resources
-- - **Visual methods and more** - Visualisation for exploration or for explanation
+- **Visual methods and more** - Visualisation for exploration or for explanation
 - **Spatial methods** - Maps and more
 - **Physical computing** - Making things happen with code
 - **Development foundations** - GitHub and more
@@ -24,9 +24,9 @@ title: DH+ Skills
 Basic programming ideas and workflows that support media, arts, and humanities research. 
 
 <details markdown="1">
-<summary>Why learn some coding?</summary>
+<summary>As a scholar in media, arts, and humanities, why learn coding?</summary>
   
-Why are we learning coding in the first place? There are all kinds of reasons, but here are just a few. Well, once you’ve got to an intermediary level, you might …
+Why learning coding in the first place? There are all kinds of reasons, but here are just a few. Once you’ve got to an intermediary level, you might …
 
 - **Automate mundane tasks** — renaming files, batch-processing images or texts, extracting information from many sources, etc.
 - **Create games** or interactive tools to help to disseminate your research, or to use within your teaching.
@@ -35,6 +35,7 @@ Why are we learning coding in the first place? There are all kinds of reasons, b
 - **Build simple models** or simulations to think through processes or systems over time, asking “what happens if…” in a way that is explicit and repeatable.
 - **Scrape the web** to create data-sets to study further.
 - **Influence the physical world**, for example by running code on a Raspberry Pi to drive screens, sound, sensors, or small installations for exhibitions, teaching, or creative projects.
+- **Make art**, for example digital art or interactive installations.
 </details>
 
 <details markdown="1">
@@ -67,7 +68,7 @@ Why are we learning coding in the first place? There are all kinds of reasons, b
 
 ## Data collection {#web-methods}
 
-Scraping the web is one important way of collecting data. Other forms of data collection include conducting interviews, querying APIs, deploying microphones or other sensors to record activities, giving research participants prompts or challenges, inviting participants them to participate in playful activities, autoethnographic reflection, etc.
+Web scraping is one important way to gather data. Other methods include conducting interviews, querying APIs, taking field recordings, giving participants prompts or challenges, undertaking autoethnographic reflection, conducting citizen science activities, or re-using datasets created by other researchers.
 
 <details markdown="1">
 <summary>What's an API?</summary>
@@ -89,6 +90,7 @@ Scraping the web is one important way of collecting data. Other forms of data co
 - Programming Historian: [Automated Downloading with Wget](https://programminghistorian.org/en/lessons/automated-downloading-with-wget). “Wget is a useful program, run through your computer’s command line, for retrieving online material.”
 - Programming Historian: [Applied Archival Downloading with Wget](https://programminghistorian.org/en/lessons/applied-archival-downloading-with-wget). “This lesson expands web-scraping skills through a few more lessons that focus on other uses for Wget’s recursive retrieval function.”
 - Programming Historian: [Data Mining the Internet Archive Collection](https://programminghistorian.org/en/lessons/data-mining-the-internet-archive). “This lesson teaches you how to use Python to automate the downloading of large numbers of MARC files from the Internet Archive and parse MARC records.”
+- Programming Historian: [Fetching and Parsing Data from the Web with OpenRefine](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine). “OpenRefine is a powerful tool for exploring, cleaning, and transforming data. In this lesson you will learn how to use Refine to fetch URLs and parse web content.”
 - Programming Historian: [Beginner’s Guide to Twitter Data](https://programminghistorian.org/en/lessons/beginners-guide-to-twitter-data). “Learn how to acquire Twitter data and process them to make them usable for further analysis.” The days of the super-useful Twitter API are long gone, but may still be of interest!
 - Programming Historian: [Text Mining in Python through the HTRC Feature Reader](https://programminghistorian.org/en/lessons/text-mining-with-extracted-features). “Explains how to use Python to summarize and visualize data on millions of texts from the HathiTrust Research Center’s Extracted Features dataset.”
 - Programming Historian: [Text Mining YouTube Comment Data with Wordfish in R](https://programminghistorian.org/en/lessons/text-mining-youtube-comments). “In this lesson, you will learn how to download YouTube video comments and use the R programming language to analyze the dataset with Wordfish.”
@@ -138,11 +140,9 @@ Regular expressions (often called regex) are a way of describing patterns in tex
 - Programming Historian: [Data Wrangling and Management in R](https://programminghistorian.org/en/lessons/data-wrangling-and-management-in-r). “This tutorial explores how scholars can organize ‘tidy’ data, understand R packages to manipulate data, and conduct basic data analysis.”
 - Programming Historian: [R Basics with Tabular Data](https://programminghistorian.org/en/lessons/r-basics-with-tabular-data). “This lesson teaches a way to quickly analyze large volumes of tabular data, making research faster and more effective.”
 - Programming Historian: [Cleaning Data with OpenRefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine). “This tutorial focuses on how scholars can diagnose and act upon the accuracy of data.”
-- Programming Historian: [Fetching and Parsing Data from the Web with OpenRefine](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine). “OpenRefine is a powerful tool for exploring, cleaning, and transforming data. In this lesson you will learn how to use Refine to fetch URLs and parse web content.”
 - Programming Historian: [Crowdsourced-Data Normalization with Python and Pandas](https://programminghistorian.org/en/lessons/crowdsourced-data-normalization-with-python-and-pandas). “This lesson describes crowdsourcing as a form of data creation as well as how pandas can be used to prepare a crowdsourced dataset for analysis.”
 - Programming Historian: [Understanding Regular Expressions](https://programminghistorian.org/en/lessons/understanding-regular-expressions). “In this lesson, we will use advanced find-and-replace capabilities in a word processing application in order to make use of structure in a brief historical document that is essentially a table in the form of prose.”
 - Programming Historian: [Reshaping JSON with jq](https://programminghistorian.org/en/lessons/json-and-jq). “Working with data from an art museum API and from the Twitter API, this lesson teaches how to use the command-line utility jq to filter and parse complex JSON files into flat CSV files.”
-- Programming Historian: [Introduction to MySQL with R](https://programminghistorian.org/en/lessons/mysql-with-r). “This lesson will help you store large amounts of historical data in a structured manner, search and filter that data, and visualize some of the data as a graph.”
 - Programming Historian: [Counting and Mining Research Data with Unix](https://programminghistorian.org/en/lessons/research-data-with-unix). “This lesson will look at how research data, when organised in a clear and predictable manner, can be counted and mined using the Unix shell.”
 - Programming Historian: [Transliterating Non-ASCII Characters with Python](https://programminghistorian.org/en/lessons/transliterating). “This lesson shows how to use Python to transliterate automatically a list of words from a language with a non-Latin alphabet to a standardized format using ASCII characters.”
 - Programming Historian: [Scalable Reading of Structured Data](https://programminghistorian.org/en/lessons/scalable-reading-of-structured-data). “In this lesson, you will be introduced to ‘scalable reading’ and how to apply this workflow to your analysis of structured data.”
@@ -300,6 +300,7 @@ Visual methods can be used to explore data-sets to look for data, and/or to comm
 - Programming Historian: [Creating Choropleth Maps with Python and Folium](https://programminghistorian.org/en/lessons/choropleth-maps-with-python-and-folium). “This lesson demonstrates how to visualize data through choropleth maps using Python and the Folium library.”
 - Programming Historian: [Visualizing Urban and Demographic Data in R with ggplot2](https://programminghistorian.org/en/lessons/visualizing-urban-data-with-r). “This lesson demonstrates how to use R’s ggplot2 package to create sophisticated data visualizations.”
 - Programming Historian: [Creating Interactive Visualizations with Plotly](https://programminghistorian.org/en/lessons/creating-interactive-visualizations-with-plotly). “This lesson demonstrates how to create interactive data visualizations in Python with Plotly’s open-source graphing libraries.”
+- Programming Historian: [Introduction to MySQL with R](https://programminghistorian.org/en/lessons/mysql-with-r). “This lesson will help you store large amounts of historical data in a structured manner, search and filter that data, and visualize some of the data as a graph.”
 - Programming Historian: [Visualizing Data with Bokeh and Pandas](https://programminghistorian.org/en/lessons/visualizing-data-with-bokeh-and-pandas). “In this lesson you will learn how to visually explore and present data in Python by using the Bokeh and Pandas libraries.”
 - Data Carpentry: [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/) — R basics for data cleaning, analysis, and plotting.
 - Data Carpentry: [Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/) — Python intro focused on tabular data and visualisation.
