@@ -118,6 +118,7 @@ Digitisation converts physical materials into digital forms that can be searched
 - Programming Historian: [Transcribing Handwritten Text with Python and Microsoft Azure Computer Vision](https://programminghistorian.org/en/lessons/transcribing-handwritten-text-with-python-and-azure). “This lesson will explain how to write a Python program to transcribe handwritten documents using Microsoft’s Azure Cognitive Services.”
 - Programming Historian: [Working with Batches of PDF Files](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files). “Learn how to perform OCR and text extraction with free command line tools like Tesseract and Poppler and how to get an overview of large numbers of PDF documents using topic modeling.”
 - Programming Historian: [Extracting Illustrated Pages from Digital Libraries with Python](https://programminghistorian.org/en/lessons/extracting-illustrated-pages-from-digital-libraries-with-python). “This lesson shows how to efficiently extract page regions of visual interest from digitized volumes.”
+- SHL Digital: [A Practical Zoom Session on Digitisation](https://sussexhumanitieslab.wordpress.com/2021/03/23/a-practical-zoom-session-on-digitisation/)
 
 </details>
 
