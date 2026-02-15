@@ -21,10 +21,10 @@ title: DH+ Skills
 
 ## Coding foundations {#coding-foundations}
 
-Basic programming ideas and workflows that support media, arts, and humanities research. 
+Basic programming ideas and workflows that support media, arts, humanities, and social sciences research. 
 
 <details markdown="1">
-<summary>How do DH+ scholars use code?</summary>
+<summary>How do DH+ practitioners use code?</summary>
   
 Why learning coding in the first place? There are all kinds of reasons, but here are just a few. Once you’ve got to an intermediary level, you might …
 
