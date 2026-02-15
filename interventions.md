@@ -89,7 +89,7 @@ Information must travel through something physical. It moves through wires (USB,
 - Solder – A soft metal alloy that melts when heated and is used to permanently attach components to a circuit board.
 - Soldering Iron – A pen-shaped heated tool used to melt solder when repairing or building electronic circuits.
   - Microcontroller – A tiny computer on a single chip that controls specific tasks inside a device, such as managing power, buttons, or sensors.
-- Spudger – A small plastic or nylon pry tool used to open devices and disconnect cables without scratching or shorting components.
+- [Spudger](https://en.wikipedia.org/wiki/Spudger) – A small plastic or nylon pry tool used to open devices and disconnect cables without scratching or shorting components.
 - SMD (Surface-Mount Device) – A small electronic component soldered directly onto the surface of a circuit board, common in phones.
 - PCB (Printed Circuit Board) – The main board inside a device that holds components and connects them using thin copper tracks.
 - Flux – Used during soldering to help solder flow smoothly and form strong electrical connections.
