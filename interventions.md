@@ -62,14 +62,14 @@ Information must travel through something physical. It moves through wires (USB,
 
 <details><summary>Where to start?</summary>
 
-- Practice basic soldering and desoldering – Use a cheap practice board or kit to learn how to heat joints properly, apply solder cleanly, and remove solder with braid or a pump.
-- Build a simple LED circuit – Assemble a basic LED and resistor on a breadboard or perfboard to understand how current flows and how components connect.
-- Learn to use a multimeter confidently – Measure voltage, resistance, and continuity on batteries, cables, and simple circuits to build diagnostic skills.
-- Disassemble and reassemble an old device – Take apart a spare phone or laptop and put it back together carefully to practise organisation and handling delicate connectors.
-- Replace a phone battery – A relatively contained repair that teaches safe opening, connector handling, and reassembly.
-- Swap a cracked screen on an older model – Develop careful cable management and patience without jumping straight to board-level work.
-- Replace a simple modular part (e.g. speaker or camera module) – Practise part identification and clean installation without soldering.
+- Disassemble and reassemble an old device – Take apart a spare phone or laptop and put it back together.
 - Clean and inspect a device interior – Remove dust or residue with appropriate tools and learn to visually inspect a PCB for obvious damage or loose connectors.
+- Practice  soldering and desoldering – Use a cheap practice board or kit to learn how to heat joints properly, apply solder cleanly, and remove solder.
+- Swap a cracked screen.
+- Build a LED circuit – Assemble a basic LED and resistor on a breadboard or perfboard.
+- Learn to use a multimeter – Measure voltage, resistance, and continuity on batteries, cables, and simple circuits to build diagnostic skills.
+- Replace a phone battery – A relatively contained repair that teaches safe opening, connector handling, and reassembly.
+- Replace a simple modular part (e.g. speaker or camera module) – Practise part identification and clean installation without soldering.
 - Identify the main parts inside a computer case – Open a second-hand PC and  locate the motherboard, RAM, storage drive, power supply, and cables. 
 - Reseat RAM in an existing computer – Remove and reinsert RAM sticks.
 - Replace or add a storage drive (SSD) – Install a 2.5" SSD or M.2 drive in a system. 
@@ -92,15 +92,15 @@ Information must travel through something physical. It moves through wires (USB,
 - Spudger – A small plastic or nylon pry tool used to open devices and disconnect cables without scratching or shorting components.
 - SMD (Surface-Mount Device) – A small electronic component soldered directly onto the surface of a circuit board, common in phones.
 - PCB (Printed Circuit Board) – The main board inside a device that holds components and connects them using thin copper tracks.
-- Flux – A substance used during soldering to help solder flow smoothly and form strong electrical connections.
+- Flux – Used during soldering to help solder flow smoothly and form strong electrical connections.
 - Hot Air Rework Station – A tool that blows controlled hot air to remove or attach small surface-mounted components.
 - Multimeter – A handheld tester used to measure voltage, resistance, and continuity when diagnosing faults.
-- BGA (Ball Grid Array) – A type of chip attached underneath with tiny solder balls; common in smartphones and harder to repair.
-- Ribbon (Flex) Cable – A thin, flexible cable that connects parts like screens or cameras to the main board.
-- ESD (Electrostatic Discharge) – Static electricity that can damage electronics; anti-static mats and wrist straps help prevent it.
+- BGA (Ball Grid Array) – Type of chip attached underneath with tiny solder balls.
+- Ribbon (Flex) Cable – Thin, flexible cable that connects parts like screens or cameras to the main board.
+- ESD (Electrostatic Discharge) – Static electricity that can damage electronics. anti-static mats and wrist straps can help. prevent it.
 </details>
 
-<details><summary>Resources</summary>
+<details markdown="1"><summary>Resources</summary>
 - [iFixit](https://www.ifixit.com/) Wiki-style collection of step-by-step phone repair instructions and teardowns for many common device models.
 - Stanford: [Intro to soldering](https://sites.google.com/stanford.edu/soldering-internal/learning)
 - My Computer Works: [A beginner's guide to DIY device repair tools](https://www.mycomputerworks.co.uk/a-beginners-guide-to-diy-device-repair-tools-in-2024/)
