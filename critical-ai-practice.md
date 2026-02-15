@@ -27,7 +27,7 @@ DH is being transformed by Machine Learning and other AI. At the same time, arts
 - [Iocaine](https://iocaine.madhouse-project.org/). "This software is not made for making the Crawlers go away. It is an aggressive defense mechanism that tries its best to take the blunt of the assault, serve them garbage, and keep them off of upstream resources."
 - [Anubis.](https://anubis.techaro.lol/) "Weigh the soul of incoming HTTP requests to protect your website."
 - Add resources on identifying genAI content
-- 
+
 </details>
 
 
@@ -71,7 +71,7 @@ Estimating the carbon emissions of an AI system is hard, partly because of a lac
 - [CodeCarbon](https://codecarbon.io/) "Use Code Carbon to track and reduce your CO2 output."
 - Branch Magazine, ['Pause'](https://branch.climateaction.tech/issues/issue-8/pause/).
 - DHCC: [The Cloud and the Climate: Navigating Our AI-Powered Futures](https://drive.google.com/file/d/1WbD_YFZ9vceqfDWswGNkt-NNvSLkQBYN/view)
-- 
+  
 </details>
 
 ## Distant reading, automated summation, hallucination {#distance-reading}
@@ -86,5 +86,6 @@ Estimating the carbon emissions of an AI system is hard, partly because of a lac
 - [Programming Historian: Analyzing Documents with TF-IDF. "This lesson focuses on a foundational natural language processing and information retrieval method called Term Frequency - Inverse Document Frequency (tf-idf)."](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf)
 - [Programming Historian: Understanding and Using Common Similarity Measures for Text Analysis](https://programminghistorian.org/en/lessons/common-similarity-measures). "This lesson introduces three common measures for determining how similar texts are to one another."
 - Klein, Lauren F. (2013). [The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read.dukeupress.edu/american-literature/article-abstract/85/4/661/4953/The-Image-of-Absence-Archival-Silence-Data). American Literature. 85 (4): 661–688. doi:10.1215/00029831-2367310
-</details>
 - Add resources on limitations and affordances of AI summaries
+</details>
+
