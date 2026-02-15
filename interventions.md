@@ -58,4 +58,56 @@ Information must travel through something physical. It moves through wires (USB,
 
 ## 3D Printing {#three-D-printing}
 
+## Hardware repair {#hardware-repair}
+
+<details><summary>Where to start?</summary>
+
+- Practice basic soldering and desoldering – Use a cheap practice board or kit to learn how to heat joints properly, apply solder cleanly, and remove solder with braid or a pump.
+- Build a simple LED circuit – Assemble a basic LED and resistor on a breadboard or perfboard to understand how current flows and how components connect.
+- Learn to use a multimeter confidently – Measure voltage, resistance, and continuity on batteries, cables, and simple circuits to build diagnostic skills.
+- Disassemble and reassemble an old device – Take apart a spare phone or laptop and put it back together carefully to practise organisation and handling delicate connectors.
+- Replace a phone battery – A relatively contained repair that teaches safe opening, connector handling, and reassembly.
+- Swap a cracked screen on an older model – Develop careful cable management and patience without jumping straight to board-level work.
+- Replace a simple modular part (e.g. speaker or camera module) – Practise part identification and clean installation without soldering.
+- Clean and inspect a device interior – Remove dust or residue with appropriate tools and learn to visually inspect a PCB for obvious damage or loose connectors.
+- Identify the main parts inside a computer case – Open a second-hand PC and  locate the motherboard, RAM, storage drive, power supply, and cables. 
+- Reseat RAM in an existing computer – Remove and reinsert RAM sticks.
+- Replace or add a storage drive (SSD) – Install a 2.5" SSD or M.2 drive in a system. 
+
+</details>
+
+<details><summary>What are some common tools and terms?</summary>
+
+- Device – An electronic machine such as a phone or computer that contains a power source, circuit boards, chips, and connectors all working together.
+- Motherboard – The main, flat circuit board inside a computer, covered in slots, chips, and connectors; this is where you install and connect most parts when building a PC.
+- Circuit – A pathway for electricity. In a computer, circuits appear as thin copper lines on a board and as microscopic structures inside chips. If a circuit is broken or shorted, the device will not work properly.
+- CPU (Processor) – A small, flat square chip with a metal top and tiny contact pads or pins underneath. It feels solid and smooth and fits into a specific socket on the motherboard; inside are billions of microscopic circuits.
+- RAM (Memory) – A long, thin stick of circuit board with small black chips attached and gold contacts along the edge. It clicks into slots on the motherboard and temporarily stores data while the computer runs.
+- Chip (Integrated Circuit) – A small black rectangle or square soldered onto a board; it contains extremely tiny circuits etched into silicon, protected by its outer casing.
+- Heat Sink / Cooler – A heavy metal block, often with fins and a fan, that sits on top of the CPU to draw heat away and prevent overheating.
+- Connector / Slot – A shaped plastic socket with metal contacts inside, designed so parts like RAM, cables, or the CPU fit in securely and only in the correct orientation.
+- Solder – A soft metal alloy that melts when heated and is used to permanently attach components to a circuit board.
+- Soldering Iron – A pen-shaped heated tool used to melt solder when repairing or building electronic circuits.
+  - Microcontroller – A tiny computer on a single chip that controls specific tasks inside a device, such as managing power, buttons, or sensors.
+- Spudger – A small plastic or nylon pry tool used to open devices and disconnect cables without scratching or shorting components.
+- SMD (Surface-Mount Device) – A small electronic component soldered directly onto the surface of a circuit board, common in phones.
+- PCB (Printed Circuit Board) – The main board inside a device that holds components and connects them using thin copper tracks.
+- Flux – A substance used during soldering to help solder flow smoothly and form strong electrical connections.
+- Hot Air Rework Station – A tool that blows controlled hot air to remove or attach small surface-mounted components.
+- Multimeter – A handheld tester used to measure voltage, resistance, and continuity when diagnosing faults.
+- BGA (Ball Grid Array) – A type of chip attached underneath with tiny solder balls; common in smartphones and harder to repair.
+- Ribbon (Flex) Cable – A thin, flexible cable that connects parts like screens or cameras to the main board.
+- ESD (Electrostatic Discharge) – Static electricity that can damage electronics; anti-static mats and wrist straps help prevent it.
+</details>
+
+<details><summary>Resources</summary>
+- [iFixit](https://www.ifixit.com/) Wiki-style collection of step-by-step phone repair instructions and teardowns for many common device models.
+- Stanford: [Intro to soldering](https://sites.google.com/stanford.edu/soldering-internal/learning)
+- My Computer Works: [A beginner's guide to DIY device repair tools](https://www.mycomputerworks.co.uk/a-beginners-guide-to-diy-device-repair-tools-in-2024/)
+- Sussex Green Living: [Repair Cafes](https://www.sussexgreenliving.org.uk/repair/)
+- [Brighton Borrowers](https://www.brightonborrowers.co.uk/)
+- [Electronics Repair School](https://www.youtube.com/c/Electronicsrepairschool)
+  
+</details>
+
 ## Hackathons and Makerspaces {#hackathons-makerspaces}
