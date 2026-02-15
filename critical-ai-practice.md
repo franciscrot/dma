@@ -26,11 +26,10 @@ DH is being transformed by Machine Learning and other AI. At the same time, arts
 - [Reporter's Guide to Detecting AI-Generated Content](https://gijn.org/resource/guide-detecting-ai-generated-content/)
 - [Iocaine](https://iocaine.madhouse-project.org/). "This software is not made for making the Crawlers go away. It is an aggressive defense mechanism that tries its best to take the blunt of the assault, serve them garbage, and keep them off of upstream resources."
 - [Anubis.](https://anubis.techaro.lol/) "Weigh the soul of incoming HTTP requests to protect your website."
-
-</details>
 - Add resources on identifying genAI content
-
+- 
 </details>
+
 
 ## Using Machine Learning in DH+ {#intro-to-making-ai}
 
@@ -41,7 +40,7 @@ The definition of 'AI' is blurry and contested. The Digital Humanities is defini
 
 - It really depends what you mean by "AI", and DH+ is a good space to observe how the term has shifted.
 - There is actually a DH+ type project in tracing this history in a more granular way. But as a rough and reductive history ...
-- Automated image recognition: 1950s–60s: early neural networks (e.g. the perceptron) and symbolic computer vision research, often described as pattern recognition or cybernetics. See e.g. the MIT [Summer Vision Project (1966)](https://dspace.mit.edu/bitstream/handle/1721.1/6125/AIM-100.pdf). 1970s–80s: scale-space theory formalised,providing a mathematically grounded way to analyse images at multiple resolutions; becomes foundational for edge detection and feature extraction. 1990s–2000s: feature-based pipelines (e.g. SIFT, 1999) combined with classifiers such as Support Vector Machines (mid-1990s) dominated computer vision; typically described as statistical machine learning or pattern recognition rather than mainstream “AI.” 2010s: deep convolutional neural networks — especially following the 2012 ImageNet breakthrough — dramatically improved large-scale image classification and re-centred computer vision within contemporary AI discourse. Rise of diffusion models and genAI for images.
+- Automated image recognition: 1950s–60s: early neural networks (e.g. the perceptron) and symbolic computer vision research, often described as pattern recognition or cybernetics. See e.g. the MIT [Summer Vision Project (1966)](https://dspace.mit.edu/bitstream/handle/1721.1/6125/AIM-100.pdf). 1970s–80s: scale-space theory formalised, providing a mathematically grounded way to analyse images at multiple resolutions; becomes foundational for edge detection and feature extraction. 1990s–2000s: feature-based pipelines (e.g. SIFT, 1999) combined with classifiers such as Support Vector Machines (mid-1990s) dominated computer vision; typically described as statistical machine learning or pattern recognition rather than mainstream “AI.” 2010s: deep convolutional neural networks — especially following the 2012 ImageNet breakthrough — dramatically improved large-scale image classification and re-centred computer vision within contemporary AI discourse. Rise of diffusion models and genAI for images.
 - OCR: In the mid-2010s, neural network approaches (including LSTM-based models) improved performance on complex layouts and historical print, and Handwritten Text Recognition (HTR) gained traction for manuscript archives; at this point, OCR and HTR were increasingly folded into AI discourse.
 - Topic modelling. 1960s–80s: computational text analysis focused on concordances, word frequencies, collocation, and stylometry — rarely framed as AI. Early 2000s: probabilistic topic modelling emerges, especially Latent Dirichlet Allocation, drawing on Bayesian machine learning and enabling large-scale thematic analysis across thousands of texts. 2000s–early 2010s: becomes much more central corpus-scale interpretation in DH, often described as statistical modelling or machine learning. Mid-2010s onward: increasingly absorbed into broader “AI” discourse
 
@@ -76,9 +75,7 @@ Estimating the carbon emissions of an AI system is hard, partly because of a lac
 
 ## Distant reading {#distance-reading}
 
-- Distant reading, close reading
-- AI summaries
-- Risks and harms
+[Distant reading](https://www.digitalstudies.org/article/id/8855/) emerged as an approach to literary scholarship in the 2000s. The more recent rapid rise of LLMs and ubiquitous use of genAI for summary has unsettled the field, and raises new questions about computationally mediated texts, and about what counts as reading (distant, close, or otherwise).
 
 <details markdown="1">
 <summary>Resources</summary>
