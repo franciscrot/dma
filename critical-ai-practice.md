@@ -18,15 +18,30 @@ DH is being transformed by Machine Learning and other AI. At the same time, arts
 - Enabling interdisciplinary collaboration
 - Developing new ways of reading and interpreting in an era of AI slop and misinformation / disinformation
 
+## AI Adversarial Literacy
+
+<details markdown="1">
+<summary>Resources
+
+- [Reporter's Guide to Detecting AI-Generated Content](https://gijn.org/resource/guide-detecting-ai-generated-content/)
+- [Iocaine](https://iocaine.madhouse-project.org/). "This software is not made for making the Crawlers go away. It is an aggressive defense mechanism that tries its best to take the blunt of the assault, serve them garbage, and keep them off of upstream resources."
+- [Anubis.](https://anubis.techaro.lol/) "Weigh the soul of incoming HTTP requests to protect your website."
+  
+</summary>
+</details>
+
 ## Using Machine Learning in DH+ {#intro-to-making-ai}
 
 The definition of 'AI' is blurry and contested. The Digital Humanities is definitely an area where you can trace back some AI uses cases back to older techniques which we might not normally call AI nowadays (or we might say "well, technically that's AI too").
 
-- Image classification
-- OCR
-- Topic modelling
-- RAG methods
-- Risks and harms
+<details markdown="1">
+<summary>How long has the Digital Humanities been using AI?</summary>
+
+- It really depends what you mean by "AI", and DH+ is a good space to observe how the term has shifted.
+- There is actually a DH+ type project in tracing this history in a more granular way. But as a rough and reductive history ...
+- Automated image recognition: 1950s–60s: early neural networks (e.g. the perceptron) and symbolic computer vision research, often described as pattern recognition or cybernetics. See e.g. the MIT [Summer Vision Project (1966)](https://dspace.mit.edu/bitstream/handle/1721.1/6125/AIM-100.pdf). 1970s–80s: scale-space theory formalised,providing a mathematically grounded way to analyse images at multiple resolutions; becomes foundational for edge detection and feature extraction. 1990s–2000s: feature-based pipelines (e.g. SIFT, 1999) combined with classifiers such as Support Vector Machines (mid-1990s) dominated computer vision; typically described as statistical machine learning or pattern recognition rather than mainstream “AI.” 2010s: deep convolutional neural networks — especially following the 2012 ImageNet breakthrough — dramatically improved large-scale image classification and re-centred computer vision within contemporary AI discourse. Rise of diffusion models and genAI for images.
+- OCR: In the mid-2010s, neural network approaches (including LSTM-based models) improved performance on complex layouts and historical print, and Handwritten Text Recognition (HTR) gained traction for manuscript archives; at this point, OCR and HTR were increasingly folded into AI discourse.
+- Topic modelling. 1960s–80s: computational text analysis focused on concordances, word frequencies, collocation, and stylometry — rarely framed as AI. Early 2000s: probabilistic topic modelling emerges, especially Latent Dirichlet Allocation, drawing on Bayesian machine learning and enabling large-scale thematic analysis across thousands of texts. 2000s–early 2010s: becomes much more central corpus-scale interpretation in DH, often described as statistical modelling or machine learning. Mid-2010s onward: increasingly absorbed into broader “AI” discourse
 
 <details markdown="1">
 <summary>Resources</summary>
@@ -43,15 +58,18 @@ The definition of 'AI' is blurry and contested. The Digital Humanities is defini
 
 ## Carbon estimation {#carbon-estimation}
 
-- CodeCarbon
+Estimating the carbon emissions of an AI system is hard, partly because of a lack of transparency from major hyperscale operators, and partly because there are many legitimate methodological approaches which will produce very different results. There is currently no well-established, generally accepted set of methodologies for measuring the carbon impact of AI systems. 
 
 <details markdown="1">
 <summary>Resources</summary>
 
-- Programming Historian: Sustainable Authorship in Plain Text using Pandoc and Markdown. "This tutorial introduces Markdown and Pandoc, a command line tool that converts plain text into a number of beautifully formatted file types."
+- [Cook et al. (2025), Beyond Counting Carbon: AI Environmental Assessments Struggle to Inform Net Impact Decisions](https://research-information.bris.ac.uk/en/publications/beyond-counting-carbon-ai-environmental-assessments-struggle-to-i/)
+- [The Digital Humanities Climate Coalition Toolkit](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/decision-trees.html)
+- [The Green Web Foundation](https://www.thegreenwebfoundation.org/)
 - [CodeCarbon](https://codecarbon.io/) "Use Code Carbon to track and reduce your CO2 output."
-- Jo Lindsay Walton: [Pause](https://branch.climateaction.tech/issues/issue-8/pause/).
+- Branch Magazine, ['Pause'](https://branch.climateaction.tech/issues/issue-8/pause/).
 - DHCC: [The Cloud and the Climate: Navigating Our AI-Powered Futures](https://drive.google.com/file/d/1WbD_YFZ9vceqfDWswGNkt-NNvSLkQBYN/view)
+- 
 </details>
 
 ## Distant reading {#distance-reading}
