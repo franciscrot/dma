@@ -21,13 +21,15 @@ DH is being transformed by Machine Learning and other AI. At the same time, arts
 ## AI Adversarial Literacy
 
 <details markdown="1">
-<summary>Resources
+<summary>Resources</summary>
 
 - [Reporter's Guide to Detecting AI-Generated Content](https://gijn.org/resource/guide-detecting-ai-generated-content/)
 - [Iocaine](https://iocaine.madhouse-project.org/). "This software is not made for making the Crawlers go away. It is an aggressive defense mechanism that tries its best to take the blunt of the assault, serve them garbage, and keep them off of upstream resources."
 - [Anubis.](https://anubis.techaro.lol/) "Weigh the soul of incoming HTTP requests to protect your website."
-  
-</summary>
+
+</details>
+- Add resources on identifying genAI content
+
 </details>
 
 ## Using Machine Learning in DH+ {#intro-to-making-ai}
@@ -49,6 +51,7 @@ The definition of 'AI' is blurry and contested. The Digital Humanities is defini
 - Programming Historian: [Interrogating a National Narrative with GPT-2](https://programminghistorian.org/en/lessons/interrogating-a-national-narrative-with-gpt-2). "In this lesson, you will learn how to apply a Generative Pre-trained Transformer language model to a large-scale corpus so that you can locate broad themes and trends within written text."
 - Programming Historian: [Creating Deep Convolutional Neural Networks for Image Classification](https://programminghistorian.org/en/lessons/deep-convolutional-neural-networks). "This lesson provides a beginner-friendly introduction to convolutional neural networks (CNNs) for image classification."
 </details>
+- [Programming Historian: Facial Recognition in Historical Photographs with Artificial Intelligence in Python.](https://programminghistorian.org/en/lessons/facial-recognition-ai-python) "In this lesson, you’ll learn computer vision and machine learning principles for object recognition, and how to apply these principles using Python to recognize and classify smiling faces in historical photographs."
 - Programming Historian: Creating Deep Convolutional Neural Networks for Image Classification. "This lesson provides a beginner-friendly introduction to convolutional neural networks (CNNs) for image classification."
 - Programming Historian: Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 1). "This is the first of a two-part lesson introducing deep learning based computer vision methods for humanities research."
 - Programming Historian: Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 2). "This lesson digs deeper into the details of training a deep learning based computer vision model."
@@ -88,14 +91,3 @@ Estimating the carbon emissions of an AI system is hard, partly because of a lac
 - Klein, Lauren F. (2013). [The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read.dukeupress.edu/american-literature/article-abstract/85/4/661/4953/The-Image-of-Absence-Archival-Silence-Data). American Literature. 85 (4): 661–688. doi:10.1215/00029831-2367310
 </details>
 - Add resources on limitations and affordances of AI summaries
-
-## AI era media literacy {#ai-era-media-literacy}
-
-- Identifying genAI content
-
-<details markdown="1">
-<summary>Resources</summary>
-
-- Programming Historian: Facial Recognition in Historical Photographs with Artificial Intelligence in Python. "In this lesson, you’ll learn computer vision and machine learning principles for object recognition, and how to apply these principles using Python to recognize and classify smiling faces in historical photographs."
-</details>
-- Add resources on identifying genAI content
