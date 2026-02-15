@@ -100,7 +100,8 @@ Information must travel through something physical. It moves through wires (USB,
 - ESD (Electrostatic Discharge) – Static electricity that can damage electronics. anti-static mats and wrist straps can help. prevent it.
 </details>
 
-<details markup="1"><summary>Resources</summary>
+<details markdown="1">
+  <summary>Resources</summary>
 - [iFixit](https://www.ifixit.com/) Wiki-style collection of step-by-step phone repair instructions and teardowns for many common device models.
 - Stanford: [Intro to soldering](https://sites.google.com/stanford.edu/soldering-internal/learning)
 - My Computer Works: [A beginner's guide to DIY device repair tools](https://www.mycomputerworks.co.uk/a-beginners-guide-to-diy-device-repair-tools-in-2024/)
