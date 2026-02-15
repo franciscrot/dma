@@ -5,7 +5,17 @@ title: Critical AI Practice
 
 # Critical AI Practice
 
-DH is being transformed by Machine Learning and other AI. At the same time, arts and humanities have distinctive perspectives on AI, including the political economy, history, ethics, and philosophy of AI. These perspectives often diverge from fields like Responsible AI, Trustworthy AI, AI Alignment, AI Safety, Sustainable AI, and AI Ethics. Critical AI practice centres on thoughtful engagement with Machine Learning and automated systems. This includes, among other things:
+Critical AI practice centres on thoughtful engagement with Machine Learning and automated systems. 
+
+- Critical AI Studies
+- AI Adversarial Literacy
+- Using Machine Learning in DH+
+- Carbon Estimation
+- Distant Reading, AI Summation, Hallucination
+
+## Critical AI Studies
+
+DH is being transformed by Machine Learning and other AI. At the same time, arts and humanities have distinctive perspectives on AI, including the political economy, history, ethics, and philosophy of AI. These perspectives often diverge from fields like Responsible AI, Trustworthy AI, AI Alignment, AI Safety, Sustainable AI, and AI Ethics. 
 
 - Understanding the political economy of AI
 - Understanding AI cultures
@@ -20,7 +30,7 @@ DH is being transformed by Machine Learning and other AI. At the same time, arts
 
 ## AI Adversarial Literacy
 
-Spotting AI, stopping AI.
+Some resources on the more 'applied' side of Critical AI Studies. Spotting AI, stopping AI, and more.
 
 <details markdown="1">
 <summary>Resources</summary>
