@@ -73,7 +73,7 @@ Estimating the carbon emissions of an AI system is hard, partly because of a lac
 - 
 </details>
 
-## Distant reading {#distance-reading}
+## Distant reading, automated summation, hallucination {#distance-reading}
 
 [Distant reading](https://www.digitalstudies.org/article/id/8855/) emerged as an approach to literary scholarship in the 2000s. The more recent rapid rise of LLMs and ubiquitous use of genAI for summary has unsettled the field, and raises new questions about computationally mediated texts, and about what counts as reading (distant, close, or otherwise).
 
@@ -81,9 +81,9 @@ Estimating the carbon emissions of an AI system is hard, partly because of a lac
 <summary>Resources</summary>
 
 - Wikipedia: [Distant reading](https://en.wikipedia.org/wiki/Distant_reading)
-- Programming Historian: Clustering and Visualising Documents using Word Embeddings. "This lesson uses word embeddings and clustering algorithms in Python to identify groups of similar documents in a corpus of approximately 9,000 academic abstracts."
-- Programming Historian: Analyzing Documents with TF-IDF. "This lesson focuses on a foundational natural language processing and information retrieval method called Term Frequency - Inverse Document Frequency (tf-idf)."
-- Programming Historian: Understanding and Using Common Similarity Measures for Text Analysis. "This lesson introduces three common measures for determining how similar texts are to one another."
+- Programming Historian: Clustering and Visualising Documents using Word Embeddings. "This lesson uses word embeddings and clustering algorithms in Python to identify groups of similar documents in a corpus of approximately 9,000 academic abstracts."(https://programminghistorian.org/en/lessons/clustering-visualizing-word-embeddings)
+- [Programming Historian: Analyzing Documents with TF-IDF. "This lesson focuses on a foundational natural language processing and information retrieval method called Term Frequency - Inverse Document Frequency (tf-idf)."](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf)
+- [Programming Historian: Understanding and Using Common Similarity Measures for Text Analysis](https://programminghistorian.org/en/lessons/common-similarity-measures). "This lesson introduces three common measures for determining how similar texts are to one another."
 - Klein, Lauren F. (2013). [The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read.dukeupress.edu/american-literature/article-abstract/85/4/661/4953/The-Image-of-Absence-Archival-Silence-Data). American Literature. 85 (4): 661–688. doi:10.1215/00029831-2367310
 </details>
 - Add resources on limitations and affordances of AI summaries
