@@ -5,7 +5,7 @@ title: Critical AI Practice
 
 # Critical AI Practice
 
-DH is being transformed by Machine Learning and other AI. At the same time, arts and humanities have distinctive perspectives on AI, including the political economy, history, ethics, and philosophy of AI. These perspectives often diverge from fields like Responsible AI, Trustworthy AI, AI Alignment, AI Safety, Sustainable AI, and AI Ethics. Critical AI practice centres on thoughtful engagement with Machine Learning and automated systems.
+DH is being transformed by Machine Learning and other AI. At the same time, arts and humanities have distinctive perspectives on AI, including the political economy, history, ethics, and philosophy of AI. These perspectives often diverge from fields like Responsible AI, Trustworthy AI, AI Alignment, AI Safety, Sustainable AI, and AI Ethics. Critical AI practice centres on thoughtful engagement with Machine Learning and automated systems. This includes, among other things:
 
 - Understanding the political economy of AI
 - Understanding AI cultures
@@ -19,6 +19,8 @@ DH is being transformed by Machine Learning and other AI. At the same time, arts
 - Developing new ways of reading and interpreting in an era of AI slop and misinformation / disinformation
 
 ## AI Adversarial Literacy
+
+Spotting AI, stopping AI.
 
 <details markdown="1">
 <summary>Resources</summary>
@@ -60,7 +62,7 @@ The definition of 'AI' is blurry and contested. The Digital Humanities is defini
 
 ## Carbon estimation {#carbon-estimation}
 
-Estimating the carbon emissions of an AI system is hard, partly because of a lack of transparency from major hyperscale operators, and partly because there are many legitimate methodological approaches which will produce very different results. There is currently no well-established, generally accepted set of methodologies for measuring the carbon impact of AI systems. 
+AI's environmental costs have attracted a lot of attention, especially as hyperscale operators such as AWS, Microsoft Azure, and Google Cloud have failed to meet their decarbonisation targets. Estimating the carbon emissions of an AI system is hard, partly because of a lack of transparency from major hyperscale operators, and partly because there are many legitimate methodological approaches which will produce very different results. There is currently no well-established, generally accepted set of methodologies for measuring the carbon impact of AI systems. Water use for cooling is another significant environmental impact.
 
 <details markdown="1">
 <summary>Resources</summary>
@@ -76,7 +78,7 @@ Estimating the carbon emissions of an AI system is hard, partly because of a lac
 
 ## Distant reading, automated summation, hallucination {#distance-reading}
 
-[Distant reading](https://www.digitalstudies.org/article/id/8855/) emerged as an approach to literary scholarship in the 2000s. The more recent rapid rise of LLMs and ubiquitous use of genAI for summary has unsettled the field, and raises new questions about computationally mediated texts, and about what counts as reading (distant, close, or otherwise).
+[Distant reading](https://www.digitalstudies.org/article/id/8855/) emerged as an approach to literary scholarship in the 2000s, as a way of investigating larger patterns of literary production, circulation, and consumption. More recently, the rise of LLMs and the use of genAI raises new questions about computationally mediated texts, and about what counts as reading (distant, close, or otherwise).
 
 <details markdown="1">
 <summary>Resources</summary>
