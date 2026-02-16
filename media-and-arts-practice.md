@@ -12,7 +12,7 @@ The line is blurred between Digital Humanities and digital media and arts practi
 - Narative design
 - Interactive installations and immersive media
 - Audio, video, and motion graphics production
-- UX
+- UI / UX
 - Speculative design and creative research methods
 
 ## Creative coding {#creative-coding}
@@ -30,20 +30,26 @@ The line is blurred between Digital Humanities and digital media and arts practi
 <details markdown="1">
 <summary>Resources</summary>
 
-- [MDN Web Docs: Learn web development](https://developer.mozilla.org/en-US/docs/Learn_web_development) — Structured beginner path for HTML, CSS, and JavaScript.
-- [MDN Web Docs: Getting started modules](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started) — Install tools and build your first basic website.
-- [freeCodeCamp: Responsive Web Design Certification (v9)](https://www.freecodecamp.org/learn/responsive-web-design-v9) — Free HTML/CSS course with projects and responsive layouts.
-- [The Odin Project: Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) — Free bootcamp-style intro to web dev tools and basics.
-- Programming Historian: Creating a Dashboard for Interactive Data Visualization with Dash in Python. "This lesson shows how to create interactive web-based dashboards using Python’s Dash library."
+- MDN Web Docs: [Learn web development](https://developer.mozilla.org/en-US/docs/Learn_web_development) — Structured beginner path for HTML, CSS, and JavaScript.
+- MDN Web Docs: [Getting started modules](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started) — Install tools and build your first basic website.
+- freeCodeCamp: [Responsive Web Design Certification (v9)](https://www.freecodecamp.org/learn/responsive-web-design-v9) — Free HTML/CSS course with projects and responsive layouts.
+- The Odin Project: [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) — Free bootcamp-style intro to web dev tools and basics.
+- Programming Historian: [Creating a Dashboard for Interactive Data Visualization with Dash in Python](https://programminghistorian.org/en/lessons/interactive-data-visualization-dashboard). "This lesson shows how to create interactive web-based dashboards using Python’s Dash library."
 - Programming Historian: Creating Interactive Visualizations with Plotly. "This lesson demonstrates how to create interactive data visualizations in Python with Plotly’s open-source graphing libraries."
 - Programming Historian: Creating GUIs in Python for Digital Humanities Projects. "In this lesson, you will use Qt Designer and Python to design and implement a simple graphical user interface and application to merge PDF files."
 </details>
 
 ## Games & narrative {#games-narrative}
 
-- Twine
-- Intro to game design
-- Intro to Unity
+Digital games can be created using coding (e.g. JavaScript), big general-purpose game engines (e.g. Unity, Unreal, Godot), or more specialist game-making tools (e.g. Twine, RPG Maker). Across digital 
+
+<details><summary>How do you design a game?</summary>
+
+- It's often best to start with an existing game, that you know works, and 'hack' it. For example, you might keep the mechanics the same, but change the content.
+- Once you have a prototype game, playtest it, see what works and what doesn't, and iterate it (create a new version). Keep playtesting till you're happy with the results.
+- Games are often non-linear systems, so a small tweak can sometimes fundamentally change the way the game works. It's also really hard to know how a game will actually work just by looking at the rules: new things often emerge in gameplay. That's why game design is fundamentally a process of informed trial-and-error.
+
+</details>
 
 <details markdown="1">
 <summary>Resources</summary>
