@@ -89,7 +89,13 @@ The definition of 'AI' is blurry and contested. The Digital Humanities is defini
 
 ## Carbon estimation {#carbon-estimation}
 
-AI's environmental costs have attracted a lot of attention, especially as hyperscale operators such as AWS, Microsoft Azure, and Google Cloud have failed to meet their decarbonisation targets. Estimating the carbon emissions of an AI system is hard, partly because of a lack of transparency from major hyperscale operators, and partly because there are many legitimate methodological approaches which will produce very different results. There is currently no well-established, generally accepted set of methodologies for measuring the carbon impact of AI systems. Water use for cooling is another significant environmental impact.
+AI's environmental costs have attracted a lot of attention, especially as hyperscale operators such as AWS, Microsoft Azure, and Google Cloud have failed to meet their decarbonisation targets. Water use for cooling is another significant environmental impact.
+
+<details markdown="1">
+<summary>What are the challenges in measuring / estimating the carbon impacts of AI?</summary>
+
+Estimating the carbon emissions of an AI system is hard, partly because of a lack of transparency from major hyperscale operators, and partly because there are many legitimate methodological approaches which will produce very different results. There is currently no well-established, generally accepted set of methodologies for measuring the carbon impact of AI systems. 
+</details>
 
 <details markdown="1">
 <summary>Resources</summary>
