@@ -22,6 +22,11 @@ title: DH Frames
 - Participatory research, co-design, co-development, co-creation, democratisation, etc.
 
 <details markdown="1">
+<summary>Add a question</summary>
+Add an answer
+</details>
+
+<details markdown="1">
 <summary>Resources</summary>
 
 - IFTe: [Full Stack Feminism](https://ifte.network/full-stack-feminism/)
@@ -151,6 +156,11 @@ What systems can talk to what systems, and how easily? Sometimes this can be a v
 Can we imagine different, better technological systems? Can we create such systems, perhaps initially at a small scale?  Critical AI Studies, Luddism, neo-Luddism, epistemological Luddism, slow technology, convivial technology, and technofeminism offer ideas, tools, and imaginative practices for cultivating alternative futures.
 
 <details markdown="1">
+<summary>Add a question</summary>
+Add an answer
+</details>
+
+<details markdown="1">
 <summary>Resources</summary>
 
 - [76 Reasonable Questions to Ask of Any Technology](https://76questions.neocities.org/)
@@ -168,6 +178,11 @@ Can we imagine different, better technological systems? Can we create such syste
 ## What is tech? {#what-is-tech}
 
 What is tech, physically, culturally, socially, economically, historically?
+
+<details markdown="1">
+<summary>Add a question</summary>
+Add an answer
+</details>
 
 <details markdown="1"><summary>Resources</summary>
 
@@ -193,6 +208,11 @@ What is tech, physically, culturally, socially, economically, historically?
 ## What is data science? {#intro-to-stats}
 
 DH+ exists at the crossroads of media, arts, and humanities, and data science / computer science.
+
+<details markdown="1">
+<summary>Add a question</summary>
+Add an answer
+</details>
 
 <details markdown="1">
 <summary>Resources</summary>
