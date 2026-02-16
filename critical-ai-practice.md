@@ -17,6 +17,8 @@ Critical AI practice centres on thoughtful engagement with Machine Learning and 
 
 DH is being transformed by Machine Learning and other AI. At the same time, arts and humanities have distinctive perspectives on AI, including the political economy, history, ethics, and philosophy of AI. These perspectives often diverge from fields like Responsible AI, Trustworthy AI, AI Alignment, AI Safety, Sustainable AI, and AI Ethics. 
 
+<details markdown="1"><summary>What are some aspects of Critical AI Studies?</summary>
+
 - Understanding the political economy of AI
 - Understanding AI cultures
 - Envisioning alternative AI futures
@@ -27,6 +29,22 @@ DH is being transformed by Machine Learning and other AI. At the same time, arts
 - Interrogating "the human"
 - Enabling interdisciplinary collaboration
 - Developing new ways of reading and interpreting in an era of AI slop and misinformation / disinformation
+
+</details>
+
+<details markdown="1"><summary>Resources</summary>
+
+- [AI & Society journal](https://link.springer.com/journal/146)
+- [Ruha Benjamin](https://www.ruhabenjamin.com/race-after-technology) — [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.politybooks.com/bookdetail?book_slug=race-after-technology-abolitionist-tools-for-the-new-jim-code--9781509526390) (Polity 2019)
+- [Kate Crawford](https://katecrawford.net/atlas) — [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence](https://yalebooks.yale.edu/book/9780300209570/atlas-of-ai/) (Yale 2021)
+– Dan McQuillan — [Resisting AI: An Anti-fascist Approach to Artificial Intelligence](https://bristoluniversitypress.co.uk/resisting-ai) (2022)
+- Virginia Eubanks — [Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor](https://en.wikipedia.org/wiki/Automating_Inequality) (2018)
+- Cathy O’Neil — [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction) (2016)
+- Safiya Umoja Noble — [Algorithms of Oppression: How Search Engines Reinforce Racism](https://nyupress.org/9781479837243/algorithms-of-oppression/) (2018)
+- Shoshana Zuboff — [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395700/) (2019)
+- To add more resources, e.g. networks, institutes, organisations
+
+</details>
 
 ## AI Adversarial Literacy
 
@@ -62,12 +80,12 @@ The definition of 'AI' is blurry and contested. The Digital Humanities is defini
 
 - Programming Historian: [Interrogating a National Narrative with GPT-2](https://programminghistorian.org/en/lessons/interrogating-a-national-narrative-with-gpt-2). "In this lesson, you will learn how to apply a Generative Pre-trained Transformer language model to a large-scale corpus so that you can locate broad themes and trends within written text."
 - Programming Historian: [Creating Deep Convolutional Neural Networks for Image Classification](https://programminghistorian.org/en/lessons/deep-convolutional-neural-networks). "This lesson provides a beginner-friendly introduction to convolutional neural networks (CNNs) for image classification."
-- [Programming Historian: Facial Recognition in Historical Photographs with Artificial Intelligence in Python.](https://programminghistorian.org/en/lessons/facial-recognition-ai-python) "In this lesson, you’ll learn computer vision and machine learning principles for object recognition, and how to apply these principles using Python to recognize and classify smiling faces in historical photographs."
-- Programming Historian: Creating Deep Convolutional Neural Networks for Image Classification. "This lesson provides a beginner-friendly introduction to convolutional neural networks (CNNs) for image classification."
-- Programming Historian: Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 1). "This is the first of a two-part lesson introducing deep learning based computer vision methods for humanities research."
-- Programming Historian: Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 2). "This lesson digs deeper into the details of training a deep learning based computer vision model."
-- Programming Historian: Interrogating a National Narrative with GPT-2. "In this lesson, you will learn how to apply a Generative Pre-trained Transformer language model to a large-scale corpus so that you can locate broad themes and trends within written text."
-- Programming Historian: Understanding and Creating Word Embeddings. "Through a primarily theoretical lens, this lesson will teach you how to prepare a corpus and train a word embedding model."
+- Programming Historian: [Facial Recognition in Historical Photographs with Artificial Intelligence in Python.](https://programminghistorian.org/en/lessons/facial-recognition-ai-python) "In this lesson, you’ll learn computer vision and machine learning principles for object recognition, and how to apply these principles using Python to recognize and classify smiling faces in historical photographs."
+- Programming Historian: [Creating Deep Convolutional Neural Networks for Image Classification.](https://programminghistorian.org/en/lessons/image-classification-neural-networks) "This lesson provides a beginner-friendly introduction to convolutional neural networks (CNNs) for image classification."
+- Programming Historian: [Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 1).](https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt1) "This is the first of a two-part lesson introducing deep learning based computer vision methods for humanities research."
+- Programming Historian: [Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 2). "This lesson digs deeper into the details of training a deep learning based computer vision model."](https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt2)
+- Programming Historian: [Interrogating a National Narrative with GPT-2](https://programminghistorian.org/en/lessons/interrogating-national-narrative-gpt). "In this lesson, you will learn how to apply a Generative Pre-trained Transformer language model to a large-scale corpus so that you can locate broad themes and trends within written text."
+- Programming Historian: [Understanding and Creating Word Embeddings](https://programminghistorian.org/en/lessons/understanding-creating-word-embeddings). "Through a primarily theoretical lens, this lesson will teach you how to prepare a corpus and train a word embedding model."
 </details>
 
 ## Carbon estimation {#carbon-estimation}
