@@ -114,6 +114,16 @@ Estimating the carbon emissions of an AI system is hard, partly because of a lac
 [Distant reading](https://www.digitalstudies.org/article/id/8855/) emerged as an approach to literary scholarship in the 2000s, as a way of investigating larger patterns of literary production, circulation, and consumption. More recently, the rise of LLMs and the use of genAI raises new questions about computationally mediated texts, and about what counts as reading (distant, close, or otherwise).
 
 <details markdown="1">
+<summary>Why is it so hard to stop LLMs from hallucinating?</summary>
+- An AI 'hallucination' is when a system produces an answer that sounds confident and well-formed but is wrong, invented, not supported by reliable sources, or sometimes contradicted by the system's other outputs.
+- At their core, systems like ChatGPT are trained to model the probability distribution over sequences of tokens. They learn to generate text that is statistically plausible given prior context and the patterns that occur in their training data. The training data itself is not literally stored inside the model: instead, there are patterns of weights and associations, which latently imply the training data and a much larger set of similar texts. Only when a sequence is extremely strongly implied — for example, a memorised credit card number, phone number, or other unique string — does it begin to resemble direct recall. That is usually treated as 'data leakage,' and it is a problem!
+- Hallucination is sometimes defined technically as a failure of faithfulness to conditioning input (e.g. training data), rather than “falsehood” in the abstract. Obviously training data can contain contradictions too.
+- There are some theoretical arguments that eliminating hallucination entirely would require solving a problem at least as hard as perfectly modelling the data distribution, implying that some residual risk is structurally unavoidable.
+- Researchers sometimes try to distinguish intrinsic hallucinations (contradicting the source) from extrinsic hallucinations (adding unsupported but plausible details), which behave differently under evaluation.
+- Hallucination rates tend to increase on long-tail or low-frequency knowledge because likelihood training privileges statistically central patterns over rare specifics.
+- There is plenty of research into how to reduce hallucination, and/or how to manage it. Beam search and temperature settings can measurably change hallucination frequency. Model uncertainty correlates with many hallucinations, although this uncertainty is typically not reliably calibrated or shown to users.'Semantic entropy' methods have attempted to detect confabulations by measuring variation across meaning-equivalent samples rather than surface token variation. Some RAG methods and other 'grounded AI' approaches attempt to reduce hallucinations by privileging a certain smaller, known corpus in the outputs.
+</details>
+<details markdown="1">
 <summary>Resources</summary>
 
 - Wikipedia: [Distant reading](https://en.wikipedia.org/wiki/Distant_reading)
