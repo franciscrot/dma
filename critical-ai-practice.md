@@ -34,14 +34,14 @@ DH is being transformed by Machine Learning and other AI. At the same time, arts
 
 <details markdown="1"><summary>Resources</summary>
 
-- [AI & Society journal](https://link.springer.com/journal/146)
-- [Ruha Benjamin](https://www.ruhabenjamin.com/race-after-technology) — [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.politybooks.com/bookdetail?book_slug=race-after-technology-abolitionist-tools-for-the-new-jim-code--9781509526390) (Polity 2019)
-- [Kate Crawford](https://katecrawford.net/atlas) — [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence](https://yalebooks.yale.edu/book/9780300209570/atlas-of-ai/) (Yale 2021)
-– Dan McQuillan — [Resisting AI: An Anti-fascist Approach to Artificial Intelligence](https://bristoluniversitypress.co.uk/resisting-ai) (2022)
-- Virginia Eubanks — [Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor](https://en.wikipedia.org/wiki/Automating_Inequality) (2018)
-- Cathy O’Neil — [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction) (2016)
-- Safiya Umoja Noble — [Algorithms of Oppression: How Search Engines Reinforce Racism](https://nyupress.org/9781479837243/algorithms-of-oppression/) (2018)
-- Shoshana Zuboff — [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395700/) (2019)
+- [*AI & Society* journal](https://link.springer.com/journal/146)
+- [Ruha Benjamin](https://www.ruhabenjamin.com/race-after-technology), [*Race After Technology: Abolitionist Tools for the New Jim Code*](https://www.politybooks.com/bookdetail?book_slug=race-after-technology-abolitionist-tools-for-the-new-jim-code--9781509526390) (Polity 2019)
+- [Kate Crawford](https://katecrawford.net/atlas) — [*Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*](https://yalebooks.yale.edu/book/9780300209570/atlas-of-ai/) (Yale 2021)
+- Dan McQuillan, [*Resisting AI: An Anti-fascist Approach to Artificial Intelligence](https://bristoluniversitypress.co.uk/resisting-ai*) (2022)
+- Virginia Eubanks, [*Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor*](https://en.wikipedia.org/wiki/Automating_Inequality) (2018)
+- Cathy O’Neil, [*Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction) (2016)
+- Safiya Umoja Noble, [*Algorithms of Oppression: How Search Engines Reinforce Racism*](https://nyupress.org/9781479837243/algorithms-of-oppression/) (2018)
+- Shoshana Zuboff, [*The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395700/) (2019)
 - To add more resources, e.g. networks, institutes, organisations
 
 </details>
@@ -68,7 +68,7 @@ The definition of 'AI' is blurry and contested. The Digital Humanities is defini
 <details markdown="1">
 <summary>How long has the Digital Humanities been using AI?</summary>
 
-- It really depends what you mean by "AI", and DH+ is a good space to observe how the term has shifted.
+- It really depends what we mean by "AI", and DH+ is a good space to observe how the term has shifted.
 - There is actually a DH+ type project in tracing this history in a more granular way. But as a rough and reductive history ...
 - Automated image recognition: 1950s–60s: early neural networks (e.g. the perceptron) and symbolic computer vision research, often described as pattern recognition or cybernetics. See e.g. the MIT [Summer Vision Project (1966)](https://dspace.mit.edu/bitstream/handle/1721.1/6125/AIM-100.pdf). 1970s–80s: scale-space theory formalised, providing a mathematically grounded way to analyse images at multiple resolutions; becomes foundational for edge detection and feature extraction. 1990s–2000s: feature-based pipelines (e.g. SIFT, 1999) combined with classifiers such as Support Vector Machines (mid-1990s) dominated computer vision; typically described as statistical machine learning or pattern recognition rather than mainstream “AI.” 2010s: deep convolutional neural networks — especially following the 2012 ImageNet breakthrough — dramatically improved large-scale image classification and re-centred computer vision within contemporary AI discourse. Rise of diffusion models and genAI for images.
 - OCR: In the mid-2010s, neural network approaches (including LSTM-based models) improved performance on complex layouts and historical print, and Handwritten Text Recognition (HTR) gained traction for manuscript archives; at this point, OCR and HTR were increasingly folded into AI discourse.
@@ -78,7 +78,6 @@ The definition of 'AI' is blurry and contested. The Digital Humanities is defini
 <details markdown="1">
 <summary>Resources</summary>
 
-- Programming Historian: [Interrogating a National Narrative with GPT-2](https://programminghistorian.org/en/lessons/interrogating-a-national-narrative-with-gpt-2). "In this lesson, you will learn how to apply a Generative Pre-trained Transformer language model to a large-scale corpus so that you can locate broad themes and trends within written text."
 - Programming Historian: [Creating Deep Convolutional Neural Networks for Image Classification](https://programminghistorian.org/en/lessons/deep-convolutional-neural-networks). "This lesson provides a beginner-friendly introduction to convolutional neural networks (CNNs) for image classification."
 - Programming Historian: [Facial Recognition in Historical Photographs with Artificial Intelligence in Python.](https://programminghistorian.org/en/lessons/facial-recognition-ai-python) "In this lesson, you’ll learn computer vision and machine learning principles for object recognition, and how to apply these principles using Python to recognize and classify smiling faces in historical photographs."
 - Programming Historian: [Creating Deep Convolutional Neural Networks for Image Classification.](https://programminghistorian.org/en/lessons/image-classification-neural-networks) "This lesson provides a beginner-friendly introduction to convolutional neural networks (CNNs) for image classification."
