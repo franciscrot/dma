@@ -52,6 +52,11 @@ DH is being transformed by Machine Learning and other AI. At the same time, arts
 Some resources on the more 'applied' side of Critical AI Studies. Spotting AI, stopping AI, and more.
 
 <details markdown="1">
+<summary>Add a question</summary>
+- Add an answer
+</details>
+
+<details markdown="1">
 <summary>Resources</summary>
 
 - [Reporter's Guide to Detecting AI-Generated Content](https://gijn.org/resource/guide-detecting-ai-generated-content/)
