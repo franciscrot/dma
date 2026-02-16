@@ -29,6 +29,7 @@ DH is being transformed by Machine Learning and other AI. At the same time, arts
 - Interrogating "the human"
 - Enabling interdisciplinary collaboration
 - Developing new ways of reading and interpreting in an era of AI slop and misinformation / disinformation
+- Studying the politics of frameworks like AI Safety, Responsible AI (and Critical AI Studies itself)
 
 </details>
 
