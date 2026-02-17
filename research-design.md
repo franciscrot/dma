@@ -39,11 +39,12 @@ Doing DH+ research means thinking reflexively and innovatively about what resear
 - Controls & blocking
 - Factorial interaction
 
+Also check out the data science section under DH Skills.
+
 <details markdown="1">
 <summary>Resources</summary>
 
-- Programming Historian: Regression Analysis with Scikit-Learn (part 1 - Linear). "This lesson provides an overview of linear regression and walks through running both algorithms in Python (using scikit-learn)."
-- Programming Historian: Regression Analysis with Scikit-learn (part 2 - Logistic). "This lesson provides an overview of logistic regression, how to use Python (scikit-learn) to make a logistic regression model."
+- Programming Historian: [Regression Analysis with Scikit-Learn (in two parts - Linear and Logistic).](https://programminghistorian.org/en/lessons/linear-regression) "This lesson provides an overview of linear regression and walks through running both algorithms in Python (using scikit-learn)." If you have collected some data, and you want to figure out whether one variable moves when another one moves - maybe because you have some intuition about something causing something else! - you may want to run a regression analysis.
 - Programming Historian: Correspondence Analysis for Historical Research with R. "This tutorial explains how to carry out and interpret a correspondence analysis, which can be used to identify relationships within categorical data."
 </details>
 
