@@ -17,15 +17,16 @@ The line is blurred between Digital Humanities and digital media and arts practi
 
 ## Creative coding {#creative-coding}
 
-- CSS + HTML + JS
-- In-browser games and interactive media
+Within DH+ you might use languages like HTML, CSS and JavaScript to create interactive objects such as games, art, interactive research outputs, educational experience, data collection tools, or experiments. Sometimes you might create something just to learn the skills needed to create it. You might even create something (maybe during a jam) without quite knowing who or what it is for. 
 
-<details>What are web pages made of?</details>
+<details markdown="1"><summary>What are web pages made of?</summary>
+  
 - If you create a few files using a text editor or Integrated Development Environment, and upload them to a host, you can create your own website - even your own interactive website or game
 - HTML / XML – These give a web page its structure and meaning. They say things like “this is a heading”, “this is a paragraph”, or “this is a link or an image”. HTML is what most web pages use; XML is a stricter, more general way of structuring data.
 - CSS – This controls how the page looks. Colours, fonts, spacing, layout, and what happens on different screen sizes are all handled by CSS. Without CSS, a page works, but looks very plain.
 - JavaScript (JS) – This makes the page do things. JS handles interaction and behaviour: buttons that respond when clicked, content that changes without reloading the page, simple games, animations, or forms that check your input.
 - A web server (publishing it) – To put a page online, you upload these files (HTML, CSS, JS) to a server that anyone can access. Services like GitHub Pages or [Itch.io](sadpress.itch.io) let you do this very easily: you upload your files or connect a folder, and they host the site for you so it appears at a public web address.
+</details>
 
 <details markdown="1">
 <summary>Resources</summary>
@@ -41,13 +42,15 @@ The line is blurred between Digital Humanities and digital media and arts practi
 
 ## Games & narrative {#games-narrative}
 
-Digital games can be created using coding (e.g. JavaScript), big general-purpose game engines (e.g. Unity, Unreal, Godot), or more specialist game-making tools (e.g. Twine, RPG Maker). Across digital 
+Digital games can be created using coding (e.g. JavaScript), big general-purpose game engines (e.g. Unity, Unreal, Godot), or more specialist game-making tools (e.g. Twine, RPG Maker). Across digital and analogue games, there are some shared principles of game design.
 
 <details><summary>How do you design a game?</summary>
 
 - It's often best to start with an existing game, that you know works, and 'hack' it. For example, you might keep the mechanics the same, but change the content.
 - Once you have a prototype game, playtest it, see what works and what doesn't, and iterate it (create a new version). Keep playtesting till you're happy with the results.
 - Games are often non-linear systems, so a small tweak can sometimes fundamentally change the way the game works. It's also really hard to know how a game will actually work just by looking at the rules: new things often emerge in gameplay. That's why game design is fundamentally a process of informed trial-and-error.
+- That said, there are lots of rules of thumb that can help you.
+- Here's just one example: distinguish input randomness from output randomness. Output randomness: the player does something, and the result is partly randomized. Input randomness: the player is provided with a somewhat randomized set of resources or possibilities. By and large, output randomness gives a reduced sense of agency compared to input randomness. That doesn't mean it's bad, but being aware of this may help you think about how you use it in your game design practice.
 
 </details>
 
@@ -76,29 +79,23 @@ Digital games can be created using coding (e.g. JavaScript), big general-purpose
 
 - Programming Historian: Creating Mobile Augmented Reality Experiences in Unity. "This lesson serves as an introduction to creating mobile augmented reality applications."
 - Programming Historian: Designing a Deck of Timeline Cards for Tabletops and Tabletop Simulator. "This lesson demonstrates how to use nanDECK to design and publish your own deck of printed or digital playing cards."
+- Add 3D printing resources
+- Add other resources
 </details>
 
 ## Design {#design}
 
-- Speculative design
 - Design thinking
 - Prototyping
+- Speculative design and critical design
+- Participatory design
 
 <details markdown="1">
 <summary>Resources</summary>
 
 - Programming Historian: Building a static website with Jekyll and GitHub Pages. "This lesson will help you create entirely free, easy-to-maintain, preservation-friendly, secure website over which you have full control."
 - Programming Historian: Running a Collaborative Research Website and Blog with Jekyll and GitHub. "This lesson introduces the challenges and opportunities that Jekyll offers for publishing collaborative, ongoing research online."
-</details>
-
-## Security {#security}
-
-- Intro to cybersecurity
-
-<details markdown="1">
-<summary>Resources</summary>
-
-- Programming Historian: Introduction to the Bash Command Line. "This lesson will teach you how to enter commands using a command-line interface, rather than through a graphical interface."
+- Add design resources
 </details>
 
 ## Media archaeology {#media-archaeology}
@@ -112,4 +109,6 @@ Digital games can be created using coding (e.g. JavaScript), big general-purpose
 - Programming Historian: Introduction to Audiovisual Transcoding, Editing, and Color Analysis with FFmpeg. "This lesson introduces the basic functions of FFmpeg, a free command-line tool used for manipulating and analyzing audiovisual materials."
 - Programming Historian: Editing Audio with Audacity. "In this lesson you will learn how to use Audacity to load, record, edit, mix, and export audio files."
 - Programming Historian: The Sound of Data (a gentle introduction to sonification for historians). "This lesson will help you hear the past."
+- Add media archaeology resources
+- Add digital forensics resources
 </details>
