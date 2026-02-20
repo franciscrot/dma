@@ -5,7 +5,7 @@ title: Main
 
 # Digital Methods Accelerator
 
-To do: Move to CodeBerg or similar (TBC). 
+Work-in-progress. To do: Move to CodeBerg or similar (TBC). 
 
 Welcome to the Digital Methods Accelerator. This is a resource hub for DH+ (or in other words, all things digital as they pertain to media, arts and humanities researchers). Feel free to update or add new resources on the GitHub repository.
 
