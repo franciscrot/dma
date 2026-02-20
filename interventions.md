@@ -7,7 +7,7 @@ title: Interventions
 
 ## Security and IOT {#security-IOT}
 
-<details><summary>How do the objects around us communicate with each other and with bigger systems?</summary>
+<details markdown="1"><summary>How do the objects around us communicate with each other and with bigger systems?</summary>
 
 - We are surrounded by invisible conversations between objects. Doors, phones, cars, printers, tills, and routers are constantly exchanging information.
 Information must travel through something physical. It moves through wires (USB, Ethernet), light (a TV remote’s infrared flashes), or radio waves (Wi-Fi, Bluetooth, car key fobs).
@@ -28,7 +28,7 @@ Information must travel through something physical. It moves through wires (USB,
 
 </details>
 
-<details><summary>Resources</summary>
+<details markdown="1"><summary>Resources</summary>
 
 - Flipper Zero: [Flipper Zero Official Documentation](https://docs.flipper.net/zero) Comprehensive guide to the device’s features, interfaces, and basic operation, ideal for beginners starting hands-on exploration.
 - Flipper Zero: [Flipper Zero NFC Documentation](https://docs.flipper.net/zero/nfc) Clear introduction to how NFC works on the device, including tag types, data structures, and safe experimentation.
@@ -37,11 +37,8 @@ Information must travel through something physical. It moves through wires (USB,
 - [RTL-SDR Quick Start Guide](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/) Beginner-friendly introduction to Software-Defined Radio and visualising radio signals across frequencies.
 - [Software Defined Radio with HackRF – Lesson 1](https://greatscottgadgets.com/sdr/1/) Foundational tutorial on how radio works and how SDR tools let you observe and experiment with signals.
 - Proxmark3: [ Getting Started](https://github.com/Proxmark/proxmark3/wiki/Getting-Started) Practical guide to advanced RFID/NFC research workflows beyond entry-level tools.
-
 - Adafruit: [PN532 RFID/NFC Guide](https://learn.adafruit.com/adafruit-pn532-rfid-nfc)  Explanation of how RFID and NFC hardware operate, with diagrams and examples.
-
 - Ubertooth: [Getting Started Guide](https://ubertooth.readthedocs.io/en/latest/getting_started.html) Introduction to Bluetooth packet capture and wireless protocol analysis.
-
 - [OWASP Vulnerability Disclosure Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html) Clear guidance on responsible disclosure, reporting vulnerabilities safely and ethically.
 
 
@@ -60,7 +57,8 @@ Information must travel through something physical. It moves through wires (USB,
 
 ## Hardware repair {#hardware-repair}
 
-<details><summary>Where to start?</summary>
+<details markdown="1">
+  <summary>Where to start?</summary>
 
 - Disassemble and reassemble an old device – Take apart a spare phone or laptop and put it back together.
 - Clean and inspect a device interior – Remove dust or residue with appropriate tools and learn to visually inspect a PCB for obvious damage or loose connectors.
@@ -112,3 +110,5 @@ Information must travel through something physical. It moves through wires (USB,
 </details>
 
 ## Hackathons and Makerspaces {#hackathons-makerspaces}
+
+Add some introductions / definitions / resources around hackathons, makerspaces, jams, maker culture & history etc.
