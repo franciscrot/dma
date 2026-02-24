@@ -86,9 +86,8 @@ Information must travel through something physical. It moves through wires (USB,
     Resources</summary>
 - Add some resources
 - E.g. tutorials, lessons, articles, websites, organisations, tools
+- [LASR Labs](https://www.lasrlabs.org/past-projects) 13-week research programme that aims to assist individuals in transitioning to full-time careers in AI Safety, and a repository of papers that have come out of the programme.
 </details>
-
-https://www.lasrlabs.org/past-projects
 
 ## Off-grid {#off-grid}
 
