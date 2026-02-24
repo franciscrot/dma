@@ -79,6 +79,7 @@ Information must travel through something physical. It moves through wires (USB,
 <details markdown="1">
   <summary>
     Add a question</summary>
+  
 - How do we know that a message, a payment, or a login request really comes from who it claims to come from — and has not been altered in transit?
 - Cryptography is the study of how to secure communication in the presence of adversaries. It uses mathematics to transform information so that only intended recipients can read it, verify it, or prove ownership of it.
 - Modern cybersecurity builds on cryptography but extends further: it includes system design, authentication, key management, network defence, software auditing, and human factors.
@@ -130,7 +131,8 @@ Information must travel through something physical. It moves through wires (USB,
 <details markdown="1">
   <summary>
     Resources</summary>
--  [Media Archaeology Lab](https://mediaarchaeologylab.com/)
+
+- [Media Archaeology Lab](https://mediaarchaeologylab.com/)
 - [Dead Tech Lib](https://www.sussex.ac.uk/broadcast/read/68364)  
 - Internet Archive: [Software Collection](https://archive.org/details/software) 
 - SIGGRAPH Digital Art Archive: [History Resources](https://history.siggraph.org/). Documentation of early digital art and computing experiments
@@ -151,6 +153,7 @@ Information must travel through something physical. It moves through wires (USB,
 <details markdown="1">
   <summary>
     Resources</summary>
+
 - [Sensing the Forest: An Interview with Alice Eldridge](https://sensingtheforest.github.io/2024/02/05/an-interview-with-alice-eldridge/)
 - [wilding.radio](https://wilding.radio/)
 - [Xeno-canto](https://xeno-canto.org/) Open database of bird sounds from around the world.
@@ -164,20 +167,17 @@ Information must travel through something physical. It moves through wires (USB,
 <details markdown="1">
   <summary>
     Add a question</summary>
-- How can digital designs become physical objects on demand?
-- 3D printing (additive manufacturing) builds objects layer by layer from digital files, using plastics, resins, or metal powders.
-- It allows rapid prototyping, distributed manufacturing, repair parts production, and experimental design.
-- Open-source printer designs and slicer software have made fabrication accessible to hobbyists, schools, and community workshops.
-- Environmental impact depends on materials, energy use, and design choices; repair and longevity matter as much as novelty.
 
+- Answers
 </details>
 
 <details markdown="1">
   <summary>
     Resources</summary>
-- Prusa Research: [3D Printing Handbook (free PDF)](https://www.prusa3d.com/page/3d-printing-handbook_1287/) Comprehensive beginner guide to FDM printing.
-- Ultimaker: [Cura Slicer Software](https://ultimaker.com/software/ultimaker-cura/) Open-source slicing tool for preparing print files.
-- Thingiverse: [Open Design Repository](https://www.thingiverse.com/) Large collection of user-shared printable object files.
+
+- Prusa Research: [3D Printing Handbook](https://www.prusa3d.com/page/3d-printing-handbook_1287/) 
+- Ultimaker: [Cura Slicer Software](https://ultimaker.com/software/ultimaker-cura/) Open-source slicing tool 
+- Thingiverse: [Open Design Repository](https://www.thingiverse.com/) Collection of printable object files
 
 </details>
 
@@ -226,8 +226,10 @@ Information must travel through something physical. It moves through wires (USB,
 
 <details markdown="1">
   <summary>Resources</summary>
+
 - [iFixit](https://www.ifixit.com/) Wiki-style collection of step-by-step phone repair instructions and teardowns for many common device models.
 - Stanford: [Intro to soldering](https://sites.google.com/stanford.edu/soldering-internal/learning)
+- Adafruit: [Solderless Breadboards](https://www.adafruit.com/category/462)
 - My Computer Works: [A beginner's guide to DIY device repair tools](https://www.mycomputerworks.co.uk/a-beginners-guide-to-diy-device-repair-tools-in-2024/)
 - Sussex Green Living: [Repair Cafes](https://www.sussexgreenliving.org.uk/repair/)
 - [Brighton Borrowers](https://www.brightonborrowers.co.uk/)
