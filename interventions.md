@@ -27,9 +27,9 @@ title: Interventions
 
 - add resources on digital sovereignty, US tech dominance, open source alternatives to major tools and systems, how to divest from using FANG systems, etc.
 - [Authoritarian Stack](https://www.authoritarian-stack.info/)
-- European Commission: [Shaping Europe’s Digital Future – Digital Sovereignty](https://digital-strategy.ec.europa.eu/en/policies/digital-sovereignty) Policy framing of technological autonomy, infrastructure control, and strategic dependencies.
-- Free Software Foundation: [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) Curated catalogue of free/open-source alternatives to proprietary platforms and tools.
-- Switching Software: [Ethical and Open Source Alternatives](https://switching.software/) Searchable guide to replacing common proprietary services with privacy-respecting and open alternatives.
+- European Commission: [Shaping Europe’s Digital Future – Digital Sovereignty](https://digital-strategy.ec.europa.eu/en/policies/digital-sovereignty) 
+- Free Software Foundation: [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) 
+- Switching Software: [Ethical and Open Source Alternatives](https://switching.software/) 
 - [Briar Project](https://briarproject.org/) Secure messaging.
 
 </details>
@@ -59,16 +59,16 @@ Information must travel through something physical. It moves through wires (USB,
 
 <details markdown="1"><summary>Resources</summary>
 
-- Flipper Zero: [Flipper Zero Official Documentation](https://docs.flipper.net/zero) Comprehensive guide to the device’s features, interfaces, and basic operation, ideal for beginners starting hands-on exploration.
-- Flipper Zero: [Flipper Zero NFC Documentation](https://docs.flipper.net/zero/nfc) Clear introduction to how NFC works on the device, including tag types, data structures, and safe experimentation.
+- Flipper Zero: [Flipper Zero Official Documentation](https://docs.flipper.net/zero) 
+- Flipper Zero: [Flipper Zero NFC Documentation](https://docs.flipper.net/zero/nfc) 
 - Flipper Zero: [Flipper Zero Infrared Documentation](https://docs.flipper.net/zero/infrared) Explains how infrared remotes work and how to capture, analyse, and replay IR signals.
 - Flipper Zero: [Flipper Zero GPIO & Modules Guide](https://docs.flipper.net/zero/gpio-and-modules) Introduces hardware interfacing, pins, and serial communication for understanding lower-level device signals.
-- [RTL-SDR Quick Start Guide](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/) Beginner-friendly introduction to Software-Defined Radio and visualising radio signals across frequencies.
+- [RTL-SDR Quick Start Guide](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/)
 - [Software Defined Radio with HackRF – Lesson 1](https://greatscottgadgets.com/sdr/1/) Foundational tutorial on how radio works and how SDR tools let you observe and experiment with signals.
-- Proxmark3: [ Getting Started](https://github.com/Proxmark/proxmark3/wiki/Getting-Started) Practical guide to advanced RFID/NFC research workflows beyond entry-level tools.
-- Adafruit: [PN532 RFID/NFC Guide](https://learn.adafruit.com/adafruit-pn532-rfid-nfc)  Explanation of how RFID and NFC hardware operate, with diagrams and examples.
+- Proxmark3: [ Getting Started](https://github.com/Proxmark/proxmark3/wiki/Getting-Started) 
+- Adafruit: [PN532 RFID/NFC Guide](https://learn.adafruit.com/adafruit-pn532-rfid-nfc)  
 - Ubertooth: [Getting Started Guide](https://ubertooth.readthedocs.io/en/latest/getting_started.html) Introduction to Bluetooth packet capture and wireless protocol analysis.
-- [OWASP Vulnerability Disclosure Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html) Clear guidance on responsible disclosure, reporting vulnerabilities safely and ethically.
+- [OWASP Vulnerability Disclosure Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html) 
 - [Nearby Glasses](https://play.google.com/store/apps/details?id=ch.pocketpc.nearbyglasses) is an app that tries to sense if smart glasses are being used nearby.
 
 </details>
@@ -90,6 +90,7 @@ Information must travel through something physical. It moves through wires (USB,
 <details markdown="1">
   <summary>
     Resources</summary>
+  
 - Khan Academy: [Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) 
 - [CryptoHack](https://cryptohack.org/) 
 - [OWASP Top Ten](https://owasp.org/www-project-top-ten/) Web application security risks.
@@ -110,7 +111,8 @@ Information must travel through something physical. It moves through wires (USB,
 <details markdown="1">
   <summary>
     Resources</summary>
-- Low-tech Magazine: [Off-Grid Solar Guide](https://www.lowtechmagazine.com/solar/) Research-driven explorations of small-scale renewable systems.
+  
+- Low-tech Magazine: [Off-Grid Solar Guide](https://www.lowtechmagazine.com/solar/). Research-driven explorations of small-scale renewable systems
 - [LibreSolar Project](https://libre.solar/) 
 - Eco-Worthy [How to Build Off-Grid Solar](https://uk.eco-worthy.com/blogs/solar-panel-system/off-grid-solar-installation-guide)
 
@@ -131,7 +133,7 @@ Information must travel through something physical. It moves through wires (USB,
 -  [Media Archaeology Lab](https://mediaarchaeologylab.com/)
 - [Dead Tech Lib](https://www.sussex.ac.uk/broadcast/read/68364)  
 - Internet Archive: [Software Collection](https://archive.org/details/software) 
-- SIGGRAPH Digital Art Archive: [History Resources](https://history.siggraph.org/) Documentation of early digital art and computing experiments.
+- SIGGRAPH Digital Art Archive: [History Resources](https://history.siggraph.org/). Documentation of early digital art and computing experiments
 - [Jussi Parikka](https://jussiparikka.net/category/media-archaeology/)
 - Ben Roberts and Mark Goodall (eds), [New Media Archaeologies](https://www.routledge.com/New-Media-Archaeologies/Roberts-Goodall/p/book/9781041183549)
 
@@ -142,17 +144,15 @@ Information must travel through something physical. It moves through wires (USB,
 <details markdown="1">
   <summary>
     Add a question</summary>
-- What can we learn about ecosystems by listening rather than looking?
-- Bioacoustics studies the sounds produced by living organisms — birdsong, insect stridulation, whale calls, forest soundscapes.
-- By recording and analysing soundscapes, researchers can monitor biodiversity, migration, habitat health, and environmental change.
-- Affordable microphones and open-source software allow communities to participate in ecological monitoring.
-- Machine learning is increasingly used to classify species from audio, but careful data stewardship and interpretation remain crucial.
+- Answer
 
 </details>
 
 <details markdown="1">
   <summary>
     Resources</summary>
+- [Sensing the Forest: An Interview with Alice Eldridge](https://sensingtheforest.github.io/2024/02/05/an-interview-with-alice-eldridge/)
+- [wilding.radio](https://wilding.radio/)
 - [Xeno-canto](https://xeno-canto.org/) Open database of bird sounds from around the world.
 - Cornell Lab of Ornithology: [Raven Lite](https://ravensoundsoftware.com/software/raven-lite/) Free software for sound visualisation and analysis.
 - [Open Acoustic Devices](https://www.openacousticdevices.info/) Open-source hardware for long-term environmental audio recording.
