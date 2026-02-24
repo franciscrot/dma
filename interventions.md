@@ -5,6 +5,28 @@ title: Interventions
 
 # Interventions
 
+## Divestment and digital sovereignty {#digital-sovereignty}
+
+<details markdown="1"><summary>Who owns and controls our everyday digital tools?</summary>
+
+- Alphabet (Google) — Android; Google Play (app store); Chrome/Chromium (web standards); Google Search & Maps (discoverability); reCAPTCHA; Google Analytics; Google Cloud
+- Apple — iOS; App Store; WebKit (browser engine); Apple Pay; Secure Enclave & firmware signing
+- Microsoft — Windows; Microsoft 365 & Teams (workplace tools); Azure (cloud); GitHub + npm (software supply chain); Active Directory / Entra ID
+- Amazon — AWS (cloud); Amazon Marketplace (SME dependence); Ring (home surveillance); Alexa; Twitch (live media infrastructure)
+- Meta — Facebook & Instagram, WhatsApp (civic messaging); Meta Ads
+- NVIDIA — GPUs & AI accelerators (compute bottleneck for AI, research, and defence)
+- Taiwan Semiconductor Manufacturing Company — manufacturing choke point for Apple, NVIDIA, AMD, Qualcomm
+- Tencent — WeChat & WeChat Pay (messaging + payments + mini-apps); Tencent Cloud
+- Alibaba Group — Alibaba Cloud (state and enterprise infrastructure); Alipay (payments); logistics platforms
+- ByteDance — TikTok (cultural discovery); CapCut (creator tooling)
+- Huawei — telecoms equipment (4G/5G/6G); network hardware
+
+</details>
+
+<details markdown="1"><summary>Resources</summary>
+
+add resources on digital sovereignty, US tech dominance, open source alternatives to major tools and systems, how to divest from using FANG systems, etc.
+
 ## Security and IOT {#security-IOT}
 
 <details markdown="1"><summary>How do the objects around us communicate with each other and with bigger systems?</summary>
