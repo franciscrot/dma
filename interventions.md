@@ -27,6 +27,8 @@ title: Interventions
 
 add resources on digital sovereignty, US tech dominance, open source alternatives to major tools and systems, how to divest from using FANG systems, etc.
 
+</details>
+
 ## Security and IOT {#security-IOT}
 
 <details markdown="1"><summary>How do the objects around us communicate with each other and with bigger systems?</summary>
