@@ -81,11 +81,8 @@ Information must travel through something physical. It moves through wires (USB,
   <summary>
     Add a question</summary>
   
-- How do we know that a message, a payment, or a login request really comes from who it claims to come from — and has not been altered in transit?
-- Cryptography is the study of how to secure communication in the presence of adversaries. It uses mathematics to transform information so that only intended recipients can read it, verify it, or prove ownership of it.
-- Modern cybersecurity builds on cryptography but extends further: it includes system design, authentication, key management, network defence, software auditing, and human factors.
-- Concepts such as hashing, digital signatures, public-key encryption, and zero-knowledge proofs allow strangers on the internet to establish trust without physically meeting.
-- At the same time, security is never absolute. It depends on implementation details, key storage, update practices, and the incentives of the organisations running the infrastructure.
+- Add an answer
+- That serves as an intro or hook for this topic
 
 </details>
 
