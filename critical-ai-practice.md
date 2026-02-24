@@ -62,6 +62,7 @@ Some resources on the more 'applied' side of Critical AI Studies. Spotting AI, s
 - [Reporter's Guide to Detecting AI-Generated Content](https://gijn.org/resource/guide-detecting-ai-generated-content/)
 - [Iocaine](https://iocaine.madhouse-project.org/). "This software is not made for making the Crawlers go away. It is an aggressive defense mechanism that tries its best to take the blunt of the assault, serve them garbage, and keep them off of upstream resources."
 - [Anubis.](https://anubis.techaro.lol/) "Weigh the soul of incoming HTTP requests to protect your website."
+- [AI Faces Challenge](https://facetest.psy.unsw.edu.au/aifaces.html)
 - Add resources on identifying genAI content
 
 </details>
