@@ -17,9 +17,9 @@ title: Interventions
 - NVIDIA — GPUs & AI accelerators (compute bottleneck for AI, research, and defence)
 - Taiwan Semiconductor Manufacturing Company — manufacturing choke point for Apple, NVIDIA, AMD, Qualcomm
 - Tencent — WeChat & WeChat Pay (messaging + payments + mini-apps); Tencent Cloud
-- Alibaba Group — Alibaba Cloud (state and enterprise infrastructure); Alipay (payments); logistics platforms
-- ByteDance — TikTok (cultural discovery); CapCut (creator tooling)
+- Alibaba Group — Alibaba Cloud; Alipay (payments)
 - Huawei — telecoms equipment (4G/5G/6G); network hardware
+- Palantir - extensively used by governments
 
 </details>
 
@@ -31,6 +31,7 @@ title: Interventions
 - Free Software Foundation: [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) 
 - Switching Software: [Ethical and Open Source Alternatives](https://switching.software/) 
 - [Briar Project](https://briarproject.org/) Secure messaging.
+- [Prism Break](https://prism-break.org/en/) - anti-surveillance alternatives
 
 </details>
 
