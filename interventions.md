@@ -66,6 +66,7 @@ Information must travel through something physical. It moves through wires (USB,
 - Adafruit: [PN532 RFID/NFC Guide](https://learn.adafruit.com/adafruit-pn532-rfid-nfc)  Explanation of how RFID and NFC hardware operate, with diagrams and examples.
 - Ubertooth: [Getting Started Guide](https://ubertooth.readthedocs.io/en/latest/getting_started.html) Introduction to Bluetooth packet capture and wireless protocol analysis.
 - [OWASP Vulnerability Disclosure Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html) Clear guidance on responsible disclosure, reporting vulnerabilities safely and ethically.
+- [Nearby Glasses](https://play.google.com/store/apps/details?id=ch.pocketpc.nearbyglasses) is an app that tries to sense if smart glasses are being used nearby.
 
 
 </details>
