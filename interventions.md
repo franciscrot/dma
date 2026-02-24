@@ -74,13 +74,85 @@ Information must travel through something physical. It moves through wires (USB,
 
 ## Cryptography and cybersecurity {#cryptography-cybersecurity}
 
+<details markdown="1">
+  <summary>
+    Add a question</summary>
+- Add an answer
+- That also serves as an intro or hook for the topic
+</details>
+
+<details markdown="1">
+  <summary>
+    Resources</summary>
+- Add some resources
+- E.g. tutorials, lessons, articles, websites, organisations, tools
+</details>
+
+https://www.lasrlabs.org/past-projects
+
 ## Off-grid {#off-grid}
+
+<details markdown="1">
+  <summary>
+    Add a question</summary>
+- Add an answer
+- That also serves as an intro or hook for the topic
+</details>
+
+<details markdown="1">
+  <summary>
+    Resources</summary>
+- Add some resources
+- E.g. tutorials, lessons, articles, websites, organisations, tools
+</details>
 
 ## Media archaeology {#media-archaeology}
 
+<details markdown="1">
+  <summary>
+    Add a question</summary>
+- Add an answer
+- That also serves as an intro or hook for the topic
+</details>
+
+<details markdown="1">
+  <summary>
+    Resources</summary>
+- Add some resources
+- E.g. tutorials, lessons, articles, websites, organisations, tools
+</details>
+
 ## Bioacoustics {#bioacoustics}
 
+<details markdown="1">
+  <summary>
+    Add a question</summary>
+- Add an answer
+- That also serves as an intro or hook for the topic
+</details>
+
+<details markdown="1">
+  <summary>
+    Resources</summary>
+- Add some resources
+- E.g. tutorials, lessons, articles, websites, organisations, tools
+</details>
+
 ## 3D Printing {#three-D-printing}
+
+<details markdown="1">
+  <summary>
+    Add a question</summary>
+- Add an answer
+- That also serves as an intro or hook for the topic
+</details>
+
+<details markdown="1">
+  <summary>
+    Resources</summary>
+- Add some resources
+- E.g. tutorials, lessons, articles, websites, organisations, tools
+</details>
 
 ## Hardware repair {#hardware-repair}
 
