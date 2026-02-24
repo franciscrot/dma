@@ -5,7 +5,7 @@ title: Research Design
 
 # Research Design
 
-Doing DH+ research means thinking reflexively and innovatively about what research is. Researchers need to be aware of things like data protection and Intellectual Property from a compliance perspective - but at the same time, DH+ researchers are in a position to reflect critically on (and sometimes experiment with) these things, especially as AI and other digital technologies place increasing pressure on traditional frameworks.
+Doing DH+ research means thinking reflexively and innovatively about what research is. Researchers need to be aware of things like data protection and Intellectual Property from a compliance perspective - but at the same time, DH+ researchers are in a position to reflect critically on (and sometimes experiment with) these things, especially as AI and other digital technologies place increasing pressure on traditional frameworks. We may find ourselves involved in projects drawing on metascience, Science and Technology Studies (STS), or other types of research about research.
 
 - Open research practices
 - Is interdisciplinarity a discipline in its own right?
