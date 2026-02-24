@@ -29,6 +29,10 @@ add resources on digital sovereignty, US tech dominance, open source alternative
 
 [Authoritarian Stack](https://www.authoritarian-stack.info/)
 
+- European Commission: [Shaping Europe’s Digital Future – Digital Sovereignty](https://digital-strategy.ec.europa.eu/en/policies/digital-sovereignty) Policy framing of technological autonomy, infrastructure control, and strategic dependencies.
+- Free Software Foundation: [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) Curated catalogue of free/open-source alternatives to proprietary platforms and tools.
+- Switching Software: [Ethical and Open Source Alternatives](https://switching.software/) Searchable guide to replacing common proprietary services with privacy-respecting and open alternatives.
+
 </details>
 
 ## Security and IOT {#security-IOT}
@@ -68,7 +72,6 @@ Information must travel through something physical. It moves through wires (USB,
 - [OWASP Vulnerability Disclosure Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html) Clear guidance on responsible disclosure, reporting vulnerabilities safely and ethically.
 - [Nearby Glasses](https://play.google.com/store/apps/details?id=ch.pocketpc.nearbyglasses) is an app that tries to sense if smart glasses are being used nearby.
 
-
 </details>
 
 
@@ -77,16 +80,23 @@ Information must travel through something physical. It moves through wires (USB,
 <details markdown="1">
   <summary>
     Add a question</summary>
-- Add an answer
-- That also serves as an intro or hook for the topic
+- How do we know that a message, a payment, or a login request really comes from who it claims to come from — and has not been altered in transit?
+- Cryptography is the study of how to secure communication in the presence of adversaries. It uses mathematics to transform information so that only intended recipients can read it, verify it, or prove ownership of it.
+- Modern cybersecurity builds on cryptography but extends further: it includes system design, authentication, key management, network defence, software auditing, and human factors.
+- Concepts such as hashing, digital signatures, public-key encryption, and zero-knowledge proofs allow strangers on the internet to establish trust without physically meeting.
+- At the same time, security is never absolute. It depends on implementation details, key storage, update practices, and the incentives of the organisations running the infrastructure.
+
 </details>
 
 <details markdown="1">
   <summary>
     Resources</summary>
-- Add some resources
-- E.g. tutorials, lessons, articles, websites, organisations, tools
+- [Khan Academy – Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) Accessible introduction to classical and modern cryptographic concepts.
+- [CryptoHack](https://cryptohack.org/) Interactive challenges for learning applied cryptography step by step.
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten/) Widely used reference document outlining common web application security risks.
+- [Electronic Frontier Foundation – Surveillance Self-Defense](https://ssd.eff.org/) Practical guides for improving personal digital security.
 - [LASR Labs](https://www.lasrlabs.org/past-projects) 13-week research programme that aims to assist individuals in transitioning to full-time careers in AI Safety, and a repository of papers that have come out of the programme.
+
 </details>
 
 ## Off-grid {#off-grid}
@@ -94,15 +104,21 @@ Information must travel through something physical. It moves through wires (USB,
 <details markdown="1">
   <summary>
     Add a question</summary>
-- Add an answer
-- That also serves as an intro or hook for the topic
+- What would it mean to live, compute, or communicate without depending on centralised utilities or corporate platforms?
+- “Off-grid” can refer to energy (solar panels, batteries, micro-hydro), communications (mesh networks, local servers), or food and water systems.
+- Off-grid practices often combine technical skill with resilience thinking: reducing dependency, increasing repairability, and designing systems that degrade gracefully rather than collapse.
+- Small-scale renewable energy systems, local data storage, and community-owned infrastructure can shift power — materially and politically — toward users.
+- Off-grid does not necessarily mean isolation; it can also mean federated, decentralised, or community-controlled networks.
+
 </details>
 
 <details markdown="1">
   <summary>
     Resources</summary>
-- Add some resources
-- E.g. tutorials, lessons, articles, websites, organisations, tools
+- Low-tech Magazine: [Off-Grid Solar Guide](https://www.lowtechmagazine.com/solar/) Research-driven explorations of small-scale renewable systems.
+- [LibreSolar Project](https://libre.solar/) Open-source solar charge controllers and documentation for DIY energy systems.
+- [Briar Project](https://briarproject.org/) Peer-to-peer encrypted messaging app designed for resilience in low-connectivity or shutdown scenarios.
+
 </details>
 
 ## Media archaeology {#media-archaeology}
@@ -110,15 +126,21 @@ Information must travel through something physical. It moves through wires (USB,
 <details markdown="1">
   <summary>
     Add a question</summary>
-- Add an answer
-- That also serves as an intro or hook for the topic
+- What forgotten, obsolete, or marginal technologies shape the systems we now take for granted?
+- Media archaeology studies the layered history of media technologies: telegraphs, gramophones, early computers, analogue video synthesisers, floppy disks.
+- It treats devices not just as tools but as cultural artefacts embedded in political, economic, and sensory histories.
+- By opening and restoring old hardware, emulating legacy software, or studying defunct networks, we learn how current infrastructures emerged — and how they might have evolved differently.
+- Media archaeology often combines archival research with hands-on reconstruction and experimentation.
+
 </details>
 
 <details markdown="1">
   <summary>
     Resources</summary>
-- Add some resources
-- E.g. tutorials, lessons, articles, websites, organisations, tools
+- Media Archaeology Lab: [University of Colorado Boulder](https://mediaarchaeologylab.com/) Collection of functioning historical computing systems and teaching materials.
+- Internet Archive: [Software Collection](https://archive.org/details/software) Emulated legacy software and operating systems accessible via browser.
+- SIGGRAPH Digital Art Archive: [History Resources](https://history.siggraph.org/) Documentation of early digital art and computing experiments.
+
 </details>
 
 ## Bioacoustics {#bioacoustics}
@@ -126,15 +148,21 @@ Information must travel through something physical. It moves through wires (USB,
 <details markdown="1">
   <summary>
     Add a question</summary>
-- Add an answer
-- That also serves as an intro or hook for the topic
+- What can we learn about ecosystems by listening rather than looking?
+- Bioacoustics studies the sounds produced by living organisms — birdsong, insect stridulation, whale calls, forest soundscapes.
+- By recording and analysing soundscapes, researchers can monitor biodiversity, migration, habitat health, and environmental change.
+- Affordable microphones and open-source software allow communities to participate in ecological monitoring.
+- Machine learning is increasingly used to classify species from audio, but careful data stewardship and interpretation remain crucial.
+
 </details>
 
 <details markdown="1">
   <summary>
     Resources</summary>
-- Add some resources
-- E.g. tutorials, lessons, articles, websites, organisations, tools
+- [Xeno-canto](https://xeno-canto.org/) Open database of bird sounds from around the world.
+- Cornell Lab of Ornithology: [Raven Lite](https://ravensoundsoftware.com/software/raven-lite/) Free software for sound visualisation and analysis.
+- [Open Acoustic Devices](https://www.openacousticdevices.info/) Open-source hardware for long-term environmental audio recording.
+
 </details>
 
 ## 3D Printing {#three-D-printing}
@@ -142,15 +170,21 @@ Information must travel through something physical. It moves through wires (USB,
 <details markdown="1">
   <summary>
     Add a question</summary>
-- Add an answer
-- That also serves as an intro or hook for the topic
+- How can digital designs become physical objects on demand?
+- 3D printing (additive manufacturing) builds objects layer by layer from digital files, using plastics, resins, or metal powders.
+- It allows rapid prototyping, distributed manufacturing, repair parts production, and experimental design.
+- Open-source printer designs and slicer software have made fabrication accessible to hobbyists, schools, and community workshops.
+- Environmental impact depends on materials, energy use, and design choices; repair and longevity matter as much as novelty.
+
 </details>
 
 <details markdown="1">
   <summary>
     Resources</summary>
-- Add some resources
-- E.g. tutorials, lessons, articles, websites, organisations, tools
+- Prusa Research: [3D Printing Handbook (free PDF)](https://www.prusa3d.com/page/3d-printing-handbook_1287/) Comprehensive beginner guide to FDM printing.
+- Ultimaker: [Cura Slicer Software](https://ultimaker.com/software/ultimaker-cura/) Open-source slicing tool for preparing print files.
+- Thingiverse: [Open Design Repository](https://www.thingiverse.com/) Large collection of user-shared printable object files.
+
 </details>
 
 ## Hardware repair {#hardware-repair}
@@ -209,4 +243,22 @@ Information must travel through something physical. It moves through wires (USB,
 
 ## Hackathons and Makerspaces {#hackathons-makerspaces}
 
-Add some introductions / definitions / resources around hackathons, makerspaces, jams, maker culture & history etc.
+<details markdown="1">
+  <summary>What are hackathons, makerspaces, and jams?</summary>
+
+- A hackathon is a time-bounded collaborative event — often 24–72 hours — where participants prototype software, hardware, or research ideas.
+- A makerspace is a shared workshop providing tools such as 3D printers, laser cutters, electronics benches, and hand tools for community use.
+- A game jam or design jam focuses on rapid creative production around a theme or constraint.
+- Maker culture grew from DIY electronics, open hardware movements, and early hackerspaces in the 2000s.
+- These spaces can support peer learning, open innovation, and experimentation outside formal institutional settings.
+
+</details>
+
+<details markdown="1">
+  <summary>Resources</summary>
+
+- Hackaday: [Hackaday.io Projects](https://hackaday.io/projects) Community-documented hardware and electronics builds.
+- Fab Foundation: [Fab Lab Network](https://fabfoundation.org/) Global network of digital fabrication labs.
+- Global Game Jam: [Official Site](https://globalgamejam.org/) Annual worldwide game jam with resources and archives.
+
+</details>
