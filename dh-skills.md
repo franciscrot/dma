@@ -230,7 +230,8 @@ Contemporary cultural heritage professionals also often oversee connections with
 
 - [Digital Heritage Hub](https://www.culturehive.co.uk/digital-heritage-hub/) 
 - [Digital Skills for Heritage Initiative](https://www.heritagefund.org.uk/our-work/digital-skills-heritage) 
-- [Getting Started with Online Learning (PDF)](https://www.heritagefund.org.uk/sites/default/files/media/attachments/Digital%20guide%20getting%20started%20with%20online%20learning.pdf) 
+- [Getting Started with Online Learning (PDF)](https://www.heritagefund.org.uk/sites/default/files/media/attachments/Digital%20guide%20getting%20started%20with%20online%20learning.pdf)
+- [Infrastructure Futures for Digital Cultural Heritage](https://zenodo.org/records/13710266) "The project explored the infrastructural needs and challenges associated with digital cultural heritage, aiming to understand current priorities, concerns, and hopes by imagining future possibilities through speculative design."
 - [IIIF for Beginners](https://iiif.io/get-started/how-iiif-works/) (IIIF Consortium) Clear explanation of how the International Image Interoperability Framework works and why it matters for sharing high-quality collection images.
 - [Introduction to IIIF Presentation API](https://iiif.io/api/presentation/3.0/) (IIIF Consortium) Technical but readable overview of how digital objects and metadata are structured for interoperable image delivery.
 - [Omeka Classic Documentation](https://omeka.org/classic/docs/) (Omeka) Practical documentation for building and publishing online collections and exhibitions with structured metadata.
