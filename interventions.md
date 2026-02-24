@@ -25,13 +25,12 @@ title: Interventions
 
 <details markdown="1"><summary>Resources</summary>
 
-add resources on digital sovereignty, US tech dominance, open source alternatives to major tools and systems, how to divest from using FANG systems, etc.
-
-[Authoritarian Stack](https://www.authoritarian-stack.info/)
-
+- add resources on digital sovereignty, US tech dominance, open source alternatives to major tools and systems, how to divest from using FANG systems, etc.
+- [Authoritarian Stack](https://www.authoritarian-stack.info/)
 - European Commission: [Shaping Europe’s Digital Future – Digital Sovereignty](https://digital-strategy.ec.europa.eu/en/policies/digital-sovereignty) Policy framing of technological autonomy, infrastructure control, and strategic dependencies.
 - Free Software Foundation: [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) Curated catalogue of free/open-source alternatives to proprietary platforms and tools.
 - Switching Software: [Ethical and Open Source Alternatives](https://switching.software/) Searchable guide to replacing common proprietary services with privacy-respecting and open alternatives.
+- [Briar Project](https://briarproject.org/) Secure messaging.
 
 </details>
 
@@ -91,10 +90,10 @@ Information must travel through something physical. It moves through wires (USB,
 <details markdown="1">
   <summary>
     Resources</summary>
-- [Khan Academy – Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) Accessible introduction to classical and modern cryptographic concepts.
-- [CryptoHack](https://cryptohack.org/) Interactive challenges for learning applied cryptography step by step.
-- [OWASP Top Ten](https://owasp.org/www-project-top-ten/) Widely used reference document outlining common web application security risks.
-- [Electronic Frontier Foundation – Surveillance Self-Defense](https://ssd.eff.org/) Practical guides for improving personal digital security.
+- Khan Academy: [Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) 
+- [CryptoHack](https://cryptohack.org/) 
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten/) Web application security risks.
+- [Electronic Frontier Foundation – Surveillance Self-Defense](https://ssd.eff.org/) Personal digital security.
 - [LASR Labs](https://www.lasrlabs.org/past-projects) 13-week research programme that aims to assist individuals in transitioning to full-time careers in AI Safety, and a repository of papers that have come out of the programme.
 
 </details>
@@ -104,11 +103,7 @@ Information must travel through something physical. It moves through wires (USB,
 <details markdown="1">
   <summary>
     Add a question</summary>
-- What would it mean to live, compute, or communicate without depending on centralised utilities or corporate platforms?
-- “Off-grid” can refer to energy (solar panels, batteries, micro-hydro), communications (mesh networks, local servers), or food and water systems.
-- Off-grid practices often combine technical skill with resilience thinking: reducing dependency, increasing repairability, and designing systems that degrade gracefully rather than collapse.
-- Small-scale renewable energy systems, local data storage, and community-owned infrastructure can shift power — materially and politically — toward users.
-- Off-grid does not necessarily mean isolation; it can also mean federated, decentralised, or community-controlled networks.
+- Add a response
 
 </details>
 
@@ -116,8 +111,8 @@ Information must travel through something physical. It moves through wires (USB,
   <summary>
     Resources</summary>
 - Low-tech Magazine: [Off-Grid Solar Guide](https://www.lowtechmagazine.com/solar/) Research-driven explorations of small-scale renewable systems.
-- [LibreSolar Project](https://libre.solar/) Open-source solar charge controllers and documentation for DIY energy systems.
-- [Briar Project](https://briarproject.org/) Peer-to-peer encrypted messaging app designed for resilience in low-connectivity or shutdown scenarios.
+- [LibreSolar Project](https://libre.solar/) 
+- Eco-Worthy [How to Build Off-Grid Solar](https://uk.eco-worthy.com/blogs/solar-panel-system/off-grid-solar-installation-guide)
 
 </details>
 
@@ -126,20 +121,19 @@ Information must travel through something physical. It moves through wires (USB,
 <details markdown="1">
   <summary>
     Add a question</summary>
-- What forgotten, obsolete, or marginal technologies shape the systems we now take for granted?
-- Media archaeology studies the layered history of media technologies: telegraphs, gramophones, early computers, analogue video synthesisers, floppy disks.
-- It treats devices not just as tools but as cultural artefacts embedded in political, economic, and sensory histories.
-- By opening and restoring old hardware, emulating legacy software, or studying defunct networks, we learn how current infrastructures emerged — and how they might have evolved differently.
-- Media archaeology often combines archival research with hands-on reconstruction and experimentation.
+- Answer
 
 </details>
 
 <details markdown="1">
   <summary>
     Resources</summary>
-- Media Archaeology Lab: [University of Colorado Boulder](https://mediaarchaeologylab.com/) Collection of functioning historical computing systems and teaching materials.
-- Internet Archive: [Software Collection](https://archive.org/details/software) Emulated legacy software and operating systems accessible via browser.
+-  [Media Archaeology Lab](https://mediaarchaeologylab.com/)
+- [Dead Tech Lib](https://www.sussex.ac.uk/broadcast/read/68364)  
+- Internet Archive: [Software Collection](https://archive.org/details/software) 
 - SIGGRAPH Digital Art Archive: [History Resources](https://history.siggraph.org/) Documentation of early digital art and computing experiments.
+- [Jussi Parikka](https://jussiparikka.net/category/media-archaeology/)
+- Ben Roberts and Mark Goodall (eds), [New Media Archaeologies](https://www.routledge.com/New-Media-Archaeologies/Roberts-Goodall/p/book/9781041183549)
 
 </details>
 
