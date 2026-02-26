@@ -32,6 +32,7 @@ title: Interventions
 - Switching Software: [Ethical and Open Source Alternatives](https://switching.software/) 
 - [Briar Project](https://briarproject.org/) Secure messaging.
 - [Prism Break](https://prism-break.org/en/) - anti-surveillance alternatives
+- [King Avriel](https://www.instagram.com/kingavriel?igsh=MWIzbHV2Y3YwN2d0OQ==) Videos about de-Googlifying everyday life and other topics
 
 </details>
 
