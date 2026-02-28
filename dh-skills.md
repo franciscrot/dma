@@ -385,8 +385,6 @@ Physical computing connects digital research to material devices and environment
 
 ## Building a website {#building-website}
 
-Nowadays 'building a website' might also include building a simple int
-
 <detail markdown="1">
   
 <summary>How do I create a website?</summary>
