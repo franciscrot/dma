@@ -386,10 +386,13 @@ Physical computing connects digital research to material devices and environment
 ## Building a website {#building-website}
 
 <detail markdown="1">
+  
 <summary>How do I create a website?</summary>
+
 - All-in-one website builders – Services like Wix and Squarespace let you choose a template, edit content visually, and they handle hosting and updates for you. Easy enough for beginners who want something fast, simple, and low-maintenance. It will cost you, especially if you don't want ads.
 - Use the "hosted" version of WordPress, which is similar to Wix and Squarespace, or blogging platforms like Blogger. Hosted You choose a theme (template) and they host it for you, but with more blogging tools and plugin options.
 - Self-hosted WordPress – You can also use WordPress in a different way. WordPress (installed via a hosting company) gives you much more control and flexibility than an all-in-one-service, but you are responsible for managing hosting, updates, and security.
+- Omeka is a website platform especially designed for galleries, libraries, archives, and museums. You install it (or use Omeka.net), choose a theme, and upload items with structured metadata. Good if you want to publish digital collections or exhibitions without building everything from scratch.
 - Build and host it yourself (static site) – Create simple HTML, CSS, and JavaScript files and host them with a service like GitHub Pages; best if you want full control, very low cost, and are happy to learn some basics. A static site doesn't mean it's non-interactive.
 - To create a simple static website, you mainly need basic HTML (structure), CSS (styling), and optionally a little JavaScript (interaction), then upload the files to a repository and enable GitHub Pages.
 - **GitHub** – A web platform for storing and collaborating on code, owned by Microsoft.
