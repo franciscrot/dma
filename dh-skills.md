@@ -385,10 +385,11 @@ Physical computing connects digital research to material devices and environment
 
 ## Building a website {#building-website}
 
-<detail markdown="1">
-  
-<summary>How do I create a website?</summary>
+See also 'Developer foundations' below.
 
+<detail markdown="1">
+  <summary>How do I create a website?</summary>
+  
 - All-in-one website builders – Services like Wix and Squarespace let you choose a template, edit content visually, and they handle hosting and updates for you. Easy enough for beginners who want something fast, simple, and low-maintenance. It will cost you, especially if you don't want ads.
 - Use the "hosted" version of WordPress, which is similar to Wix and Squarespace, or blogging platforms like Blogger. Hosted You choose a theme (template) and they host it for you, but with more blogging tools and plugin options.
 - Self-hosted WordPress – You can also use WordPress in a different way. WordPress (installed via a hosting company) gives you much more control and flexibility than an all-in-one-service, but you are responsible for managing hosting, updates, and security.
