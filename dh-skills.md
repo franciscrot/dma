@@ -16,6 +16,7 @@ title: DH+ Skills
 - **Visual methods and more** - Visualisation for exploration or for explanation
 - **Spatial methods** - Maps and more
 - **Physical computing** - Making things happen with code
+- **Building a website** - Creating a simple website or web app
 - **Development foundations** - GitHub and more
 
 
@@ -382,6 +383,45 @@ Physical computing connects digital research to material devices and environment
 
 </details>
 
+## Building a website {#building-website}
+
+<detail markdown="1">
+<summary>How do I create a website?</summary>
+- All-in-one website builders – Services like Wix and Squarespace let you choose a template, edit content visually, and they handle hosting and updates for you. Easy enough for beginners who want something fast, simple, and low-maintenance. It will cost you, especially if you don't want ads.
+- Use the "hosted" version of WordPress, which is similar to Wix and Squarespace, or blogging platforms like Blogger. Hosted You choose a theme (template) and they host it for you, but with more blogging tools and plugin options.
+- Self-hosted WordPress – You can also use WordPress in a different way. WordPress (installed via a hosting company) gives you much more control and flexibility than an all-in-one-service, but you are responsible for managing hosting, updates, and security.
+- Build and host it yourself (static site) – Create simple HTML, CSS, and JavaScript files and host them with a service like GitHub Pages; best if you want full control, very low cost, and are happy to learn some basics. A static site doesn't mean it's non-interactive.
+- To create a simple static website, you mainly need basic HTML (structure), CSS (styling), and optionally a little JavaScript (interaction), then upload the files to a repository and enable GitHub Pages.
+- **GitHub** – A web platform for storing and collaborating on code, owned by Microsoft.
+- **Forge** – Any platform that hosts code repositories and collaboration tools; GitHub is one example, alongside competitors like GitLab and Bitbucket, as well as the open-source, community-run Codeberg.
+- **GitHub Pages** – A feature of GitHub that hosts and serves a static website (HTML, CSS, JavaScript) directly from a repository, making it publicly accessible on the web.
+- **GitHub Actions** – A built-in automation tool that can automatically test, build, or deploy your project.
+- **Jekyll** – A simple static site generator (written in Ruby) that turns plain text files into a complete website.
+- **Jekyll with GitHub Pages** – GitHub Pages can automatically run Jekyll for you, so when you push content (e.g. Markdown files), it builds and publishes your site.
+- To create a simple in-browser web app, you’ll rely mostly on JavaScript because the code must run directly in the user’s browser without a separate server.
+- A repository or **repo** just means your project folder stored online. It's where the code and everything is kept. When you **push**, you send changes from your computer to that repo. If you're using GitHub Actions, it can then do things like automatically test your app, check your code, or rebuild and redeploy your site whenever you push updates.
+- **Programming languages** – The easiest starting point for GitHub Pages is plain HTML, CSS, and JavaScript (they run directly in the browser); to include Python, you’d either use it to generate static files before publishing or connect your site to a separate Python server hosted elsewhere.
+</details>
+
+<details markdown="1"><summary>Resources</summary>
+
+- Programming Historian: [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) — “This lesson will help you create entirely free, easy-to-maintain, preservation-friendly, secure website over which you have full control.”  
+- Programming Historian: [Running a Collaborative Research Website and Blog with Jekyll and GitHub](https://programminghistorian.org/en/lessons/running-a-collaborative-research-website-and-blog-with-jekyll-and-github) — “This lesson introduces the challenges and opportunities that Jekyll offers for publishing collaborative, ongoing research online.”  
+- GitHub Skills: [Introduction to GitHub](https://github.com/skills/introduction-to-github) — Guided mini-course: repos, commits, PRs, collaboration.  
+- [GitHub](https://github.com)
+- [Codeberg](https://codeberg.org)  
+- [GitHub Pages](https://pages.github.com)  
+- [GitHub Actions](https://github.com/features/actions)  
+- [Jekyll](https://jekyllrb.com)  
+- [Wix](https://www.wix.com)  
+- [Squarespace](https://www.squarespace.com)  
+- [WordPress.com (hosted)](https://wordpress.com)  
+- [WordPress.org (self-hosted software)](https://wordpress.org)  
+- [GitLab](https://about.gitlab.com)  
+- [Bitbucket](https://bitbucket.org)  
+
+</details>
+
 ## Development foundations {#development-foundations}
 
 Development foundations introduce collaborative practices that make digital projects sustainable. Version control and shared workflows support transparency, accountability, and collective scholarship.
@@ -396,7 +436,7 @@ Python can also run on small, inexpensive computers like a Raspberry Pi. A Raspb
 
 b) Another relatively simple way is to put your code in a Google Colab notebook. A notebook is a document that mixes explanation, code, and output. Someone else can open it, read it like a worked example, and re-run the code step by step. With Google Colab, this happens entirely in a web browser, which makes it one of the easiest ways to share runnable code. Here’s an example, which is also an introduction to topic modelling.
 
-c) GitHub (a place to store and share code). GitHub is a platform where people store code files and keep track of changes over time. At a basic level, it’s a place to put files so others can download them, use them, see how they work, create their own versions, etc.
+c) GitHub (a place to store and share code). GitHub is a platform where people store code files and keep track of changes over time. At a basic level, it’s a place to put files so others can download them, use them, see how they work, create their own versions, etc. Another example is CodeBerg.
 
 d) Simple websites or browser-based tools. In some cases, code can be put in a website so that people can interact with it through their browser, without seeing the code at all. This doesn’t require becoming a fully fledged web developer - it’s often about using existing tools to expose something you’ve already made. (GitHub Pages can host simple web pages. There are tools like Streamlit and Flask which can help you turn Python scripts into interactive web sites).
 
