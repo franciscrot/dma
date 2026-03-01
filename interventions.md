@@ -33,6 +33,7 @@ title: Interventions
 - [Briar Project](https://briarproject.org/) Secure messaging.
 - [Prism Break](https://prism-break.org/en/) - anti-surveillance alternatives
 - [King Avriel](https://www.instagram.com/kingavriel?igsh=MWIzbHV2Y3YwN2d0OQ==) Videos about de-Googlifying everyday life and other topics
+- [Guardian article - How to replace Big Tech: Amazon Google X Meta Apple Alternatives](https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives)
 
 </details>
 
@@ -41,7 +42,7 @@ title: Interventions
 <details markdown="1"><summary>How do the objects around us communicate with each other and with bigger systems?</summary>
 
 - We are surrounded by invisible conversations between objects. Doors, phones, cars, printers, speakers, smart meters, routers, and other devices are constantly exchanging information.
-Information must travel through something physical. It moves through wires (USB, Ethernet), light (a TV remote’s infrared flashes), or radio waves (Wi-Fi, Bluetooth, car key fobs).
+Information must travel through something physical. It moves through wires (USB, Ethernet), light (a TV remote’s infrared fl)ashes), or radio waves (Wi-Fi, Bluetooth, car key fobs).
 - The **Flipper Zero** is an example of a device for experimenting with these signals. It can read and generate infrared, RFID, NFC, and certain sub-GHz radio signals, helping make invisible systems visible.
 - **Security research** is learning how these layers, signals, and infrastructures fit together, then testing them safely and legally. You observe, measure, document, and question assumptions — usually on your own devices or with permission.
 - A **signal** is simply timed changes — flashes of light, pulses of voltage, bursts of radio. Meaning comes from the pattern.
