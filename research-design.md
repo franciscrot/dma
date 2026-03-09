@@ -83,6 +83,7 @@ Also check out the data science section under DH Skills.
 
 - Programming Historian: Interrogating a National Narrative with GPT-2. "In this lesson, you will learn how to apply a Generative Pre-trained Transformer language model to a large-scale corpus so that you can locate broad themes and trends within written text."
 - Programming Historian: Facial Recognition in Historical Photographs with Artificial Intelligence in Python. "In this lesson, you’ll learn computer vision and machine learning principles for object recognition, and how to apply these principles using Python to recognize and classify smiling faces in historical photographs."
+- [No One Is Disposable](https://nooneisdisposable.org/) - Resources on reparative justice and more
 </details>
 
 ## Preservation {#preservation}
