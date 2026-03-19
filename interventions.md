@@ -37,6 +37,12 @@ title: Interventions
 
 </details>
 
+## Digital forensics {#digital-sovereignty}
+
+<details markdown="1"><summary>Is deleted data really gone?</summary>
+
+- Digital forensics resources
+
 ## Security and IOT {#security-IOT}
 
 <details markdown="1"><summary>How do the objects around us communicate with each other and with bigger systems?</summary>
