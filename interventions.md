@@ -37,11 +37,15 @@ title: Interventions
 
 </details>
 
-## Digital forensics {#digital-sovereignty}
+## Digital forensics {#digital-forensics}
 
 <details markdown="1"><summary>Is deleted data really gone?</summary>
+  - Digital forensics resources
+</details>
 
-- Digital forensics resources
+  <details markdown="1"><summary>Resources</summary>
+
+- add resources
 
 </details>
 
