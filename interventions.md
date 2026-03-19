@@ -43,6 +43,8 @@ title: Interventions
 
 - Digital forensics resources
 
+</details>
+
 ## Security and IOT {#security-IOT}
 
 <details markdown="1"><summary>How do the objects around us communicate with each other and with bigger systems?</summary>
