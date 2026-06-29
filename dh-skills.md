@@ -93,6 +93,9 @@ Web scraping is one important way to gather data. Other methods include conducti
 - 4CAT: [The 4CAT Capture & Analysis Toolkit](https://4cat.nl/) — A web-based research tool for collecting and analysing data from online platforms, designed for researchers, students, and journalists without necessarily requiring programming skills.
 - GitHub: [4CAT Capture and Analysis Toolkit](https://github.com/digitalmethodsinitiative/4cat) — Source code and installation information for 4CAT.
 - Digital Methods Initiative: [4CAT tool page](https://www.digitalmethods.net/Dmi/Tool4CAT) — DMI’s overview of 4CAT, including its use for creating datasets from platforms such as Reddit, Telegram, 4chan, and others.
+- TeleCatch: [TeleCatch GitHub repository](https://github.com/labaffa/telecatch) — A web application and REST API for managing, filtering, visualising, and extracting Telegram messages.
+- CGSpace: [TeleCatch: manage and analyze Telegram data](https://cgspace.cgiar.org/items/d6b49ebe-4411-44f3-967f-d3cbaa44b91f) — Project description for TeleCatch as a tool for managing and analysing Telegram data.
+- ResearchGate / Software Impacts: [TeleCatch: An open-access software for visualizing, filtering and extracting Telegram messages data](https://www.researchgate.net/publication/387467807_TeleCatch_An_open-access_software_for_visualizing_filtering_and_extracting_Telegram_messages_data) — Software paper describing TeleCatch.
 - GitHub: [Zeeschuimer](https://github.com/digitalmethodsinitiative/zeeschuimer) — A browser extension for collecting social media data while browsing, often used in combination with 4CAT.
 - Public Data Lab: [Zeehaven / Zeeschuimer note](https://publicdatalab.org/tag/digital-methods-initiative/) — Short explanation of Zeeschuimer as a DMI browser extension for collecting social media data.
 - 4CAT tutorials: Creating a dataset with 4CAT — A useful introductory tutorial for building a dataset in 4CAT.
@@ -209,6 +212,11 @@ Text and cultural analytics explore computational approaches to studying languag
 - Programming Historian: [Keywords in Context (Using n-grams) with Python](https://programminghistorian.org/en/lessons/keywords-in-context-using-n-grams). “This lesson takes the frequency pairs collected in ‘Counting Frequencies’ and outputs them in HTML.”
 - Programming Historian: [Output Keywords in Context in an HTML File with Python](https://programminghistorian.org/en/lessons/output-keywords-in-context-in-html-file). “This lesson builds on ‘Keywords in Context (Using N-grams)’, where n-grams were extracted from a text.”
 - Programming Historian: [Counting Word Frequencies with Python](https://programminghistorian.org/en/lessons/counting-frequencies). “Counting the frequency of specific words in a list can provide illustrative data. This lesson will teach you Python’s easy way to count such frequencies.”
+- - ConvoKit: [Cornell Conversational Analysis Toolkit](https://convokit.cornell.edu/) — A Python toolkit for extracting conversational features and analysing social phenomena in conversations.
+- GitHub: [ConvoKit](https://github.com/CornellNLP/ConvoKit) — Source code and documentation for the ConvoKit toolkit.
+- Chang et al.: [ConvoKit: A Toolkit for the Analysis of Conversations](https://aclanthology.org/2020.sigdial-1.8/) — Academic paper introducing ConvoKit.
+- Tutorial: [Conversational Analysis with ConvoKit](https://convokit.cornell.edu/documentation/tutorial.html)
+- DMI tutorial: Natural language processing for digital methods research using 4CAT — A tutorial on applying NLP methods to platform data collected or processed in 4CAT.
 - Jo Lindsay Walton: [Introduction to Close Reading](https://youtu.be/2mVek-oCZt8?si=xqoufVtRDhfrE1Qz)
 
 </details>
