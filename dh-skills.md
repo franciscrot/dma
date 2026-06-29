@@ -9,7 +9,7 @@ title: DH+ Skills
 - **Data collection** - What do you want to study?
 - **Digitisation and OCR** - Part of data collection
 - **Data cleaning** - Getting data ready for automated analysis
-- **Text and cultural analytics** - Topic modelling and more
+- **Text and cultural analytics** - Topic modelling, platform research, and more
 - **Networked culture** - Network analysis and more
 - **Cultural heritage foundations** - Curation and archiving
 - **Digital collections, digital editions, & preservation** - Creating digital resources
@@ -86,7 +86,16 @@ Web scraping is one important way to gather data. Other methods include conducti
 
 <details markdown="1">
 <summary>Resources</summary>
-  
+
+- Digital Methods Initiative: [Digital Methods Tools Directory](http://tools.digitalmethods.net/) — A directory of tools for internet research, platform studies, social media analysis, search engine research, and related digital methods.
+- Digital Methods Initiative: [Digital Methods Initiative GitHub](https://github.com/digitalmethodsinitiative) — Repositories for DMI tools, including 4CAT and Zeeschuimer.
+- Digital Methods Initiative: [Digital Methods Summer School 2026 project reports](https://wiki.digitalmethods.net/Dmi/SummerSchool2026) — Reports from the 2026 Summer School, useful as examples of data sprint projects and applied digital methods.
+- 4CAT: [The 4CAT Capture & Analysis Toolkit](https://4cat.nl/) — A web-based research tool for collecting and analysing data from online platforms, designed for researchers, students, and journalists without necessarily requiring programming skills.
+- GitHub: [4CAT Capture and Analysis Toolkit](https://github.com/digitalmethodsinitiative/4cat) — Source code and installation information for 4CAT.
+- Digital Methods Initiative: [4CAT tool page](https://www.digitalmethods.net/Dmi/Tool4CAT) — DMI’s overview of 4CAT, including its use for creating datasets from platforms such as Reddit, Telegram, 4chan, and others.
+- GitHub: [Zeeschuimer](https://github.com/digitalmethodsinitiative/zeeschuimer) — A browser extension for collecting social media data while browsing, often used in combination with 4CAT.
+- Public Data Lab: [Zeehaven / Zeeschuimer note](https://publicdatalab.org/tag/digital-methods-initiative/) — Short explanation of Zeeschuimer as a DMI browser extension for collecting social media data.
+- 4CAT tutorials: Creating a dataset with 4CAT — A useful introductory tutorial for building a dataset in 4CAT.
 - Programming Historian: [Downloading Web Pages with Python](https://programminghistorian.org/en/lessons/working-with-web-pages). “This lesson introduces Uniform Resource Locators (URLs) and explains how to use Python to download and save the contents of a web page to your local hard drive.”
 - Programming Historian: [Downloading Multiple Records Using Query Strings](https://programminghistorian.org/en/lessons/downloading-multiple-records-using-query-strings). “In this lesson, we will write a program that will download a series of records from the Old Bailey Online using custom search criteria.”
 - Programming Historian: [Automated Downloading with Wget](https://programminghistorian.org/en/lessons/automated-downloading-with-wget). “Wget is a useful program, run through your computer’s command line, for retrieving online material.”
@@ -168,6 +177,18 @@ Text and cultural analytics explore computational approaches to studying languag
 <details markdown="1">
 <summary>Resources</summary>
 
+- 4CAT tutorials: Analysing a dataset using processors — A tutorial on using 4CAT processors to transform and analyse collected platform data.
+- 4CAT tutorials: Installing 4CAT via Docker — A more technical setup tutorial for running 4CAT.
+- 4CAT tutorial: Natural language processing for digital methods research using 4CAT — A tutorial on using 4CAT for NLP-style platform analysis.
+- Kenniskrabber: Scraping Google AI Overviews and AI Mode — A DMI Summer School tutorial on collecting and studying AI-generated search results.
+- YouTube Data Tools: [YouTube Data Tools](https://labs.polsys.net/tools/youtube/) — Bernhard Rieder’s toolset for extracting data from YouTube via the YouTube API, including channel, video, and network-oriented modules.
+- Aarhus CDMM: [YouTube Data Tools tutorial](https://cc.au.dk/en/cdmm/tools-and-tutorials/data-collection/youtube-data-tools) — Tutorial material explaining how the individual modules in YouTube Data Tools work.
+- Digital Methods: Social Media Research with Digital Methods — A general tutorial on platform research using digital methods.
+- Digital Methods: Studying ‘Fake News’ — A tutorial on studying contested, misleading, or problematic online information.
+- Digital Methods: How to Structure Data for Analysis and Visualization — A tutorial on preparing platform data so it can be analysed or visualised.
+- Venturini, Bounegru, Gray, and Rogers: [A Reality Check(list) for Digital Methods](https://journals.sagepub.com/doi/abs/10.1177/1461444818769236) — A methodological checklist for thinking critically about the promises and limits of digital methods.
+- Jonathan Gray: [A Reality Check(list) for Digital Methods](https://jonathangray.org/2018/04/24/reality-checklist-digital-methods/) — Short public-facing post about the article, with links and context.
+- Digital research tools: [List of Digital Research Tools](http://bit.ly/digital-research-tools) — A general list of digital research tools for data-driven, social media, and internet-related research.
 - Programming Historian: [Corpus Analysis with Voyant Tools](https://programminghistorian.org/en/lessons/corpus-analysis-voyant-tools). “In this lesson, you will learn how to organise a set of texts into a corpus and perform some basic linguistic analysis using the Voyant Tools platform.”
 - Programming Historian: [Corpus Analysis with spaCy](https://programminghistorian.org/en/lessons/corpus-analysis-with-spacy). “This lesson demonstrates how to use the Python library spaCy for analysis of large collections of texts.”
 - Programming Historian: [Corpus Analysis with AntConc](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc). “Corpus analysis is a form of text analysis which allows you to make comparisons between textual objects at a large scale (so-called ‘distant reading’).”
